@@ -13,7 +13,7 @@ request('https://www.relaischateaux.com/us/destinations/europe/france', (error, 
     //console.log(output);
   }
 })
-
+//https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin/https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin/hotel-restaurant
 request('https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin', (error, response, html)=> {
   if(!error && response.statusCode == 200) {
     const $ = cheerio.load(html);
