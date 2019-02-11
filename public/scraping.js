@@ -1,8 +1,8 @@
 const request = require('request');
 const cheerio = require('cheerio');
 const fs = require('fs');
-const writeStream = fs.createWriteStream('output.js');
-
+const writeStream = fs.createWriteStream('relais.csv');
+writeStream.write(`Resto\n`);
 
 request('https://www.relaischateaux.com/us/site-map/etablissements', function (error, response, html) {
   if (!error && response.statusCode == 200) {
@@ -53,14 +53,17 @@ request('https://www.relaischateaux.com/us/site-map/etablissements', function (e
                     //console.log(nomRestaurant);
                     var string = nomRestaurant.replace(/\s\s+/g, " ");
                     //console.log(string);
+                    writeStream.write(`${string}\n`);
                   })
                 }
                   else{
-                    const restos = c('hotelTabsHeaderTitle');
-                    var nomRestaurant = restos.children().find('h3').text();
-                    console.log(nomRestaurant);
-                    var string = nomRestaurant.replace(/\s\s+/g, " ");
-                    //console.log(string);
+                    const restos = c('.hotelTabsHeaderTitle');
+                    var nomRestaurant = restos.find('h3').text();
+                    //console.log(nomRestaurant);
+                    var string2 = nomRestaurant.replace(/\s\s+/g, " ");
+
+                    writeStream.write(`${string2}\n`);
+                    //console.log(string2);
                   }
                 }
               });
