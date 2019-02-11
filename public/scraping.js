@@ -3,84 +3,83 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const writeStream = fs.createWriteStream('output.js');
 
-/*
+
 request('https://www.relaischateaux.com/us/site-map/etablissements', function (error, response, html) {
   if (!error && response.statusCode == 200) {
     var $ = cheerio.load(html);
     const hotels = $('#countryF');
     //const france = hotels.next().html();
     //console.log(france);
-    const list = hotels.next().children().next();
+    const list = hotels.next().first().children().next();
     //console.log(list.html());
     list.children().children().each(function(i, element){
       var a = $(this);
       var title = a.text();
       var url = a.attr('href');
       var str = title.replace(/\s\s+/g, " ")
-
       // Our parsed meta data object
       var metadata = {
         title: str,
         url: url
       };
       //console.log(a.html());
-      console.log(metadata);
-    });
-  }
-});*/
+    //  console.log(metadata);
 
-request('https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin', function (error, response, html) {
-  if (!error && response.statusCode == 200) {
-    var $ = cheerio.load(html);
-    const hotels = $('.poi-search-result');
-    //const france = hotels.next().html();
-    //console.log(france);
-    const list = hotels.find('block__content');
-    //console.log(hotels.html());
-    hotels.children().children().each(function(i, element){
-      var a = $(this).children();
-      var title = a.parent().attr('attr-gtm-title');
-      var url = 'https://restaurant.michelin.fr' + a.attr('href');
-      //var str = title.replace(/\s\s+/g, " ")
+/* SCRAPING THE HOTEL PAGES*/
+    //SECOND REQUEST
+     request(url, function (error, response, html) {
+        if (!error && response.statusCode == 200) {
+          var s = cheerio.load(html);
+          const rest = s('.jsSecondNavMain');
+          const list = rest.children().next().find('a').first();
+          var urlRestaurant = list.attr('href');
+          //console.log(urlRestaurant);
 
-      // Our parsed meta data object
-      var metadata = {
-        title: title,
-        url: url
-      };
-      console.log(metadata);
-      //console.log(a.html());
+          if(typeof urlRestaurant !== 'undefined' && urlRestaurant.match("restaurant")){
+
+            // THIRD REQUEST
+            request(urlRestaurant, function (error, response, html) {
+              if (!error && response.statusCode == 200) {
+                var c = cheerio.load(html);
+                const restos = c('.jsSecondNavSub');
+                if(restos.length >0){
+                  const listrestos = restos.children();
+                  //console.log(restos.html());
+                  listrestos.each(function(i, element){
+                    var l = c(this);
+                    //console.log(l.html());
+
+                    var nomRestaurant = l.find('a').first().text();
+                    //console.log(nomRestaurant);
+                    var string = nomRestaurant.replace(/\s\s+/g, " ");
+                    //console.log(string);
+                  })
+                }
+                  else{
+                    const restos = c('hotelTabsHeaderTitle');
+                    var nomRestaurant = restos.children().find('h3').text();
+                    console.log(nomRestaurant);
+                    var string = nomRestaurant.replace(/\s\s+/g, " ");
+                    //console.log(string);
+                  }
+                }
+              });
+          //END THIRD REQUEST
+
+
+          var hotelWithRestaurant = {
+            title: str,
+            urlhotel: url,
+            urlrestau: urlRestaurant
+          };
+          //console.log(hotelWithRestaurant);
+
+        }
+        }
+      });
+
+      //END SECOND REQUEST
+
     });
   }
 });
-
-
-var step;
-for(step = 2; step < 36; step ++)
-{
-  var link = 'https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin/page-' + step;
-  request(link, function (error, response, html) {
-    if (!error && response.statusCode == 200) {
-      var $ = cheerio.load(html);
-      const hotels = $('.poi-search-result');
-      //const france = hotels.next().html();
-      //console.log(france);
-      const list = hotels.find('block__content');
-      //console.log(hotels.html());
-      hotels.children().children().each(function(i, element){
-        var a = $(this).children();
-        var title = a.parent().attr('attr-gtm-title');
-        var url = 'https://restaurant.michelin.fr' + a.attr('href');
-        //var str = title.replace(/\s\s+/g, " ")
-
-        // Our parsed meta data object
-        var metadata = {
-          title: title,
-          url: url
-        };
-        console.log(metadata);
-        //console.log(a.html());
-      });
-    }
-  });
-}
