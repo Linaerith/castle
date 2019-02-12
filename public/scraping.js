@@ -49,12 +49,42 @@ request('https://www.relaischateaux.com/us/site-map/etablissements', function (e
                     var l = c(this);
                     //console.log(l.html());
 
-                    var nomRestaurant = l.find('a').first().text();
+                    var nomRestaurant = l.find('a').first();
+                    var name = nomRestaurant.text();
                     //console.log(nomRestaurant);
-                    var string = nomRestaurant.replace(/\s\s+/g, " ");
+                    var string = name.replace(/\s\s+/g, " ");
                     //console.log(string);
-                    writeStream.write(`${string}\n`);
-                  })
+/* FOURTH REQUEST*/
+                    if(string.match("Other restaurants")){
+
+                      var urlother = nomRestaurant.attr('href');
+                      //console.log(urlother);
+                      request(urlother, function (error, response, html) {
+                        if (!error && response.statusCode == 200) {
+                          var o = cheerio.load(html);
+                          const restos = o('.hotelTabsHeaderTitle');
+                          //mainTitle2.noVerticalMargin.other-restaurant-title
+                          restos.each(function(i, element){
+                            var li = o(this);
+                            //console.log(li.html());
+
+                            var nomRestaurant = li.find('h3').text();
+                            //console.log(nomRestaurant);
+                            var string = nomRestaurant.replace(/\s\s+/g, " ");
+                            //console.log(string);
+                            writeStream.write(`${string}\n`);
+                              //console.log(string2);
+                            });
+                          }
+                        });
+                  }
+                  else{
+                  writeStream.write(`${string}\n`);
+                }
+
+
+          /*      END FORTH REQUEST*/
+                })
                 }
                   else{
                     const restos = c('.hotelTabsHeaderTitle');

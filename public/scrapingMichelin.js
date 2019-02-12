@@ -1,13 +1,12 @@
 const request = require('request');
 const cheerio = require('cheerio');
 const fs = require('fs');
-const writeStream = fs.createWriteStream('output.js');
+
+const writeStream = fs.createWriteStream('michelin.csv');
+writeStream.write(`Restaurant, Url\n`);
 
 //var data_restaurants = [];
 
-var obj = {
-   table: []
-};
 
 request('https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin', function (error, response, html) {
   if (!error && response.statusCode == 200) {
@@ -30,12 +29,12 @@ request('https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-
       };
       //var metaJSON = JSON.stringify(metadata);
       //obj.push(metaJSON);
-      obj.table.push(metadata);
+      //obj.table.push(metadata);
+      writeStream.write(`${str}, ${url}\n`);
     });
   }
 });
 
-console.log(obj);
 
 var step;
 for(step = 2; step < 36; step ++)
@@ -62,8 +61,11 @@ for(step = 2; step < 36; step ++)
         };
         //var metaJSON = JSON.stringify(metadata);
         //obj.push(metaJSON);
-        obj.table.push(metadata);
+        //obj.table.push(metadata);
         //console.log(metaJSON);
+
+
+        writeStream.write(`${str}, ${url}\n`);
       });
     }
   });
