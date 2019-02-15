@@ -2,9 +2,11 @@ const request = require('request');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const writeStream = fs.createWriteStream('relais.csv');
-writeStream.write(`Resto\n`);
+writeStream.write(`Hotel; Restaurants; Url\n`);
 
-request('https://www.relaischateaux.com/us/site-map/etablissements', function (error, response, html) {
+(async function() {
+  try{
+const main = await request('https://www.relaischateaux.com/us/site-map/etablissements', function (error, response, html) {
   if (!error && response.statusCode == 200) {
     var $ = cheerio.load(html);
     const hotels = $('#countryF');
@@ -27,7 +29,9 @@ request('https://www.relaischateaux.com/us/site-map/etablissements', function (e
 
 /* SCRAPING THE HOTEL PAGES*/
     //SECOND REQUEST
-     request(url, function (error, response, html) {
+    (async function() {
+      try{
+    const main = await request(url, function (error, response, html) {
         if (!error && response.statusCode == 200) {
           var s = cheerio.load(html);
           const rest = s('.jsSecondNavMain');
@@ -38,7 +42,9 @@ request('https://www.relaischateaux.com/us/site-map/etablissements', function (e
           if(typeof urlRestaurant !== 'undefined' && urlRestaurant.match("restaurant")){
 
             // THIRD REQUEST
-            request(urlRestaurant, function (error, response, html) {
+            (async function() {
+              try{
+            const main = await request(urlRestaurant, function (error, response, html) {
               if (!error && response.statusCode == 200) {
                 var c = cheerio.load(html);
                 const restos = c('.jsSecondNavSub');
@@ -59,7 +65,9 @@ request('https://www.relaischateaux.com/us/site-map/etablissements', function (e
 
                       var urlother = nomRestaurant.attr('href');
                       //console.log(urlother);
-                      request(urlother, function (error, response, html) {
+                      (async function() {
+                        try{
+                      const main = await  request(urlother, function (error, response, html) {
                         if (!error && response.statusCode == 200) {
                           var o = cheerio.load(html);
                           const restos = o('.hotelTabsHeaderTitle');
@@ -72,14 +80,19 @@ request('https://www.relaischateaux.com/us/site-map/etablissements', function (e
                             //console.log(nomRestaurant);
                             var string = nomRestaurant.replace(/\s\s+/g, " ");
                             //console.log(string);
-                            writeStream.write(`${string}\n`);
+                            writeStream.write(`${str}; ${string}\n`);
                               //console.log(string2);
                             });
                           }
                         });
+                      }
+                      catch (e) {console.log('error',e);
+                      }
+
+                      })();
                   }
                   else{
-                  writeStream.write(`${string}\n`);
+                  writeStream.write(`${str}; ${string}; ${url}\n`);
                 }
 
 
@@ -92,11 +105,16 @@ request('https://www.relaischateaux.com/us/site-map/etablissements', function (e
                     //console.log(nomRestaurant);
                     var string2 = nomRestaurant.replace(/\s\s+/g, " ");
 
-                    writeStream.write(`${string2}\n`);
+                    writeStream.write(`${str};${string2}; ${url}\n`);
                     //console.log(string2);
                   }
                 }
               });
+            }
+            catch (e) {console.log('error',e);
+            }
+
+            })();
           //END THIRD REQUEST
 
 
@@ -110,9 +128,19 @@ request('https://www.relaischateaux.com/us/site-map/etablissements', function (e
         }
         }
       });
+    }
+    catch (e) {console.log('error',e);
+    }
+
+    })();
 
       //END SECOND REQUEST
 
     });
   }
 });
+}
+catch (e) {console.log('error',e);
+}
+
+})();

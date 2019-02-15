@@ -3,9 +3,8 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 
 const writeStream = fs.createWriteStream('michelin.csv');
-writeStream.write(`Restaurant, Url\n`);
+writeStream.write(`Restaurant; UrlMichelin\n`);
 
-//var data_restaurants = [];
 
 
 request('https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin', function (error, response, html) {
@@ -27,10 +26,8 @@ request('https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-
         title: str,
         url: url
       };
-      //var metaJSON = JSON.stringify(metadata);
-      //obj.push(metaJSON);
-      //obj.table.push(metadata);
-      writeStream.write(`${str}, ${url}\n`);
+
+      writeStream.write(`${str}; ${url}\n`);
     });
   }
 });
@@ -59,20 +56,10 @@ for(step = 2; step < 36; step ++)
           title: str,
           url: url
         };
-        //var metaJSON = JSON.stringify(metadata);
-        //obj.push(metaJSON);
-        //obj.table.push(metadata);
-        //console.log(metaJSON);
 
 
-        writeStream.write(`${str}, ${url}\n`);
+        writeStream.write(`${str}; ${url}\n`);
       });
     }
   });
 }
-
-//console.log(obj);
-
-/*for(var i = 0; i< data_restaurants.length; i++){
-  console.log(data_restaurants[i]);
-}*/
