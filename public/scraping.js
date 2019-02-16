@@ -2,7 +2,7 @@ const request = require('request');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const writeStream = fs.createWriteStream('relais.csv');
-writeStream.write(`Hotel; Restaurants; Url\n`);
+writeStream.write(`Hotel; Price; Restaurants; Url\n`);
 
 (async function() {
   try{
@@ -19,6 +19,13 @@ const main = await request('https://www.relaischateaux.com/us/site-map/etablisse
       var title = a.text();
       var url = a.attr('href');
       var str = title.replace(/\s\s+/g, " ")
+      console.log(a.next().first().html());
+
+
+/* METTRE NOM DE CHEF ICI
+      var chiefname = a.next().first().text();
+      console.log(chiefname);*/
+
       // Our parsed meta data object
       var metadata = {
         title: str,
@@ -38,6 +45,12 @@ const main = await request('https://www.relaischateaux.com/us/site-map/etablisse
           const list = rest.children().next().find('a').first();
           var urlRestaurant = list.attr('href');
           //console.log(urlRestaurant);
+
+          const findPrice = s('.priceTag');
+          var price = findPrice.children().children().first().text();
+
+        //  var price = findPrice.find('.price').first().text();
+          console.log(price);
 
           if(typeof urlRestaurant !== 'undefined' && urlRestaurant.match("restaurant")){
 
@@ -80,7 +93,7 @@ const main = await request('https://www.relaischateaux.com/us/site-map/etablisse
                             //console.log(nomRestaurant);
                             var string = nomRestaurant.replace(/\s\s+/g, " ");
                             //console.log(string);
-                            writeStream.write(`${str}; ${string}\n`);
+                  //          writeStream.write(`${str}; ${string}\n`);
                               //console.log(string2);
                             });
                           }
@@ -92,7 +105,7 @@ const main = await request('https://www.relaischateaux.com/us/site-map/etablisse
                       })();
                   }
                   else{
-                  writeStream.write(`${str}; ${string}; ${url}\n`);
+  //                writeStream.write(`${str}; ${string}; ${url}\n`);
                 }
 
 
@@ -102,11 +115,10 @@ const main = await request('https://www.relaischateaux.com/us/site-map/etablisse
                   else{
                     const restos = c('.hotelTabsHeaderTitle');
                     var nomRestaurant = restos.find('h3').text();
-                    //console.log(nomRestaurant);
                     var string2 = nomRestaurant.replace(/\s\s+/g, " ");
 
-                    writeStream.write(`${str};${string2}; ${url}\n`);
-                    //console.log(string2);
+
+      //              writeStream.write(`${str};${string2}; ${url}\n`);
                   }
                 }
               });

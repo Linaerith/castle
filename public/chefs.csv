@@ -1,1 +1,624 @@
-Restaurant; UrlMichelin; Chef; PostalCode
+Restaurant; UrlMichelin; Chef; PostalCode ; PriceRange
+Auberge Quintessence;  https://restaurant.michelin.fr/3615836/auberge-quintessence-roubion; ; 06420; Prix - De 39 € à 65 €
+The Marcel;  https://restaurant.michelin.fr/4041601/marcel-sete; ; 34200; Prix - De 56 € à 81 €
+Automne;  https://restaurant.michelin.fr/3547121/automne-paris-11; Nobuyuki Akishige; 75011; Prix moyen - 40 €
+Allium;  https://restaurant.michelin.fr/suqhhtor/allium-quimper; ; 29000; Prix - De 30 € à 95 €
+Maison Lameloise;  https://restaurant.michelin.fr/2bnef6m/maison-lameloise-chagny; Eric Pras; 71150; Prix - De 82 € à 215 €
+Saisons;  https://restaurant.michelin.fr/2852226/saisons-marseille-06; ; 13006; Prix - De 24 € à 85 €
+Auberge St-Laurent;  https://restaurant.michelin.fr/2b05ga9/auberge-st-laurent-sierentz; Laurent Arbeit; 68510; Prix - De 33 € à 88 €
+Auberge de la Mine;  https://restaurant.michelin.fr/29hyxpk/auberge-de-la-mine-gue-plat; Hubert Nobis; 61450; Prix - De 22 € à 80 €
+Hostellerie Bérard;  https://restaurant.michelin.fr/2bl33gu/hostellerie-berard-la-cadiere-dazur; Jean-François Bérard; 83740; Prix - De 36 € à 143 €
+Pertica;  https://restaurant.michelin.fr/3u9bmm3c/pertica-vendome; ; 41100; Prix - De 25 € à 110 €
+Armani Ristorante;  https://restaurant.michelin.fr/3044086/armani-ristorante-paris-06; Massimo Tringali; 75006; Prix - De 40 € à 120 €
+Le Gambetta;  https://restaurant.michelin.fr/2ayqw5m/le-gambetta-saumur; ; 49400; Prix - De 29 € à 107 €
+Takao Takano;  https://restaurant.michelin.fr/1fchzdq5/takao-takano-lyon-06; Takao Takano; 69006; Prix - De 40 € à 120 €
+Numéro 3;  https://restaurant.michelin.fr/2dnmje9/numero-3-le-tremblay-sur-mauldre; ; 78490; Prix - De 49 € à 85 €
+Logis de la Cadène;  https://restaurant.michelin.fr/3kw7mh1/logis-de-la-cadene-saint-emilion; Alexandre Baumard; 33330; Prix - De 39 € à 95 €
+Aux Anges;  https://restaurant.michelin.fr/3m56yu9/aux-anges-roanne; Marco Viganò; 42300; Prix - De 36 € à 80 €
+Le Pily;  https://restaurant.michelin.fr/2eh8fjc/le-pily-cherbourg-en-cotentin; ; 50100; Prix - De 47 € à 116 €
+Le Gabriel;  https://restaurant.michelin.fr/9sqrw32m/le-gabriel-paris-08; Jérôme Banctel; 75008; Prix - De 95 € à 235 €
+Yam'Tcha;  https://restaurant.michelin.fr/2ewldde/yamtcha-paris-01; ; 75001; Prix - De 70 € à 150 €
+Le Moulin du Roc;  https://restaurant.michelin.fr/2bk7w2q/le-moulin-du-roc-champagnac-de-belair; Alain Gardillou; 24530; Prix - De 49 € à 125 €
+Mirazur;  https://restaurant.michelin.fr/2d440f7/mirazur-menton; Mauro Colagreco; 06500; Prix - De 160 € à 260 €
+La Table des Cordeliers;  https://restaurant.michelin.fr/2d7x1hk/la-table-des-cordeliers-condom; ; 32100; Prix - De 35 € à 95 €
+La Table de Franck Putelat;  https://restaurant.michelin.fr/2e06z2s/la-table-de-franck-putelat-carcassonne; Franck Putelat; 11000; Prix - De 40 € à 160 €
+La Table de la Bergerie;  https://restaurant.michelin.fr/i1i7i9b/la-table-de-la-bergerie-le-champ-sur-layon; David Guitton; 49380; Prix - De 19 € à 47 €
+L'Orée de la Forêt;  https://restaurant.michelin.fr/297c2t4/loree-de-la-foret-etouy; ; 60600; Prix - De 60 € à 120 €
+Le Passe Temps;  https://restaurant.michelin.fr/44ahwpa/le-passe-temps-lyon-06; Younghoon Lee; 69006; Prix - De 33 € à 85 €
+Sola;  https://restaurant.michelin.fr/3yamflk/sola-paris-05; Kosuke Nabeta; 75005; Prix - De 48 € à 98 €
+Une Île;  https://restaurant.michelin.fr/2erjwfi/une-ile-angers; Gérard Bossé; 49000; Prix - De 35 € à 78 €
+L'Ekrin by Laurent Azoulay;  https://restaurant.michelin.fr/9isyik39/lekrin-laurent-azoulay-meribel-mottaret; Laurent Azoulay; 73550; Prix - De 95 € à 230 €
+Montée;  https://restaurant.michelin.fr/3615586/montee-paris-14; ; 75014; Prix - De 40 € à 105 €
+Il Carpaccio;  https://restaurant.michelin.fr/2fdi6av208/il-carpaccio-paris-08; ; 75008; Prix - De 45 € à 145 €
+Le Manoir du Lys;  https://restaurant.michelin.fr/2bfnmbt/le-manoir-du-lys-bagnoles-de-lorne-normandie; ; 61140; Prix - De 49 € à 99 €
+La Palme d'Or;  https://restaurant.michelin.fr/292bk5u/la-palme-dor-cannes; Christian Sinicropi; 06400; Prix - De 70 € à 300 €
+David Toutain;  https://restaurant.michelin.fr/2ei5hub/david-toutain-paris-07; ; 75007; Prix - De 60 € à 160 €
+Miraflores;  https://restaurant.michelin.fr/2jcivvu3/miraflores-lyon-06; ; 69006; Prix - De 70 € à 115 €
+Le Prince Noir - Vivien Durand;  https://restaurant.michelin.fr/4g00u3j8/le-prince-noir-vivien-durand-lormont; Vivien Durand; 33310; Prix - De 55 € à 107 €
+G.a. au Manoir de Rétival;  https://restaurant.michelin.fr/9rnckmj/ga-au-manoir-de-retival-caudebec-en-caux; David Goerne; 76490; Prix - De 98 € à 149 €
+Arpège;  https://restaurant.michelin.fr/2aa11xs/arpege-paris-07; Alain Passard; 75007; Prix - De 175 € à 390 €
+1217;  https://restaurant.michelin.fr/2bfuk4c/1217-bagnols; Jean-Alexandre Ouaratta; 69620; Prix - De 65 € à 140 €
+Frédéric Simonin;  https://restaurant.michelin.fr/2f8857v/frederic-simonin-paris-17; FREDERIC SIMONIN; 75017; Prix - De 44 € à 155 €
+Pont de l'Ouysse;  https://restaurant.michelin.fr/29p8ja1/pont-de-louysse-lacave; Daniel et Stéphane Chambon; 46200; Prix - De 60 € à 89 €
+Auberge de Montfleury;  https://restaurant.michelin.fr/2b9eb0t/auberge-de-montfleury-villeneuve-de-berg; Richard Rocle; 07170; Prix - De 17 € à 90 €
+Sushi B;  https://restaurant.michelin.fr/2852091/sushi-b-paris-02; ; 75002; Prix - De 58 € à 160 €
+Alan Geaam;  https://restaurant.michelin.fr/3045466/alan-geaam-paris-16; Alan Geaam; 75016; Prix - De 48 € à 100 €
+ES;  https://restaurant.michelin.fr/27ym5i25/es-paris-07; ; 75007; Prix - De 55 € à 105 €
+René et Maxime Meilleur;  https://restaurant.michelin.fr/2avet55/rene-et-maxime-meilleur-saint-martin-de-belleville; René et Maxime Meilleur; 73440; Prix - De 149 € à 315 €
+Le Pressoir d'Argent - Gordon Ramsay;  https://restaurant.michelin.fr/2epcrm9/le-pressoir-dargent-gordon-ramsay-bordeaux; Gordon Ramsay et le Chef Exécutif Gilad Peled; 33000; Prix - De 90 € à 150 €
+Le Gindreau;  https://restaurant.michelin.fr/2avrk5m/le-gindreau-saint-medard; Pascal Bardet; 46150; Prix - De 42 € à 147 €
+Au Souper Fin;  https://restaurant.michelin.fr/29783wk/au-souper-fin-frichemesnil; ; 76690; Prix - De 36 € à 80 €
+Nomicos;  https://restaurant.michelin.fr/2fdwgd3/nomicos-paris-16; Jean-Louis Nomicos; 75016; Prix - De 58 € à 141 €
+Maison Jeunet;  https://restaurant.michelin.fr/28pylpu/maison-jeunet-arbois; Steven Naessens; 39600; Prix - De 65 € à 118 €
+Chez Michèle;  https://restaurant.michelin.fr/29pia6z/chez-michele-languimberg; Bruno Poiré; 57810; Prix - De 25 € à 140 €
+Auberge du Cheval Blanc;  https://restaurant.michelin.fr/29qf1y7/auberge-du-cheval-blanc-lembach; Pascal Bastian; 67510; Prix - De 58 € à 110 €
+Le Violon d'Ingres;  https://restaurant.michelin.fr/2aa5u1w/le-violon-dingres-paris-07; Christian Constant; 75007; Prix - De 49 € à 130 €
+Le Meurice Alain Ducasse;  https://restaurant.michelin.fr/2a7d9c1/le-meurice-alain-ducasse-paris-01; Jocelyn Herland; 75001; Prix - De 85 € à 380 €
+La Table du Connétable;  https://restaurant.michelin.fr/jgutdlg/la-table-du-connetable-chantilly; Julien Lucas; 60500; Prix - De 67 € à 161 €
+L'Esquisse;  https://restaurant.michelin.fr/9tr3fvt/lesquisse-annecy; ; 74000; Prix - De 39 € à 89 €
+Auberge Le Prieuré;  https://restaurant.michelin.fr/2dl7htu/auberge-le-prieure-moirax; ; 47310; Prix - De 28 € à 80 €
+Dominique Bouchet;  https://restaurant.michelin.fr/2doe0bh/dominique-bouchet-paris-08; Dominique Bouchet; 75008; Prix - De 58 € à 125 €
+La Madeleine;  https://restaurant.michelin.fr/2azofoh/la-madeleine-sens; Patrick Gauthier; 89100; Prix - De 49.5 € à 67 €
+Domaine des Hauts de Loire;  https://restaurant.michelin.fr/2cedaza/domaine-des-hauts-de-loire-onzain; Rémy Giraud; 41150; Prix - De 49 € à 165 €
+Brikéténia;  https://restaurant.michelin.fr/2es4wcd/briketenia-guethary; ; 64210; Prix - De 36 € à 99 €
+Likoké;  https://restaurant.michelin.fr/1ad26y4c/likoke-les-vans; ; 07140; Prix - De 50 € à 145 €
+Le Clos des Sens;  https://restaurant.michelin.fr/28pf13h/le-clos-des-sens-annecy-le-vieux; Laurent Petit; 74940; Prix - De 78 € à 198 €
+La Palmeraie;  https://restaurant.michelin.fr/2btuhm0/la-palmeraie-la-croix-valmer; Jimmy Coutel; 83420; Prix - De 28 € à 65 €
+La Grange de Belle-Église;  https://restaurant.michelin.fr/28vem1k/la-grange-de-belle-eglise-belle-eglise; Marc Duval; 60540; Prix - De 26 € à 160 €
+Qui plume la Lune;  https://restaurant.michelin.fr/jh83esx/qui-plume-la-lune-paris-11; Jacky Ribault; 75011; Prix - De 45 € à 130 €
+Hostellerie la Montagne;  https://restaurant.michelin.fr/298i34w/hostellerie-la-montagne-colombey-les-deux-eglises; Jean-Baptiste Natali; 52330; Prix - De 28 € à 105 €
+Le France;  https://restaurant.michelin.fr/2d32mvv/le-france-villers-le-lac; Hugues Droz; 25130; Prix - De 22 € à 39 €
+Flocons de Sel;  https://restaurant.michelin.fr/29wzk9t/flocons-de-sel-megeve; Emmanuel Renaut; 74120; Prix - De 90 € à 168 €
+Chapelle Saint-Martin;  https://restaurant.michelin.fr/2c4rgah/chapelle-saint-martin-nieul; Gilles Dudognon; 87510; Prix - De 55 € à 89 €
+Umami;  https://restaurant.michelin.fr/2ei9xex/umami-strasbourg; ; 67000; Prix - De 55 € à 85 €
+Auberge de Clochemerle;  https://restaurant.michelin.fr/2dckc0s/auberge-de-clochemerle-vaux-en-beaujolais; Romain Barthe; 69460; Prix - De 48 € à 88 €
+Hervé Busset;  https://restaurant.michelin.fr/2brjniu/herve-busset-conques-en-rouergue; ; 12320; Prix - De 40 € à 110 €
+Michel Sarran;  https://restaurant.michelin.fr/2b380z8/michel-sarran-toulouse; ; 31000; Prix - De 60 € à 205 €
+Le Saint-James;  https://restaurant.michelin.fr/2bj8gr9/le-saint-james-bouliac; Nicolas Magie; 33270; Prix - De 49 € à 160 €
+La Poule au Pot;  https://restaurant.michelin.fr/4042311/la-poule-au-pot-paris-01; ; 75001; Prix - De 48 € à 122 €
+Le Puits du Trésor;  https://restaurant.michelin.fr/29pxfvs/le-puits-du-tresor-lastours; ; 11600; Prix - De 47 € à 93 €
+Le Clarence;  https://restaurant.michelin.fr/sntd30zx/le-clarence-paris-08; ; 75008; Prix - De 90 € à 320 €
+Les Cèdres;  https://restaurant.michelin.fr/2appio4/les-cedres-granges-les-beaumont; Jacques Bertrand; 26600; Prix - De 47 € à 105 €
+Ô Saveurs;  https://restaurant.michelin.fr/2b3jb0y/o-saveurs-rouffiac-tolosan; David Biasibetti; 31180; Prix - De 28 € à 100 €
+Au Vieux Couvent;  https://restaurant.michelin.fr/2aogs9u/au-vieux-couvent-rhinau; Alexis Albrecht; 67860; Prix - De 37 € à 110 €
+L'Auberge Basque;  https://restaurant.michelin.fr/2efx4u4/lauberge-basque-saint-pee-sur-nivelle; Cédric Béchade; 64310; Prix - De 29 € à 71 €
+Les Terraillers;  https://restaurant.michelin.fr/28x308q/les-terraillers-biot; Michaël Fulci; 06410; Prix - De 43 € à 130 €
+Les Clefs d'Argent;  https://restaurant.michelin.fr/2e0bvx8/les-clefs-dargent-mont-de-marsan; Christophe Dupouy; 40000; Prix - De 25 € à 100 €
+Frédéric Doucet;  https://restaurant.michelin.fr/295q5w8/frederic-doucet-charolles; Frédéric Doucet; 71120; Prix - De 45 € à 95 €
+Pierre Reboul;  https://restaurant.michelin.fr/9pmxzh3/pierre-reboul-aix-en-provence; Pierre Reboul; 13290; Prix - De 51 € à 139 €
+Le Moulin des Quatre Saisons;  https://restaurant.michelin.fr/29hrl09/le-moulin-des-quatre-saisons-la-fleche; ; 72200; Prix - De 35 € à 120 €
+Virtus;  https://restaurant.michelin.fr/3ez7apxd/virtus-paris-12; Chiho Kanzaki; 75012; Prix - De 19.5 € à 64.5 €
+Maison Dufossé - La Table;  https://restaurant.michelin.fr/2dse7wh/maison-dufosse-la-table-metz; Christophe Dufossé; 57000; Prix - De 38 € à 125 €
+Le Duèze;  https://restaurant.michelin.fr/2blc3qr/le-dueze-mercues; Julien Poisot; 46090; Prix - De 39 € à 155 €
+Le Champ des Lunes;  https://restaurant.michelin.fr/ua2fx9zg/le-champ-des-lunes-lauris; Jérôme Faure; 84360; Prix - De 35 € à 108 €
+Le Clocher des Pères;  https://restaurant.michelin.fr/h43i086/le-clocher-des-peres-saint-martin-sur-la-chambre; Pierre Troccaz; 73130; Prix - De 43 € à 58 €
+L'Auberge de la Pomme;  https://restaurant.michelin.fr/2al6a9i/lauberge-de-la-pomme-les-damps; William Boquelet; 27340; Prix - De 35 € à 88 €
+Domaine d'Auriac;  https://restaurant.michelin.fr/2bmf006/domaine-dauriac-carcassonne; Philippe Deschamps; 11000; Prix - De 49 € à 69 €
+Sylvestre;  https://restaurant.michelin.fr/2fe7j1g/sylvestre-paris-07; Sylvestre Wahid; 75007; Prix - De 55 € à 250 €
+Château Cordeillan-Bages;  https://restaurant.michelin.fr/2chq5p0/chateau-cordeillan-bages-pauillac; ; 33250; Prix - De 75 € à 155 €
+Le Pressoir;  https://restaurant.michelin.fr/2b6sa1u/le-pressoir-saint-ave; Vincent David; 56890; Prix - De 34 € à 100 €
+Girardin - Gastronomique;  https://restaurant.michelin.fr/xha7r0xl/girardin-gastronomique-colmar; Éric Girardin; 68000; Prix - De 78 € à 134 €
+L'Essentiel;  https://restaurant.michelin.fr/2dwdwxo/lessentiel-perigueux; ; 24000; Prix - De 31 € à 85 €
+Hostellerie de l'Abbaye de la Celle;  https://restaurant.michelin.fr/2bn8o1t/hostellerie-de-labbaye-de-la-celle-la-celle; Nicolas Pierantoni; 83170; Prix - De 40 € à 140 €
+1920;  https://restaurant.michelin.fr/3409276/1920-megeve; Julien Gatillon; 74120; Prix - De 155 € à 210 €
+Le Petit Nice;  https://restaurant.michelin.fr/2c76rmd/le-petit-nice-marseille-07; Gérald Passédat; 13007; Prix - De 110 € à 380 €
+L'Atelier Yssoirien;  https://restaurant.michelin.fr/akc6ovv/latelier-yssoirien-issoire; Dorian Van Bronkhorst; 63500; Prix - De 18 € à 50 €
+Le Baudelaire;  https://restaurant.michelin.fr/2fdc0eg/le-baudelaire-paris-01; Guillaume Goupil; 75001; Prix - De 58 € à 150 €
+Le Saison;  https://restaurant.michelin.fr/2ao631n/le-saison-saint-gregoire; David Etcheverry; 35760; Prix - De 35 € à 136 €
+Le Lièvre Gourmand;  https://restaurant.michelin.fr/2f48mjv/le-lievre-gourmand-orleans; ; 45000; Prix - De 41 € à 77 €
+La Condesa;  https://restaurant.michelin.fr/3491071/la-condesa-paris-09; Indra Carrillo; 75009; Prix - De 38 € à 85 €
+Yoann Conte;  https://restaurant.michelin.fr/2fcm39b/yoann-conte-veyrier-du-lac; Yoann Conte; 74290; Prix - De 98 € à 249 €
+Manoir de la Boulaie;  https://restaurant.michelin.fr/2a3ey4n/manoir-de-la-boulaie-haute-goulaine; Laurent Saudeau; 44115; Prix - De 59 € à 148 €
+Le Taillevent;  https://restaurant.michelin.fr/2ab9sgk/le-taillevent-paris-08; ; 75008; Prix - De 90 € à 198 €
+Loiseau des Ducs;  https://restaurant.michelin.fr/2jd4ivca/loiseau-des-ducs-dijon; Louis-Philippe Vigilant; 21000; Prix - De 23 € à 105 €
+Atmosphères;  https://restaurant.michelin.fr/28zmco9/atmospheres-le-bourget-du-lac; Alain Périllat-Mercerot; 73370; Prix - De 45 € à 100 €
+Quai des Saveurs;  https://restaurant.michelin.fr/2e9sbx2/quai-des-saveurs-hagondange; Frédéric Sandrini; 57300; Prix - De 45 € à 90 €
+La Table du Gourmet;  https://restaurant.michelin.fr/2aosxv6/la-table-du-gourmet-riquewihr; Jean-Luc Brendel; 68340; Prix - De 38 € à 110 €
+Les Hautes Roches;  https://restaurant.michelin.fr/2cyg6yb/les-hautes-roches-rochecorbon; Didier Edon; 37210; Prix - De 60 € à 80 €
+La Passagère;  https://restaurant.michelin.fr/29odhbw/la-passagere-juan-les-pins; Aurélien Véquaud; 06160; Prix - De 90 € à 130 €
+Le Refuge des Gourmets;  https://restaurant.michelin.fr/29uv8a7/le-refuge-des-gourmets-machilly; Jean-Marie et Hubert Chanove; 74140; Prix - De 35 € à 115 €
+La Balette;  https://restaurant.michelin.fr/2dlsvt0/la-balette-collioure; Frédéric Bacquié; 66190; Prix - De 35 € à 115 €
+Auberge des Saints Pères;  https://restaurant.michelin.fr/2aga7gz/auberge-des-saints-peres-aulnay-sous-bois; Jean-Claude Cahagnet; 93600; Prix - De 43 € à 90 €
+Le Moulin de Léré;  https://restaurant.michelin.fr/bca0zrw3/le-moulin-de-lere-vailly; Frédéric Molina; 74470; Prix - De 37 € à 70 €
+La Promenade;  https://restaurant.michelin.fr/2ajy6gr/la-promenade-le-petit-pressigny; Fabrice et Jacky Dallais; 37350; Prix - De 43 € à 100 €
+Le Sérac;  https://restaurant.michelin.fr/2di661r/le-serac-saint-gervais-les-bains; ; 74170; Prix - De 35 € à 65 €
+Têtedoie;  https://restaurant.michelin.fr/29tfnmd288/tetedoie-lyon-05; Christian Têtedoie; 69005; Prix - De 48 € à 145 €
+Rodolphe;  https://restaurant.michelin.fr/j9cof0s1/rodolphe-rouen; ; 76000; Prix - De 35 € à 90 €
+Le Musigny;  https://restaurant.michelin.fr/3yjthyc/le-musigny-valenciennes; Emmanuel Hernandez; 59300; Prix - De 33 € à 100 €
+L'Archeste;  https://restaurant.michelin.fr/2852206/larcheste-paris-16; ; 75116; Prix - De 52 € à 110 €
+L'Oustau de Baumanière;  https://restaurant.michelin.fr/28tn79w/loustau-de-baumaniere-les-baux-de-provence; Glenn Viel; 13520; Prix - De 100 € à 220 €
+L'Ambroisie;  https://restaurant.michelin.fr/2a8d13e/lambroisie-paris-04; ; 75004; Prix - De 210 € à 390 €
+L'Amphitryon;  https://restaurant.michelin.fr/29saut6/lamphitryon-lorient; ; 56100; Prix - De 29 € à 130 €
+L'Auberge des Glazicks;  https://restaurant.michelin.fr/2akhln2/lauberge-des-glazicks-plomodiern; Olivier Bellin; 29550; Prix - De 60 € à 225 €
+Haut Bonheur de la Table;  https://restaurant.michelin.fr/6274yuk/haut-bonheur-de-la-table-cassel; ; 59670; Prix - De 44 € à 56 €
+Val d'Auge;  https://restaurant.michelin.fr/29rcoot/val-dauge-bondues; ; 59910; Prix - De 45 € à 110 €
+Marsan - Hélène Darroze;  https://restaurant.michelin.fr/2a93ort/marsan-helene-darroze-paris-06; Hélène Darroze; 75006; Prix - De 58 € à 98 €
+L'Essentiel;  https://restaurant.michelin.fr/40jnqvq/lessentiel-deauville; Mi-Ra et Charles Thuillant; 14800; Prix - De 19 € à 69 €
+Château de la Treyne;  https://restaurant.michelin.fr/2c38ubh/chateau-de-la-treyne-lacave; ; 46200; Prix - De 50 € à 146 €
+Alliance;  https://restaurant.michelin.fr/t4cp5kaa/alliance-paris-05; Toshitaka Omiya; 75005; Prix - De 46 € à 110 €
+JY'S;  https://restaurant.michelin.fr/298563e/jys-colmar; Jean-Yves Schillinger; 68000; Prix - De 45 € à 85 €
+Hostellerie de Levernois;  https://restaurant.michelin.fr/28updvu/hostellerie-de-levernois-levernois; ; 21200; Prix - De 75 € à 125 €
+La Grande Maison de Bernard Magrez;  https://restaurant.michelin.fr/a7u4fcer/la-grande-maison-de-bernard-magrez-bordeaux; Jean-Denis Lebras; 33000; Prix - De 60 € à 195 €
+Antoine;  https://restaurant.michelin.fr/2euo0rk/antoine-paris-16; Thibault Sombardier; 75116; Prix - De 48 € à 150 €
+Le Bistrot de Lagarde;  https://restaurant.michelin.fr/jfxt32k/le-bistrot-de-lagarde-lagarde-dapt; ; 84400; Prix - De 39 € à 107 €
+Restaurant H;  https://restaurant.michelin.fr/2851556/restaurant-h-paris-04; ; 75004; Prix - De 35 € à 80 €
+Lamartine;  https://restaurant.michelin.fr/28zi7ln/lamartine-le-bourget-du-lac; Pierre Marin; 73370; Prix - De 33 € à 102 €
+La Rastègue;  https://restaurant.michelin.fr/2dfjaik/la-rastegue-bormes-les-mimosas; ; 83230; Prix moyen - 49 €
+NESO;  https://restaurant.michelin.fr/4041136/neso-paris-09; ; 75009; Prix - De 55 € à 120 €
+Le Jardin de Benjamin;  https://restaurant.michelin.fr/xhr5bt96/le-jardin-de-benjamin-lorgues; Benjamin Collombat; 83510; Prix - De 55 € à 125 €
+AM par Alexandre Mazzia;  https://restaurant.michelin.fr/4gq15sff/am-par-alexandre-mazzia-marseille-08; Alexandre Mazzia; 13008; Prix - De 39 € à 140 €
+Villa de l'Étang Blanc;  https://restaurant.michelin.fr/2dtglr4/villa-de-letang-blanc-seignosse; ; 40510; Prix - De 19 € à 55 €
+Septime;  https://restaurant.michelin.fr/3xrgyvn/septime-paris-11; ; 75011; Prix - De 42 € à 80 €
+Auberge Grand'Maison;  https://restaurant.michelin.fr/2a2flya/auberge-grandmaison-mur-de-bretagne; Christophe Le Fur; 22530; Prix - De 27 € à 80 €
+Auberge La Pomme d'Api;  https://restaurant.michelin.fr/2aw36e7/auberge-la-pomme-dapi-saint-pol-de-leon; Jérémie Le Calvez; 29250; Prix - De 25 € à 82 €
+Maison Kieny;  https://restaurant.michelin.fr/2a22p1u/maison-kieny-riedisheim; Jean-Marc KIENY; 68400; Prix - De 33 € à 80 €
+La Villa Madie;  https://restaurant.michelin.fr/2eb50c1n/la-villa-madie-cassis; Dimitri Droisneau; 13260; Prix - De 95 € à 162 €
+Greuze;  https://restaurant.michelin.fr/3uonmfw/greuze-tournus; Yohann Chapuis; 71700; Prix - De 42 € à 135 €
+Louison;  https://restaurant.michelin.fr/3068881/louison-le-puy-sainte-reparade; Gérald Passedat; 13610; Prix - De 65 € à 165 €
+La Bastide de Moustiers;  https://restaurant.michelin.fr/2cbq46s/la-bastide-de-moustiers-moustiers-sainte-marie; Frédéric Garnier; 04360; Prix - De 60 € à 90 €
+La Table de Philippe Girardon;  https://restaurant.michelin.fr/2b8j4np/la-table-de-philippe-girardon-chonas-lamballan; Philippe Girardon; 38121; Prix - De 28 € à 100 €
+Le Vivarais;  https://restaurant.michelin.fr/2fay1do/le-vivarais-vals-les-bains; Stéphane Polly; 07600; Prix - De 27 € à 100 €
+Auberge de l'Ill;  https://restaurant.michelin.fr/29nft26/auberge-de-lill-illhaeusern; Marc Haeberlin; 68970; Prix - De 106 € à 276 €
+Le M;  https://restaurant.michelin.fr/2epv4gf/le-m-brest; ; 29200; Prix - De 44 € à 90 €
+Elsa;  https://restaurant.michelin.fr/9p2kj2b/elsa-cap-martin; Paolo Sari; 06190; Prix - De 55 € à 160 €
+Le Cloître;  https://restaurant.michelin.fr/2ep5ghq/le-cloitre-mane; Jérôme Roy; 04300; Prix - De 85 € à 155 €
+Côté Cuisine;  https://restaurant.michelin.fr/mhm4jdd/cote-cuisine-carnac; ; 56340; Prix - De 24 € à 55 €
+La Table Breizh Café;  https://restaurant.michelin.fr/2f8ln9w/la-table-breizh-cafe-cancale; Fumio KUDAKA; 35260; Prix - De 38 € à 75 €
+Le Cercle;  https://restaurant.michelin.fr/9trxkaz/le-cercle-bourges; ; 18000; Prix - De 55 € à 105 €
+SaQuaNa;  https://restaurant.michelin.fr/2e11xi8/saquana-honfleur; ; 14600; Prix - De 90 € à 130 €
+La Vague d'Or - Cheval Blanc St-Tropez;  https://restaurant.michelin.fr/2csqkr7/la-vague-dor-cheval-blanc-st-tropez-saint-tropez; Arnaud Donckele; 83990; Prix - De 295 € à 340 €
+Apicius;  https://restaurant.michelin.fr/2affgmi/apicius-paris-08; ; 75008; Prix - De 125 € à 220 €
+La Closerie;  https://restaurant.michelin.fr/2eebgpo/la-closerie-ansouis; ; 84240; Prix - De 36 € à 87 €
+Lalique;  https://restaurant.michelin.fr/3803186/lalique-bommes; Jérôme Schilling; 33210; Prix - De 65 € à 245 €
+Le Jasmin;  https://restaurant.michelin.fr/u6v6rb42/le-jasmin-saint-sylvestre-sur-lot; Xavier Lesueur; 47140; Prix moyen - 55 €
+À Contre Sens;  https://restaurant.michelin.fr/3wc5nsy/contre-sens-caen; ; 14000; Prix - De 27 € à 77 €
+Le Carré d'Alethius;  https://restaurant.michelin.fr/2fa4jx5/le-carre-dalethius-charmes-sur-rhone; Olivier Samin; 07800; Prix - De 22 € à 75 €
+L'Ecrin;  https://restaurant.michelin.fr/3503291/lecrin-paris-08; ; 75008; Prix - De 95 € à 220 €
+Le Grand Cerf;  https://restaurant.michelin.fr/2anw751/le-grand-cerf-montchenot; ; 51500; Prix - De 37 € à 84 €
+Les Oliviers;  https://restaurant.michelin.fr/2e1on31/les-oliviers-bandol; ; 83150; Prix - De 58 € à 128 €
+Les Tables de Gaspard;  https://restaurant.michelin.fr/2duw4bw/les-tables-de-gaspard-saint-crepin; ; 05600; Prix - De 36 € à 69 €
+Ursus;  https://restaurant.michelin.fr/2f5gm14/ursus-tignes; Clément Bouvier; 73320; Prix - De 42 € à 76 €
+Xavier Mathieu;  https://restaurant.michelin.fr/2c2u7lh/xavier-mathieu-joucas; Xavier Mathieu; 84220; Prix - De 80 € à 170 €
+Auberge de la Brie;  https://restaurant.michelin.fr/29ask7o/auberge-de-la-brie-couilly-pont-aux-dames; ; 77860; Prix - De 40 € à 100 €
+L'Olivier;  https://restaurant.michelin.fr/2c1rglq/lolivier-hyeres; ; 83400; Prix - De 90 € à 160 €
+1131;  https://restaurant.michelin.fr/2e4epe8/1131-la-bussiere-sur-ouche; Guillaume Royer; 21360; Prix moyen - 98 €
+La Table de Chaintré;  https://restaurant.michelin.fr/294fsc5/la-table-de-chaintre-chaintre; ; 71570; Prix - De 42 € à 60 €
+Château de Pray;  https://restaurant.michelin.fr/2bcbfo0/chateau-de-pray-charge; ; 37400; Prix - De 59 € à 135 €
+Le Colombier;  https://restaurant.michelin.fr/29d8fg4/le-colombier-offranville; ; 76550; Prix - De 26 € à 80 €
+Aida;  https://restaurant.michelin.fr/2dzh7q2/aida-paris-07; Koji Aida; 75007; Prix moyen - 160 €
+Restaurant Christian Étienne;  https://restaurant.michelin.fr/28s2o1u/restaurant-christian-etienne-avignon; Guilhem Sevin; 84000; Prix - De 35 € à 130 €
+Pic;  https://restaurant.michelin.fr/2d0hddd/pic-valence; Anne-Sophie Pic; 26000; Prix - De 110 € à 330 €
+Alain Ducasse au Plaza Athénée;  https://restaurant.michelin.fr/2ab76wf/alain-ducasse-au-plaza-athenee-paris-08; ; 75008; Prix - De 210 € à 395 €
+La Table de Castigno;  https://restaurant.michelin.fr/xh15qqss/la-table-de-castigno-assignan; Ruben & Pieter de Maesschalck; 34360; Prix - De 24 € à 68 €
+Meurin;  https://restaurant.michelin.fr/2dyfstx/meurin-busnes; Marc Meurin; 62350; Prix - De 80 € à 135 €
+L'Ostal;  https://restaurant.michelin.fr/uhpabnjd/lostal-clermont-ferrand; Emmanuel Hebrard; 63000; Prix - De 29 € à 49 €
+Assa;  https://restaurant.michelin.fr/3m0pjn8/assa-blois; Fumiko et Anthony Maubert; 41000; Prix - De 47 € à 85 €
+La Maison des Bois - Marc Veyrat;  https://restaurant.michelin.fr/8zgzs262/la-maison-des-bois-marc-veyrat-manigod; Marc Veyrat; 74230; Prix - De 295 € à 395 €
+Dan B. - La Table de Ventabren;  https://restaurant.michelin.fr/2b7at88/dan-b-la-table-de-ventabren-ventabren; Dan Bessoudo; 13122; Prix - De 48 € à 106 €
+Le Brittany;  https://restaurant.michelin.fr/2cnbixn/le-brittany-roscoff; Loic Le Bail; 29681; Prix - De 58 € à 68 €
+L'Atelier d'Edmond;  https://restaurant.michelin.fr/2e1ykis/latelier-dedmond-val-disere; Benoit Vidal; 73150; Prix - De 115 € à 175 €
+La Cachette;  https://restaurant.michelin.fr/2dyaa0w/la-cachette-valence; Masashi Ijichi; 26000; Prix - De 30 € à 65 €
+Château d'Adoménil;  https://restaurant.michelin.fr/2c5ztru/chateau-dadomenil-luneville; Cyril Leclerc; 54300; Prix - De 69 € à 150 €
+La Gouesnière;  https://restaurant.michelin.fr/2byuiv7/la-gouesniere-saint-meloir-des-ondes; Jonathan Bigaré; 35350; Prix - De 30 € à 104 €
+La Promenade;  https://restaurant.michelin.fr/n3jledr/la-promenade-verfeil; Nicolas Thomas; 31590; Prix - De 30 € à 100 €
+Kasbür;  https://restaurant.michelin.fr/2az3rad/kasbur-monswiller; ; 67700; Prix - De 25 € à 95 €
+La Marande;  https://restaurant.michelin.fr/2dcnkds/la-marande-mirande; ; 71260; Prix - De 30 € à 95 €
+La Table d'Olivier Nasti;  https://restaurant.michelin.fr/2c30770n/la-table-dolivier-nasti-kaysersberg-vignoble; Olivier Nasti; 68240; Prix - De 85 € à 205 €
+L'Aromate;  https://restaurant.michelin.fr/2epn29l/laromate-nice; Mickaël Gracieux; 06000; Prix - De 70 € à 95 €
+Le Farçon;  https://restaurant.michelin.fr/2dczscn/le-farcon-la-tania; Julien Machet; 73125; Prix - De 38 € à 110 €
+Auberge Tiegezh;  https://restaurant.michelin.fr/34milgg2/auberge-tiegezh-guer; Baptiste Denieul; 56380; Prix - De 25 € à 55 €
+Ed.Em;  https://restaurant.michelin.fr/295xqfd/edem-chassagne-montrachet; Edouard Mignot; 21190; Prix - De 35 € à 98 €
+La Bonne Étape;  https://restaurant.michelin.fr/2bp5jf6/la-bonne-etape-chateau-arnoux; Jany Gleize; 04160; Prix - De 35 € à 75 €
+Auberge du Cellier;  https://restaurant.michelin.fr/2a02pjj/auberge-du-cellier-montner; Pierre-Louis Marin; 66720; Prix - De 19 € à 69 €
+Le Parc Les Crayères;  https://restaurant.michelin.fr/2clh5yg/le-parc-les-crayeres-reims; Philippe Mille; 51100; Prix - De 70 € à 190 €
+Le Patio;  https://restaurant.michelin.fr/28q4ohd/le-patio-arcachon; Thierry Renou; 33120; Prix - De 42 € à 110 €
+Christophe Bacquié;  https://restaurant.michelin.fr/2bmu0gi/christophe-bacquie-le-castellet; Christophe Bacquié; 83330; Prix - De 135 € à 240 €
+La Scène;  https://restaurant.michelin.fr/1ore4aj2/la-scene-paris-08; Stéphanie Le Quellec; 75008; Prix - De 50 € à 195 €
+L'Atelier de Joël Robuchon - St-Germain;  https://restaurant.michelin.fr/2dduyu5/latelier-de-joel-robuchon-st-germain-paris-07; ; 75007; Prix - De 80 € à 189 €
+Penati al Baretto;  https://restaurant.michelin.fr/9oo4cel/penati-al-baretto-paris-08; Alberico Penati; 75008; Prix - De 39 € à 95 €
+Le Chantecler;  https://restaurant.michelin.fr/2a4echf50/le-chantecler-nice; ; 06000; Prix - De 130 € à 230 €
+Ambroisie;  https://restaurant.michelin.fr/2b416ek/ambroisie-saint-didier-de-la-tour; ; 38110; Prix - De 30 € à 95 €
+Flaveur;  https://restaurant.michelin.fr/2exgwy4/flaveur-nice; Gaël et Mickaël Tourteaux; 06000; Prix - De 58 € à 75 €
+Restaurant des Rois;  https://restaurant.michelin.fr/2bh3p7k/restaurant-des-rois-beaulieu-sur-mer; Yannick Franques; 06310; Prix - De 70 € à 218 €
+Mon Plaisir;  https://restaurant.michelin.fr/2d6m1yv/mon-plaisir-chamesol; ; 25190; Prix - De 48 € à 95 €
+Le Domaine de la Corniche;  https://restaurant.michelin.fr/2cmxk0v/le-domaine-de-la-corniche-rolleboise; Julien Razemon; 78270; Prix - De 35 € à 65 €
+Les Pyrénées;  https://restaurant.michelin.fr/2cqrobi/les-pyrenees-saint-jean-pied-de-port; ; 64220; Prix - De 42 € à 115 €
+Le Foch;  https://restaurant.michelin.fr/2anjd1l/le-foch-reims; ; 51100; Prix - De 35 € à 130 €
+La Tour des Vents;  https://restaurant.michelin.fr/28vws7k/la-tour-des-vents-monbazillac; Damien Fagette; 24240; Prix - De 39 € à 89 €
+Le Pré - Xavier Beaudiment;  https://restaurant.michelin.fr/2ev16nl/le-pre-xavier-beaudiment-durtol; Xavier Beaudiment; 63830; Prix - De 39 € à 129 €
+L'Éveil des Sens;  https://restaurant.michelin.fr/2f77d7t/leveil-des-sens-mayenne; ; 53100; Prix - De 26 € à 74 €
+La Table du 11;  https://restaurant.michelin.fr/d4dm7ddr/la-table-du-11-versailles; Jean-Baptiste Lavergne-Morazzani; 78000; Prix - De 45 € à 100 €
+Auberge du Dun;  https://restaurant.michelin.fr/28z3n7r/auberge-du-dun-le-bourg-dun; ; 76740; Prix - De 31 € à 110 €
+L'Amphitryon;  https://restaurant.michelin.fr/2b3pf5k/lamphitryon-colomiers; Yannick Delpech; 31770; Prix - De 38 € à 149 €
+Côté Jardin;  https://restaurant.michelin.fr/29jyv6a/cote-jardin-gien; ; 45500; Prix - De 29 € à 80 €
+Ithurria;  https://restaurant.michelin.fr/2bbain5/ithurria-ainhoa; Xavier Isabal; 64250; Prix - De 42 € à 65 €
+Auberge de l'Abbaye;  https://restaurant.michelin.fr/2dnoa2o/auberge-de-labbaye-ambronay; ; 01500; Prix - De 45 € à 130 €
+Gill;  https://restaurant.michelin.fr/2aqe7bm/gill-rouen; Gilles Tournadre; 76000; Prix - De 45 € à 140 €
+La Bonne Auberge;  https://restaurant.michelin.fr/29ifnwu/la-bonne-auberge-stiring-wendel; ; 57350; Prix - De 48 € à 130 €
+L'Atelier de Joël Robuchon - Étoile;  https://restaurant.michelin.fr/2feca5y/latelier-de-joel-robuchon-etoile-paris-08; ; 75008; Prix - De 49 € à 210 €
+Saturne;  https://restaurant.michelin.fr/2fe4uol/saturne-paris-02; ; 75002; Prix - De 50 € à 90 €
+La Chassagnette;  https://restaurant.michelin.fr/28qr6q2/la-chassagnette-arles; Armand Arnal; 13200; Prix - De 55 € à 115 €
+L'Axel;  https://restaurant.michelin.fr/29i66ux/laxel-fontainebleau; Kunihisa Goto; 77300; Prix - De 33 € à 101 €
+Maximilien;  https://restaurant.michelin.fr/2aoyre2/maximilien-zellenberg; Jean-Michel Eblin; 68340; Prix - De 35 € à 92 €
+Épicure;  https://restaurant.michelin.fr/2ab8pfp/epicure-paris-08; Eric Frechon; 75008; Prix - De 145 € à 350 €
+Auberge des Templiers;  https://restaurant.michelin.fr/2bicgcl/auberge-des-templiers-les-bezards; Martin Simonart; 45290; Prix - De 70 € à 160 €
+ERH;  https://restaurant.michelin.fr/3345846/erh-paris-02; Keita Kitamura; 75002; Prix - De 48 € à 85 €
+Le Figuier de St-Esprit;  https://restaurant.michelin.fr/2ejmich/le-figuier-de-st-esprit-antibes; ; 06600; Prix - De 42 € à 200 €
+La Table de la Ferme;  https://restaurant.michelin.fr/3623651/la-table-de-la-ferme-sartene; ; 20100; Prix - De 125 € à 195 €
+La Table de La Butte;  https://restaurant.michelin.fr/2cj2itx/la-table-de-la-butte-plouider; Nicolas Conraux; 29260; Prix - De 34 € à 118 €
+Le St-Placide;  https://restaurant.michelin.fr/2av98t5/le-st-placide-saint-malo; Luc Mobihan; 35400; Prix - De 35 € à 112 €
+Baieta;  https://restaurant.michelin.fr/3750236/baieta-paris-05; Julia Sedefdjian; 75005; Prix - De 29 € à 85 €
+Ritz Paris - Les Jardins de l'Espadon;  https://restaurant.michelin.fr/2a7bw8d/ritz-paris-les-jardins-de-lespadon-paris-01; Nicolas Sale; 75001; Prix - De 120 € à 145 €
+La Petite Maison de Cucuron;  https://restaurant.michelin.fr/29c2o3y/la-petite-maison-de-cucuron-cucuron; ; 84160; Prix - De 60 € à 90 €
+Au 14 Février;  https://restaurant.michelin.fr/3ffziwd6/au-14-fevrier-platre-durand; ; 71570; Prix - De 65 € à 120 €
+Restaurant du Palais Royal;  https://restaurant.michelin.fr/2a7qx35/restaurant-du-palais-royal-paris-01; Philip Chronopoulos; 75001; Prix - De 48 € à 152 €
+Le Bec au Cauchois;  https://restaurant.michelin.fr/2b6gbtl/le-bec-au-cauchois-valmont; Pierre Caillet; 76540; Prix - De 35 € à 75 €
+Patrick Jeffroy;  https://restaurant.michelin.fr/2bm9rwc/patrick-jeffroy-carantec; Patrick Jeffroy; 29660; Prix - De 48 € à 148 €
+Étincelles - La Gentilhommière;  https://restaurant.michelin.fr/2ejolq7/etincelles-la-gentilhommiere-sainte-sabine; ; 24440; Prix - De 47 € à 117 €
+Flaveurs;  https://restaurant.michelin.fr/2e043qi/flaveurs-valence; Baptiste Poinot; 26000; Prix - De 38 € à 92 €
+La Scène Thélème;  https://restaurant.michelin.fr/ygx47dyb/la-scene-theleme-paris-17; Julien Rocheteau; 75017; Prix - De 39 € à 179 €
+Le Puits St-Jacques;  https://restaurant.michelin.fr/29nnrkd/le-puits-st-jacques-pujaudran; ; 32600; Prix - De 34 € à 140 €
+Aux Pesked;  https://restaurant.michelin.fr/2aru9pt/aux-pesked-saint-brieuc; Mathieu Aumont; 22000; Prix - De 54 € à 95 €
+L'Oustalet;  https://restaurant.michelin.fr/2dfwq14/loustalet-gigondas; Laurent Deconinck; 84190; Prix - De 35 € à 125 €
+L'Émulsion;  https://restaurant.michelin.fr/5jdkm0u/lemulsion-saint-alban-de-roche; ; 38080; Prix - De 18 € à 65 €
+La Voile;  https://restaurant.michelin.fr/9tangja/la-voile-ramatuelle; Éric  Canino; 83350; Prix - De 102 € à 129 €
+L'Arcane;  https://restaurant.michelin.fr/vx40rloc/larcane-paris-18; ; 75018; Prix - De 34 € à 105 €
+Le Georges;  https://restaurant.michelin.fr/2boyz17/le-georges-chartres; Thomas Parnaud; 28000; Prix - De 50 € à 95 €
+Le 1947;  https://restaurant.michelin.fr/2eac1q1/le-1947-courchevel-1850; Yannick Alléno; 73120; Prix - De 150 € à 450 €
+Oka;  https://restaurant.michelin.fr/3855601/oka-paris-05; Raphaël Rego; 75005; Prix - De 35 € à 55 €
+Assiette Champenoise;  https://restaurant.michelin.fr/2cliodi/assiette-champenoise-tinqueux; Arnaud Lallement; 51430; Prix - De 95 € à 185 €
+Le Pot d'Étain;  https://restaurant.michelin.fr/28vc6i9/le-pot-detain-danjoutin; ; 90400; Prix - De 35 € à 110 €
+Les Ducs de Lorraine;  https://restaurant.michelin.fr/29fq33a/les-ducs-de-lorraine-epinal; Stéphane Ringer et Rémi Gornet; 88000; Prix - De 45 € à 200 €
+Le Saint-Estève;  https://restaurant.michelin.fr/2x1lce26/le-saint-esteve-le-tholonet; Mathias Dandine; 13100; Prix - De 59 € à 155 €
+Auguste;  https://restaurant.michelin.fr/2dof8zp/auguste-paris-07; Gaël Orieux; 75007; Prix - De 37 € à 100 €
+L'Almandin;  https://restaurant.michelin.fr/2as8r3a/lalmandin-saint-cyprien-plage; Christophe Schmitt; 66750; Prix - De 30 € à 108 €
+Auberge La Fenière;  https://restaurant.michelin.fr/29sgjsx279/auberge-la-feniere-cadenet; Reine et Nadia Sammut; 84160; Prix - De 30 € à 50 €
+L'Oasis;  https://restaurant.michelin.fr/29v9df2/loasis-mandelieu-la-napoule; Alain Montigny; 06210; Prix - De 69 € à 282 €
+Le Vieux Logis;  https://restaurant.michelin.fr/2cz3yz2/le-vieux-logis-tremolat; Vincent Arnould; 24510; Prix - De 50 € à 120 €
+Le Beaulieu;  https://restaurant.michelin.fr/29vchdk/le-beaulieu-le-mans; ; 72000; Prix - De 29 € à 88 €
+Restaurant De Lauzun;  https://restaurant.michelin.fr/4041396/restaurant-de-lauzun-pezenas; ; 34120; Prix - De 32 € à 105 €
+Thierry Drapeau;  https://restaurant.michelin.fr/2dnrb62/thierry-drapeau-saint-sulpice-le-verdon; Thierry Drapeau; 85260; Prix - De 58 € à 148 €
+L'Hysope;  https://restaurant.michelin.fr/hq8ezzf7/lhysope-la-jarrie; ; 17220; Prix - De 27 € à 125 €
+L'Allée des Vignes;  https://restaurant.michelin.fr/aisrm50/lallee-des-vignes-cajarc; Claude-Emmanuel Robin; 46160; Prix - De 17.5 € à 57 €
+En Pleine Nature;  https://restaurant.michelin.fr/s5y0mmq/en-pleine-nature-fonsegrives; ; 31130; Prix - De 30 € à 78 €
+La Table Saint-Crescent;  https://restaurant.michelin.fr/2a3kuo9/la-table-saint-crescent-narbonne; ; 11100; Prix - De 35 € à 110 €
+Baumanière 1850;  https://restaurant.michelin.fr/2f4vonu/baumaniere-1850-courchevel-1850; ; 73120; Prix - De 160 € à 220 €
+Maison Chabran - La Grande Table;  https://restaurant.michelin.fr/2d0la2d/maison-chabran-la-grande-table-pont-de-lisere; Sandrine Dupin; 26600; Prix - De 69 € à 240 €
+Stéphane Derbord;  https://restaurant.michelin.fr/29dkmez/stephane-derbord-dijon; Stéphane Derbord; 21000; Prix - De 28 € à 90 €
+Prairial;  https://restaurant.michelin.fr/cpiyfjc0/prairial-lyon; ; 69001; Prix - De 34 € à 88 €
+Le Pourquoi Pas;  https://restaurant.michelin.fr/a6rns6u0/le-pourquoi-pas-dinard; Le chef breton Julien Hennote; 35800; Prix - De 28 € à 105 €
+Maison Rostang;  https://restaurant.michelin.fr/2afdah0/maison-rostang-paris-17; Nicolas Beaumann; 75017; Prix - De 90 € à 235 €
+Le Cerf;  https://restaurant.michelin.fr/2c74pw3/le-cerf-marlenheim; ; 67520; Prix - De 47 € à 199 €
+Le Favre d'Anne;  https://restaurant.michelin.fr/dekdkvvj/le-favre-danne-angers; ; 49000; Prix - De 40 € à 105 €
+Un Parfum de Gourmandise;  https://restaurant.michelin.fr/p47009z/un-parfum-de-gourmandise-perigueux; ; 24000; Prix - De 35 € à 61 €
+Le Chateaubriand;  https://restaurant.michelin.fr/2e6jtym/le-chateaubriand-paris-11; ; 75011; Prix - De 75 € à 140 €
+Loiseau des Vignes;  https://restaurant.michelin.fr/2ef8rpt/loiseau-des-vignes-beaune; Mourad Haddouche; 21200; Prix - De 23 € à 119 €
+Aigue Marine;  https://restaurant.michelin.fr/2cz1lgu/aigue-marine-treguier; LAISNEY Stanislas; 22220; Prix - De 21 € à 88 €
+La Table des Merville;  https://restaurant.michelin.fr/2b3ktxc/la-table-des-merville-castanet-tolosan; Thierry Merville; 31320; Prix - De 28 € à 110 €
+Tomy & Co;  https://restaurant.michelin.fr/2852136/tomy-co-paris-07; ; 75007; Prix - De 48 € à 80 €
+Pages;  https://restaurant.michelin.fr/9idrgh03/pages-paris-16; ; 75016; Prix - De 55 € à 175 €
+Jean-Luc Tartarin;  https://restaurant.michelin.fr/2enmc29/jean-luc-tartarin-le-havre; Jean-Luc Tartarin; 76600; Prix - De 40 € à 140 €
+L'Anthocyane;  https://restaurant.michelin.fr/30sfws39/lanthocyane-lannion; ; 22300; Prix - De 26 € à 70 €
+Étude;  https://restaurant.michelin.fr/3g8qf775/etude-paris-16; Keisuke Yamagishi; 75116; Prix - De 45 € à 80 €
+Cicada, Table du Hameau;  https://restaurant.michelin.fr/xb2s4av1/cicada-table-du-hameau-paradou; Stéphan Paroche; 13520; Prix - De 75 € à 115 €
+Le Moulin de l'Abbaye;  https://restaurant.michelin.fr/2bk4rlv/le-moulin-de-labbaye-brantome-en-perigord; Jean-Michel Bardet; 24310; Prix - De 55 € à 120 €
+Jean-Claude Leclerc;  https://restaurant.michelin.fr/297ge86/jean-claude-leclerc-clermont-ferrand; Jean-Claude  Leclerc; 63000; Prix - De 36 € à 120 €
+Le Lido;  https://restaurant.michelin.fr/29ajku0/le-lido-propriano; Romuald ROYER; 20110; Prix - De 85 € à 225 €
+Le Gourmet de Sèze;  https://restaurant.michelin.fr/29trkin/le-gourmet-de-seze-lyon-06; Bernard Mariller; 69006; Prix - De 38 € à 125 €
+La Table de l'Ours;  https://restaurant.michelin.fr/2dpd99z/la-table-de-lours-val-disere; Antoine Gras; 73150; Prix - De 95 € à 160 €
+Jean-Marc Pérochon;  https://restaurant.michelin.fr/2dyiess/jean-marc-perochon-bretignolles-sur-mer; Perochon Jean Marc; 85470; Prix - De 35 € à 72 €
+Les Morainières;  https://restaurant.michelin.fr/2dd2ann/les-morainieres-jongieux; Michaël Arnoult; 73170; Prix - De 55 € à 165 €
+Vieux Pont;  https://restaurant.michelin.fr/28vap07/vieux-pont-belcastel; ; 12390; Prix - De 35 € à 95 €
+La Table des Blot - Auberge du Château;  https://restaurant.michelin.fr/2agz71j/la-table-des-blot-auberge-du-chateau-dampierre-en-yvelines; ; 78720; Prix - De 50 € à 80 €
+En Marge;  https://restaurant.michelin.fr/q8lel2a/en-marge-aureville; Frank Renimel; 31320; Prix - De 34 € à 145 €
+La Table d'à Côté;  https://restaurant.michelin.fr/4022946/la-table-da-cote-ardon; ; 45160; Prix - De 32 € à 92 €
+Jean Chauvel;  https://restaurant.michelin.fr/3614956/jean-chauvel-boulogne-billancourt; ; 92100; Prix - De 76 € à 106 €
+La Rotonde;  https://restaurant.michelin.fr/29uqy46/la-rotonde-la-tour-de-salvagny; Jean-François Malle; 69890; Prix - De 39 € à 135 €
+Lulu Rouget;  https://restaurant.michelin.fr/5kf1f62/lulu-rouget-nantes; ; 44000; Prix - De 26 € à 66 €
+Garopapilles;  https://restaurant.michelin.fr/3wsi04j3/garopapilles-bordeaux; ; 33000; Prix - De 35 € à 90 €
+Alain Llorca;  https://restaurant.michelin.fr/2e4vi29/alain-llorca-la-colle-sur-loup; Alain Llorca; 06480; Prix - De 48 € à 230 €
+Le St-Martin;  https://restaurant.michelin.fr/29zciea/le-st-martin-montbeliard; ; 25200; Prix - De 29 € à 78 €
+Château de Sully;  https://restaurant.michelin.fr/2bgynqb/chateau-de-sully-sully; Nicolas Fages; 14400; Prix - De 65 € à 95 €
+L'Océan;  https://restaurant.michelin.fr/szxhgy9t/locean-saint-jean-de-luz; ; 64500; Prix - De 71 € à 105 €
+L'Amaryllis;  https://restaurant.michelin.fr/294rtmv/lamaryllis-saint-remy; ; 71100; Prix - De 28 € à 65 €
+La Table de Patrick Raingeard;  https://restaurant.michelin.fr/2e2m5rq/la-table-de-patrick-raingeard-eze-bord-de-mer; Patrick  Raingeard; 06360; Prix - De 49 € à 150 €
+Le Kaïku;  https://restaurant.michelin.fr/2atmq22/le-kaiku-saint-jean-de-luz; ; 64500; Prix - De 38 € à 95 €
+Carré des Feuillants;  https://restaurant.michelin.fr/2a7gjv9/carre-des-feuillants-paris-01; Alain Dutournier; 75001; Prix - De 68 € à 198 €
+Auberge St-Jean;  https://restaurant.michelin.fr/2athka8/auberge-st-jean-saint-jean-de-blaignac; ; 33420; Prix - De 60 € à 72 €
+La Grande Cascade;  https://restaurant.michelin.fr/2af5lql/la-grande-cascade-paris-16; Frédéric Robert; 75016; Prix - De 89 € à 192 €
+Le Relais Bernard Loiseau;  https://restaurant.michelin.fr/2cur8yy/le-relais-bernard-loiseau-saulieu; Patrick Bertron; 21210; Prix - De 75 € à 250 €
+Pertinence;  https://restaurant.michelin.fr/5sermc3/pertinence-paris-07; ; 75007; Prix - De 45 € à 180 €
+Le Prieuré;  https://restaurant.michelin.fr/2d2wqpd/le-prieure-villeneuve-les-avignon; Marc Fontanne; 30400; Prix - De 36 € à 120 €
+Le Brouillarta;  https://restaurant.michelin.fr/2atl5nc/le-brouillarta-saint-jean-de-luz; ; 64500; Prix - De 25 € à 52 €
+Faventia;  https://restaurant.michelin.fr/2dix4nq137/faventia-tourrettes; Philippe  Jourdin; 83440; Prix - De 75 € à 190 €
+Les Fresques;  https://restaurant.michelin.fr/2ax5yy8/les-fresques-monestier; Didier Casaguana; 24240; Prix - De 45 € à 110 €
+Jérôme Nutile - Le Mas de Boudan;  https://restaurant.michelin.fr/cne1oxue/jerome-nutile-le-mas-de-boudan-nimes; Jérôme Nutile; 30000; Prix - De 45 € à 170 €
+La Barbacane;  https://restaurant.michelin.fr/292xja3/la-barbacane-carcassonne; Jérôme Ryon; 11000; Prix - De 39 € à 145 €
+L'Impertinent;  https://restaurant.michelin.fr/h2j2em3/limpertinent-biarritz; Fabian Feldmann; 64200; Prix - De 38 € à 88 €
+Bruno;  https://restaurant.michelin.fr/29s5co3/bruno-lorgues; Benjamin Bruno; 83510; Prix - De 78 € à 195 €
+Ritz Paris - La Table de l'Espadon;  https://restaurant.michelin.fr/yhoi9vry/ritz-paris-la-table-de-lespadon-paris-01; Nicolas Sale; 75001; Prix - De 186 € à 396 €
+Laurent;  https://restaurant.michelin.fr/2abdvpo/laurent-paris-08; ; 75008; Prix - De 95 € à 245 €
+Clovis;  https://restaurant.michelin.fr/2evgb1v/clovis-tourrettes-sur-loup; ; 06140; Prix - De 49 € à 105 €
+Auberge du Vieux Puits;  https://restaurant.michelin.fr/29ib1yg/auberge-du-vieux-puits-fontjoncouse; Gilles Goujon; 11360; Prix - De 70 € à 205 €
+L'Aupiho;  https://restaurant.michelin.fr/9wstvf9t/laupiho-les-baux-de-provence; Lieven Van Aken; 13520; Prix - De 87 € à 130 €
+Le Fanal;  https://restaurant.michelin.fr/yw26sgs/le-fanal-banyuls-sur-mer; Pascal Borrell; 66650; Prix - De 19 € à 60 €
+Les Rosiers;  https://restaurant.michelin.fr/2epi2a4/les-rosiers-biarritz; Andrée et Stéphane Rosier; 64200; Prix - De 39 € à 83 €
+Le Cinq;  https://restaurant.michelin.fr/2ab2thp/le-cinq-paris-08; Christian Le Squer; 75008; Prix - De 145 € à 400 €
+La Lorraine;  https://restaurant.michelin.fr/2bavyqh/la-lorraine-zoufftgen; Lucien Keff; 57330; Prix - De 36 € à 98 €
+L'O des Vignes;  https://restaurant.michelin.fr/3fa7ojh3/lo-des-vignes-fuisse; ; 71960; Prix - De 27 € à 72 €
+Mariottat;  https://restaurant.michelin.fr/28n68fe/mariottat-agen; ; 47000; Prix - De 28 € à 89 €
+Helen;  https://restaurant.michelin.fr/3o59i9b/helen-paris-08; Sébastien Carmona Porto; 75008; Prix - De 48 € à 160 €
+Raphaël Vionnet;  https://restaurant.michelin.fr/6pyhps6h/raphael-vionnet-thonon-les-bains; Raphaël Vionnet; 74200; Prix - De 58 € à 103 €
+L'Orangerie;  https://restaurant.michelin.fr/2851286/lorangerie-paris-08; Alan Taudon; 75008; Prix - De 75 € à 125 €
+Dominique Bucaille;  https://restaurant.michelin.fr/nwxo8h9/dominique-bucaille-manosque; Dominique et Julia Bucaille; 04100; Prix - De 50 € à 95 €
+Le Vivier;  https://restaurant.michelin.fr/29nsjme/le-vivier-lisle-sur-la-sorgue; Romain Gandolphe; 84800; Prix - De 26 € à 85 €
+Les Trois Soleils de Montal;  https://restaurant.michelin.fr/2coonxc/les-trois-soleils-de-montal-saint-cere; ; 46400; Prix - De 36 € à 88 €
+Abri;  https://restaurant.michelin.fr/mfh3jse/abri-paris-10; ; 75010; Prix - De 26 € à 52 €
+L'Évidence;  https://restaurant.michelin.fr/4024611/levidence-montbazon; ; 37250; Prix - De 29 € à 87 €
+La Table d'Olivier;  https://restaurant.michelin.fr/5f24ty3/la-table-dolivier-brive-la-gaillarde; ; 19100; Prix - De 32 € à 71 €
+Il Cortile;  https://restaurant.michelin.fr/2dcdnms/il-cortile-mulhouse; ; 68100; Prix - De 29 € à 80 €
+Le Village;  https://restaurant.michelin.fr/2ahm97s/le-village-marly-le-roi; ; 78160; Prix - De 50 € à 240 €
+Le Mascaret;  https://restaurant.michelin.fr/2edzchf/le-mascaret-blainville-sur-mer; Philippe Hardy; 50560; Prix - De 25 € à 48 €
+L'Atelier de Jean-Luc Rabanel;  https://restaurant.michelin.fr/2e06dui/latelier-de-jean-luc-rabanel-arles; Jean-Luc Rabanel; 13200; Prix - De 85 € à 145 €
+Les Bacchanales;  https://restaurant.michelin.fr/2en7eas/les-bacchanales-vence; Christophe Dufau; 06140; Prix - De 32 € à 95 €
+Les Climats;  https://restaurant.michelin.fr/3x7v6dz/les-climats-paris-07; Julien Boscus; 75007; Prix - De 45 € à 220 €
+Relais Louis XIII;  https://restaurant.michelin.fr/2a92anu/relais-louis-xiii-paris-06; Manuel Martinez; 75006; Prix - De 65 € à 95 €
+Avel Vor;  https://restaurant.michelin.fr/2da93ps/avel-vor-port-louis; ; 56290; Prix - De 31 € à 105 €
+Alléno Paris au Pavillon Ledoyen;  https://restaurant.michelin.fr/2ab5qlx/alleno-paris-au-pavillon-ledoyen-paris-08; Yannick Alléno; 75008; Prix - De 145 € à 380 €
+Le Chiberta;  https://restaurant.michelin.fr/2abl39j/le-chiberta-paris-08; Stéphane Laruelle; 75008; Prix - De 49 € à 120 €
+Palégrié;  https://restaurant.michelin.fr/2d2itah0/palegrie-correncon-en-vercors; ; 38250; Prix - De 45 € à 88 €
+Maison Aribert;  https://restaurant.michelin.fr/4023881/maison-aribert-saint-martin-duriage; ; 38410; Prix - De 75 € à 189 €
+Maison Decoret;  https://restaurant.michelin.fr/2b7zqic/maison-decoret-vichy; Jacques Decoret; 03200; Prix - De 45 € à 125 €
+Auberge du Paradis;  https://restaurant.michelin.fr/2armsjm/auberge-du-paradis-platre-durand; ; 71570; Prix moyen - 74 €
+Le Clair de la Plume;  https://restaurant.michelin.fr/2faahd5/le-clair-de-la-plume-grignan; Julien Allano; 26230; Prix - De 45 € à 115 €
+Le Camélia;  https://restaurant.michelin.fr/2agf0d1/le-camelia-bougival; ; 78380; Prix - De 32 € à 110 €
+Le Petit Hôtel du Grand Large;  https://restaurant.michelin.fr/2dy7rqn/le-petit-hotel-du-grand-large-portivy; Hervé Bourdon; 56510; Prix - De 29 € à 66 €
+La Carambole;  https://restaurant.michelin.fr/3zm7yv8/la-carambole-schiltigheim; ; 67300; Prix - De 35 € à 80 €
+La Tour d'Argent;  https://restaurant.michelin.fr/2a8xf2a/la-tour-dargent-paris-05; Philippe LABBÉ; 75005; Prix - De 105 € à 360 €
+Le Bénaton;  https://restaurant.michelin.fr/28u9h7z/le-benaton-beaune; Keishi Sugimura; 21200; Prix - De 34 € à 90 €
+Anne de Bretagne;  https://restaurant.michelin.fr/2ciults/anne-de-bretagne-la-plaine-sur-mer; Mathieu Guibert; 44770; Prix - De 39 € à 77 €
+La Table des Frères Ibarboure;  https://restaurant.michelin.fr/28x2q9k/la-table-des-freres-ibarboure-bidart; ; 64210; Prix - De 45 € à 124 €
+Le Grand Restaurant - Jean-François Piège;  https://restaurant.michelin.fr/u5aaw2ah/le-grand-restaurant-jean-francois-piege-paris-08; Jean-François Piège; 75008; Prix - De 116 € à 706 €
+La Chèvre d'Or;  https://restaurant.michelin.fr/2bwkh5l/la-chevre-dor-eze; Arnaud Faye, Chef Exécutif et Julien Dugourd, Chef Pâtissier; 06360; Prix - De 85 € à 300 €
+Château du Mont Joly;  https://restaurant.michelin.fr/2ejhn11/chateau-du-mont-joly-sampans; ; 39100; Prix - De 38 € à 110 €
+Auberge du Pont d'Acigné;  https://restaurant.michelin.fr/2ao77e3/auberge-du-pont-dacigne-noyal-sur-vilaine; Sylvain Guillemot; 35530; Prix - De 44 € à 158 €
+Quinsou;  https://restaurant.michelin.fr/a22cmkwd/quinsou-paris-06; ; 75006; Prix - De 35 € à 75 €
+La Table;  https://restaurant.michelin.fr/ua271jkd/la-table-lille; ; 59000; Prix - De 49 € à 95 €
+La Mirande;  https://restaurant.michelin.fr/2bf3czu/la-mirande-avignon; Florent Pietravalle; 84000; Prix - De 42 € à 85 €
+La Licorne Royale;  https://restaurant.michelin.fr/2ehwc2a/la-licorne-royale-lyons-la-foret; Christophe Poirier; 27480; Prix - De 49 € à 95 €
+Le Cap;  https://restaurant.michelin.fr/2cqc8op/le-cap-saint-jean-cap-ferrat; Yoric Tièche; 06230; Prix - De 154 € à 242 €
+Pierre;  https://restaurant.michelin.fr/29uvz3j/pierre-macon; Christian Gaulin; 71000; Prix - De 29 € à 98 €
+La Coopérative;  https://restaurant.michelin.fr/3w3putu/la-cooperative-belesta; Laurent Lemal; 66720; Prix - De 45 € à 109 €
+Prima;  https://restaurant.michelin.fr/3492296/prima-megeve; Nicolas Hensinger; 74120; Prix moyen - 70 €
+Auberge de la Charme;  https://restaurant.michelin.fr/29dyqga/auberge-de-la-charme-prenois; Nicolas Isnard et David Le Comte; 21370; Prix - De 38 € à 105 €
+Auberge au Bœuf;  https://restaurant.michelin.fr/2b00ufd/auberge-au-boeuf-sessenheim; Yannick Germain; 67770; Prix - De 35 € à 85 €
+Le Grand Véfour;  https://restaurant.michelin.fr/2a7edmf/le-grand-vefour-paris-01; Guy Martin; 75001; Prix - De 115 € à 315 €
+Buerehiesel;  https://restaurant.michelin.fr/2b0sgrs/buerehiesel-strasbourg; Eric Westermann; 67000; Prix - De 37 € à 98 €
+Auberge à la Bonne Idée;  https://restaurant.michelin.fr/2ak8isu/auberge-la-bonne-idee-saint-jean-aux-bois; Yves Giustiniani; 60350; Prix - De 38.5 € à 89 €
+Racines;  https://restaurant.michelin.fr/3rs0bg1/racines-rennes; ; 35000; Prix - De 28 € à 58 €
+Le Bon Accueil;  https://restaurant.michelin.fr/29v2jed/le-bon-accueil-malbuisson; ; 25160; Prix - De 47 € à 95 €
+Maximin Hellio;  https://restaurant.michelin.fr/u945qtuv/maximin-hellio-deauville; Maximin Hellio; 14800; Prix - De 35 € à 125 €
+La Table d'Eugène;  https://restaurant.michelin.fr/2et2alx/la-table-deugene-paris-18; ; 75018; Prix - De 45 € à 130 €
+La Marelle;  https://restaurant.michelin.fr/28zbkc6/la-marelle-peronnas; Didier Goiffon; 01960; Prix - De 45 € à 96 €
+La Liégeoise;  https://restaurant.michelin.fr/2fa1zgi202/la-liegeoise-wimereux; Benjamin Delpierre; 62930; Prix - De 49 € à 79 €
+Fanny Rey & Jonathan Wahid;  https://restaurant.michelin.fr/389tiwsv/fanny-rey-jonathan-wahid-saint-remy-de-provence; ; 13210; 
+Relais de la Poste;  https://restaurant.michelin.fr/2c6dfrz/relais-de-la-poste-magescq; Jean Coussau; 40140; Prix - De 59 € à 127 €
+Les Trois Rochers;  https://restaurant.michelin.fr/2bi0j2j/les-trois-rochers-sainte-marine; ; 29120; Prix - De 50 € à 90 €
+Neige d'Été;  https://restaurant.michelin.fr/9fkib5i9/neige-dete-paris-15; Hideki Nishi; 75015; Prix - De 55 € à 130 €
+Le Neuvième Art;  https://restaurant.michelin.fr/6pz7edt2/le-neuvieme-art-lyon-06; ; 69006; Prix - De 95 € à 160 €
+Michel Trama;  https://restaurant.michelin.fr/2ckuncq/michel-trama-puymirol; ; 47270; Prix - De 75 € à 215 €
+La Galinette;  https://restaurant.michelin.fr/2ajskia/la-galinette-perpignan; Christophe Comes; 66000; Prix - De 25 € à 80 €
+La Table d'Uzès;  https://restaurant.michelin.fr/1ss80t3t/la-table-duzes-uzes; Christophe  Ducros; 30700; Prix - De 34 € à 86 €
+Hostellerie de la Pointe St-Mathieu;  https://restaurant.michelin.fr/2brleio/hostellerie-de-la-pointe-st-mathieu-le-conquet; ; 29217; Prix - De 29 € à 105 €
+Le Candille;  https://restaurant.michelin.fr/2a1fgdk/le-candille-mougins; ; 06250; 
+Le Belvédère;  https://restaurant.michelin.fr/2d4rcim/le-belvedere-bozouls; ; 12340; Prix - De 41 € à 101 €
+La Dame de Pic;  https://restaurant.michelin.fr/jgnpf8y/la-dame-de-pic-paris-01; ; 75001; 
+Le Corot;  https://restaurant.michelin.fr/2aiulws5/le-corot-ville-davray; ; 92410; Prix - De 60 € à 130 €
+1912;  https://restaurant.michelin.fr/cns0apa3/1912-trouville-sur-mer; Johan Thyriot; 14360; Prix - De 59 € à 108 €
+Le Pavillon des Boulevards;  https://restaurant.michelin.fr/28y19tl/le-pavillon-des-boulevards-bordeaux; Thomas Morel; 33000; Prix - De 35 € à 130 €
+Les Prés d'Eugénie - Michel Guérard;  https://restaurant.michelin.fr/29g9pvw/les-pres-deugenie-michel-guerard-eugenie-les-bains; Michel Guérard; 40320; Prix - De 133 € à 255 €
+La Gourmandière - La Table d'Olivier;  https://restaurant.michelin.fr/3n5gkk2/la-gourmandiere-la-table-dolivier-vannes; Olivier Samson; 56000; Prix - De 26 € à 60 €
+Le Jardin des Remparts;  https://restaurant.michelin.fr/28u6ql7/le-jardin-des-remparts-beaune; ; 21200; 
+La Matelote;  https://restaurant.michelin.fr/28yvb9u/la-matelote-boulogne-sur-mer; ; 62200; 
+La Maison d'à Côté;  https://restaurant.michelin.fr/2dxwn73/la-maison-da-cote-montlivault; Christophe Hay; 41350; Prix - De 42 € à 150 €
+Roscanvec;  https://restaurant.michelin.fr/2b6s3ty/roscanvec-vannes; ; 56000; Prix - De 32 € à 105 €
+Georges Blanc;  https://restaurant.michelin.fr/2d3ergs/georges-blanc-vonnas; ; 01540; 
+Stéphane Carbone;  https://restaurant.michelin.fr/2enzj8x/stephane-carbone-caen; ; 14000; Prix - De 29 € à 98 €
+Le Hittau;  https://restaurant.michelin.fr/2d9288s/le-hittau-saint-vincent-de-tyrosse; Yannick Duc; 40230; Prix - De 28 € à 85 €
+Le Pergolèse;  https://restaurant.michelin.fr/2aeinde/le-pergolese-paris-16; Stéphane Gaborieau; 75116; Prix - De 50 € à 125 €
+Apicius;  https://restaurant.michelin.fr/2ek9zhh/apicius-clermont-ferrand; Arkadiusz Zuchmanski; 63000; Prix - De 39 € à 129 €
+L'Atlantide 1874 - Maison Guého;  https://restaurant.michelin.fr/2a32200/latlantide-1874-maison-gueho-nantes; ; 44100; Prix - De 40 € à 125 €
+Le Relais des Moines;  https://restaurant.michelin.fr/28qae64/le-relais-des-moines-les-arcs; Sébastien Sanjou; 83460; Prix - De 48 € à 130 €
+La Mare aux Oiseaux;  https://restaurant.michelin.fr/2atvlv0/la-mare-aux-oiseaux-saint-joachim; Eric Guérin; 44720; Prix - De 55 € à 75 €
+William Frachot;  https://restaurant.michelin.fr/2buprmi/william-frachot-dijon; ; 21000; Prix - De 55 € à 90 €
+Radio;  https://restaurant.michelin.fr/2bqajf6/radio-chamalieres; ; 63400; Prix - De 30 € à 88 €
+Auberge St-Walfrid;  https://restaurant.michelin.fr/2ayc9n6/auberge-st-walfrid-sarreguemines; ; 57200; Prix - De 42 € à 128 €
+Benoit;  https://restaurant.michelin.fr/2a8isn4/benoit-paris-04; Fabienne Eymard; 75004; Prix - De 39 € à 100 €
+Les Berceaux;  https://restaurant.michelin.fr/29fhuzu/les-berceaux-epernay; Patrick Michelon; 51200; Prix - De 45 € à 95 €
+Les Pêcheurs;  https://restaurant.michelin.fr/29ol879/les-pecheurs-antibes; ; 06600; 
+Le Kléber;  https://restaurant.michelin.fr/29bkalt/le-kleber-crest; Sébastien Bonnet; 26400; Prix - De 35 € à 74 €
+Maison Prévôt;  https://restaurant.michelin.fr/2947j86/maison-prevot-cavaillon; ; 84300; Prix - De 35 € à 98 €
+Paul Bocuse;  https://restaurant.michelin.fr/29tbf1t/paul-bocuse-collonges-au-mont-dor; ; 69660; 
+La Table de Nans;  https://restaurant.michelin.fr/akfvyg8/la-table-de-nans-la-ciotat; ; 13600; Prix - De 49 € à 105 €
+Astrance;  https://restaurant.michelin.fr/2aeq3md/astrance-paris-16; ; 75016; 
+Le Cénacle;  https://restaurant.michelin.fr/ua83vloo/le-cenacle-toulouse; Thomas Vonderscher; 31000; Prix - De 39 € à 89 €
+114, Faubourg;  https://restaurant.michelin.fr/2f3fs2n/114-faubourg-paris-08; ; 75008; Prix - De 80 € à 130 €
+Lasserre;  https://restaurant.michelin.fr/2abcqvg/lasserre-paris-08; ; 75008; Prix - De 90 € à 350 €
+La Pyramide - Patrick Henriroux;  https://restaurant.michelin.fr/2f4bg71/la-pyramide-patrick-henriroux-vienne; Patrick Henriroux; 38200; Prix - De 66 € à 198 €
+Le Kintessence;  https://restaurant.michelin.fr/am8q9hp/le-kintessence-courchevel-1850; Jean-Rémi Caillon; 73120; Prix - De 160 € à 300 €
+Akrame;  https://restaurant.michelin.fr/2851396/akrame-paris-08; ; 75008; Prix - De 65 € à 160 €
+La Terrasse;  https://restaurant.michelin.fr/4025851/la-terrasse-saint-raphael; ; 83700; Prix - De 92 € à 132 €
+Régis et Jacques Marcon;  https://restaurant.michelin.fr/2dntkxh/regis-et-jacques-marcon-saint-bonnet-le-froid; Régis et  Jacques Marcon; 43290; Prix - De 130 € à 180 €
+Frenchie;  https://restaurant.michelin.fr/2f44u91/frenchie-paris-02; ; 75002; Prix - De 48 € à 78 €
+Le Montgomerie;  https://restaurant.michelin.fr/29b4lr4/le-montgomerie-courchevel-1850; ; 73120; Prix - De 190 € à 315 €
+Table - Bruno Verjus;  https://restaurant.michelin.fr/3ffvej5j/table-bruno-verjus-paris-12; ; 75012; Prix - De 85 € à 125 €
+Domaine de Rochevilaine;  https://restaurant.michelin.fr/2bij0t1/domaine-de-rochevilaine-billiers; Maxime Nouail; 56190; Prix - De 44 € à 110 €
+La Bastide St-Antoine;  https://restaurant.michelin.fr/29ktfvn/la-bastide-st-antoine-grasse; ; 06130; 
+L'Odas;  https://restaurant.michelin.fr/33tyod0j/lodas-rouen; Olivier Da Silva; 76000; Prix - De 29 € à 80 €
+Paloma;  https://restaurant.michelin.fr/280mq6yn/paloma-mougins; Nicolas Decherchi; 06250; Prix - De 59 € à 195 €
+Villa René Lalique;  https://restaurant.michelin.fr/t645yf86/villa-rene-lalique-wingen-sur-moder; Jean-Georges Klein et  Paul Stradner; 67290; Prix - De 78 € à 240 €
+Jin;  https://restaurant.michelin.fr/1t2b08px/jin-paris-01; Takuya Watanabe; 75001; Prix - De 95 € à 145 €
+U Santa Marina;  https://restaurant.michelin.fr/2e7dmcj/u-santa-marina-porto-vecchio; ; 20137; Prix - De 69 € à 125 €
+Cyril Attrazic;  https://restaurant.michelin.fr/28rd58x/cyril-attrazic-aumont-aubrac; Cyril Attrazic; 48130; Prix - De 38 € à 95 €
+Hostellerie de Plaisance;  https://restaurant.michelin.fr/2cp6y7n/hostellerie-de-plaisance-saint-emilion; Ronan Kervarrec; 33330; Prix - De 68 € à 156 €
+Auberge Frankenbourg;  https://restaurant.michelin.fr/29qv5p8/auberge-frankenbourg-la-vancelle; Sébastien Buecher; 67730; Prix - De 40 € à 75 €
+Albert 1er;  https://restaurant.michelin.fr/2bnvpvu/albert-1er-chamonix-mont-blanc; ; 74400; 
+La Tour des Sens;  https://restaurant.michelin.fr/2dr8ble/la-tour-des-sens-tencin; ; 38570; Prix - De 40 € à 89 €
+Mavrommatis;  https://restaurant.michelin.fr/2a95vol/mavrommatis-paris-05; ; 75005; 
+La Marine;  https://restaurant.michelin.fr/29n79hz/la-marine-lherbaudiere; ; 85330; 
+La Côte Saint-Jacques;  https://restaurant.michelin.fr/2c2ma30/la-cote-saint-jacques-joigny; Jean-Michel Lorain; 89300; Prix - De 79 € à 238 €
+Au Déjeuner de Sousceyrac;  https://restaurant.michelin.fr/2b0i0m7/au-dejeuner-de-sousceyrac-sousceyrac-en-quercy; ; 46190; Prix - De 30 € à 80 €
+Yoshinori;  https://restaurant.michelin.fr/3361741/yoshinori-paris-06; Yoshinori Morié; 75006; Prix moyen - 45 €
+La Fourchette des Ducs;  https://restaurant.michelin.fr/2a5ztne/la-fourchette-des-ducs-obernai; Nicolas Stamm; 67210; Prix - De 120 € à 177 €
+Une Table au Sud;  https://restaurant.michelin.fr/29w4kky/une-table-au-sud-marseille-02; ; 13002; 
+Auberge de la Tour;  https://restaurant.michelin.fr/aewyhv0/auberge-de-la-tour-marcoles; Renaud Darmanin; 15220; Prix - De 22 € à 66 €
+Le Pousse-Pied;  https://restaurant.michelin.fr/376ocf6f/le-pousse-pied-la-tranche-sur-mer; ; 85360; Prix - De 19 € à 65 €
+Gordon Ramsay au Trianon;  https://restaurant.michelin.fr/2aiqpqd/gordon-ramsay-au-trianon-versailles; ; 78000; 
+Les Fresques;  https://restaurant.michelin.fr/29gdnxp256n/les-fresques-evian-les-bains; Patrice Vander; 74500; Prix - De 75 € à 120 €
+JAN;  https://restaurant.michelin.fr/38z104i7/jan-nice; Jan Hendrik van der Westhuizen; 06000; Prix - De 55 € à 164 €
+Entre Vigne et Garrigue;  https://restaurant.michelin.fr/2etuup9/entre-vigne-et-garrigue-pujaut; Serge et Maxime Chenet; 30131; Prix - De 38 € à 135 €
+L'Impertinent;  https://restaurant.michelin.fr/h2j2em3/limpertinent-biarritz; Fabian Feldmann; 64200; Prix - De 38 € à 88 €
+Jérôme Feck;  https://restaurant.michelin.fr/294k5c0/jerome-feck-chalons-en-champagne; ; 51000; Prix - De 66 € à 108 €
+La Source;  https://restaurant.michelin.fr/4025941/la-source-saint-galmier; ; 42330; Prix - De 32 € à 70 €
+Thierry Schwartz - Le Restaurant;  https://restaurant.michelin.fr/2a619xs/thierry-schwartz-le-restaurant-obernai; ; 67210; Prix - De 59 € à 135 €
+La Vieille Tour;  https://restaurant.michelin.fr/2arxchk/la-vieille-tour-plerin; ; 22190; Prix - De 26 € à 79 €
+L'Or Q'idée;  https://restaurant.michelin.fr/3616391/lor-qidee-pontoise; ; 95000; Prix - De 37 € à 69 €
+Le P'tit Polyte;  https://restaurant.michelin.fr/2bufvvg87/le-ptit-polyte-venosc; Mathew Hegarty; 38860; Prix - De 65 € à 105 €
+Le Haut-Allier;  https://restaurant.michelin.fr/2bc2prd/le-haut-allier-le-pont-dalleyras; Philippe Brun; 43580; Prix - De 48 € à 90 €
+Auberge de l'Île Barbe;  https://restaurant.michelin.fr/29tj1pj/auberge-de-lile-barbe-lyon-09; Jean-Christophe Ansanay-Alex; 69009; Prix - De 50 € à 158 €
+Divellec;  https://restaurant.michelin.fr/2852181/divellec-paris-07; Mathieu Pacaud; 75007; Prix - De 49 € à 210 €
+Ô Flaveurs;  https://restaurant.michelin.fr/2dr6qsw/o-flaveurs-douvaine; Jérôme Mamet; 74140; Prix - De 42 € à 105 €
+Le Clos St-Pierre;  https://restaurant.michelin.fr/2aqst5c/le-clos-st-pierre-saint-pons; ; 06650; Prix - De 40 € à 69 €
+Julien Binz;  https://restaurant.michelin.fr/yi79hbnh/julien-binz-ammerschwihr; Le Chef Julien Binz; 68770; Prix moyen - 35 €
+Skab;  https://restaurant.michelin.fr/olnthqo/skab-nimes; ; 30000; Prix - De 26 € à 101 €
+Nature;  https://restaurant.michelin.fr/4024971/nature-armentieres; ; 59280; Prix - De 35 € à 72 €
+Le Sénéchal;  https://restaurant.michelin.fr/2cv1ygx/le-senechal-sauveterre-de-rouergue; ; 12800; 
+L'Atelier du Peintre;  https://restaurant.michelin.fr/2ewn3lj/latelier-du-peintre-colmar; Loïc Lefebvre; 68000; Prix - De 24 € à 80 €
+La Bastide de Capelongue;  https://restaurant.michelin.fr/2bj1jms/la-bastide-de-capelongue-bonnieux; ; 84480; Prix - De 100 € à 210 €
+La Renaissance;  https://restaurant.michelin.fr/28qk3fo/la-renaissance-argentan; Arnaud Viel; 61200; Prix - De 27 € à 70 €
+Au Crocodile;  https://restaurant.michelin.fr/kl196wcf/au-crocodile-strasbourg; Franck Pelux; 67000; Prix - De 48 € à 148 €
+Hostellerie Les Gorges de Pennafort;  https://restaurant.michelin.fr/2blmwvy/hostellerie-les-gorges-de-pennafort-callas; ; 83830; 
+La Marine;  https://restaurant.michelin.fr/2bgh04f/la-marine-carteret; ; 50270; Prix - De 45 € à 120 €
+Fontevraud Le Restaurant;  https://restaurant.michelin.fr/9pbvgq6a/fontevraud-le-restaurant-fontevraud-labbaye; Thibaut  Ruggeri; 49590; Prix - De 58 € à 105 €
+Le Saint-Martin;  https://restaurant.michelin.fr/2d1gnwo/le-saint-martin-vence; Jean-Luc Lefrançois; 06140; Prix - De 42 € à 160 €
+Jean Sulpice;  https://restaurant.michelin.fr/3636676/jean-sulpice-talloires-montmin; ; 74290; Prix - De 105 € à 225 €
+La Signoria;  https://restaurant.michelin.fr/2bs90l6/la-signoria-calvi; Alexandre Fabris; 20260; Prix - De 50 € à 95 €
+L'Aparté;  https://restaurant.michelin.fr/xay649ax/laparte-montrabe; Jérémy Morin; 31850; Prix - De 29 € à 87 €
+Alcyone;  https://restaurant.michelin.fr/3f9eksg5n/alcyone-marseille-02; Lionel Levy; 13002; Prix moyen - 99 €
+La Réserve Rimbaud;  https://restaurant.michelin.fr/2d8d9p1/la-reserve-rimbaud-montpellier; Charles Fontes; 34000; Prix - De 40 € à 100 €
+L'Arôme;  https://restaurant.michelin.fr/2e8vcj7/larome-paris-08; Thomas Boullault; 75008; Prix - De 59 € à 129 €
+Transparence - La Table de Patrick Fréchin;  https://restaurant.michelin.fr/2jtf0iqj/transparence-la-table-de-patrick-frechin-nancy; ; 54000; Prix - De 32 € à 80 €
+L'Aquarelle;  https://restaurant.michelin.fr/2dk9wkt/laquarelle-breuillet; ; 17920; 
+La Nouvelle Auberge;  https://restaurant.michelin.fr/2a2adlj/la-nouvelle-auberge-wihr-au-val; Bernard Leray; 68230; Prix - De 39.8 € à 85 €
+Agapé;  https://restaurant.michelin.fr/2eo1t6h/agape-paris-17; ; 75017; 
+Le Coquillage;  https://restaurant.michelin.fr/291q1xd/le-coquillage-saint-meloir-des-ondes; ; 35350; Prix - De 72 € à 139 €
+La Merise;  https://restaurant.michelin.fr/3614676/la-merise-laubach; ; 67580; Prix - De 27 € à 95 €
+Château de Vauchoux;  https://restaurant.michelin.fr/2alwjjs/chateau-de-vauchoux-vauchoux; ; 70170; Prix - De 88 € à 148 €
+Le Strasbourg;  https://restaurant.michelin.fr/28x69qn/le-strasbourg-bitche; Lutz Janisch; 57230; Prix - De 40 € à 80 €
+Les Trois Dômes;  https://restaurant.michelin.fr/29svngf/les-trois-domes-lyon-02; ; 69002; Prix - De 48 € à 125 €
+Le Quincangrogne;  https://restaurant.michelin.fr/u1pjp7ux/le-quincangrogne-dampmart; Franck Charpentier; 77400; Prix - De 39 € à 59 €
+Christopher Coutanceau;  https://restaurant.michelin.fr/2apfrj5/christopher-coutanceau-la-rochelle; Christopher Coutanceau; 17000; Prix - De 68 € à 165 €
+L'Auberge de Bagatelle;  https://restaurant.michelin.fr/3616226/lauberge-de-bagatelle-le-mans; ; 72000; Prix - De 38 € à 90 €
+Initial;  https://restaurant.michelin.fr/sd2y8ik/initial-caen; ; 14000; 
+L'Épuisette;  https://restaurant.michelin.fr/29w1hx9/lepuisette-marseille-07; Guillaume Sourrieu; 13007; Prix - De 70 € à 105 €
+Villa Archange;  https://restaurant.michelin.fr/2f4ok2n/villa-archange-le-cannet; ; 06110; 
+L'Aspérule;  https://restaurant.michelin.fr/4040011/lasperule-dijon; ; 21000; Prix - De 35 € à 105 €
+Nakatani;  https://restaurant.michelin.fr/3x81832/nakatani-paris-07; ; 75007; Prix - De 55 € à 165 €
+Pèir;  https://restaurant.michelin.fr/r9fvmyyv/peir-gordes; ; 84220; Prix - De 85 € à 255 €
+Pilgrim;  https://restaurant.michelin.fr/4033946/pilgrim-paris-15; ; 75015; Prix - De 40 € à 85 €
+Les Loges;  https://restaurant.michelin.fr/29t3z0x/les-loges-lyon-05; ; 69005; 
+Sarkara;  https://restaurant.michelin.fr/4040361/sarkara-courchevel-1850; ; 73120; Prix - De 78 € à 150 €
+Château de Vault de Lugny;  https://restaurant.michelin.fr/2bezvvp/chateau-de-vault-de-lugny-vault-de-lugny; ; 89200; 
+Dyades au Domaine des Étangs;  https://restaurant.michelin.fr/2f0stuh/dyades-au-domaine-des-etangs-massignac; ; 16310; Prix - De 30 € à 150 €
+Le Jardin des Plumes;  https://restaurant.michelin.fr/omm63qr/le-jardin-des-plumes-giverny; ; 27620; Prix - De 52 € à 98 €
+Le Chabichou;  https://restaurant.michelin.fr/2btao3c/le-chabichou-courchevel-1850; Michel Rochedy et Stéphane Buron; 73120; Prix - De 75 € à 275 €
+La Table d'Hôtes - Le Quatrième Mur;  https://restaurant.michelin.fr/3623606/la-table-dhotes-le-quatrieme-mur-bordeaux; ; 33000; Prix moyen - 170 €
+Passage 53;  https://restaurant.michelin.fr/2ezpxm7/passage-53-paris-02; ; 75002; Prix - De 120 € à 240 €
+La Table de l'Alpaga;  https://restaurant.michelin.fr/9tlmhvt/la-table-de-lalpaga-megeve; Anthony Bisquerra; 74120; Prix - De 105 € à 210 €
+Pur' - Jean-François Rouquette;  https://restaurant.michelin.fr/2dqiunf/pur-jean-francois-rouquette-paris-02; Jean-François Rouquette; 75002; Prix - De 155 € à 275 €
+Le Château de Sable;  https://restaurant.michelin.fr/2nnu14s6/le-chateau-de-sable-porspoder; ; 29840; Prix - De 25 € à 100 €
+Guy Savoy;  https://restaurant.michelin.fr/2afciv4/guy-savoy-paris-06; Guy SAVOY; 75006; Prix - De 234 € à 415 €
+Ivan Vautier;  https://restaurant.michelin.fr/290z3mh/ivan-vautier-caen; Ivan Vautier; 14000; Prix - De 35.5 € à 105 €
+Sur Mesure par Thierry Marx;  https://restaurant.michelin.fr/6f226za/sur-mesure-par-thierry-marx-paris-01; Thierry Marx; 75001; Prix - De 85 € à 210 €
+Le Chiquito;  https://restaurant.michelin.fr/2ago3w6/le-chiquito-mery-sur-oise; ; 95540; Prix - De 67 € à 79 €
+Mère Brazier;  https://restaurant.michelin.fr/2et3r6g/mere-brazier-lyon; Mathieu Viannay; 69001; Prix - De 70 € à 180 €
+Alexandre;  https://restaurant.michelin.fr/2a57m2j/alexandre-garons; Michel Kayser; 30128; Prix - De 52 € à 118 €
+Le Prieuré;  https://restaurant.michelin.fr/28od0rp/le-prieure-ambierle; ; 42820; Prix - De 48 € à 98 €
+La Grenouillère;  https://restaurant.michelin.fr/2a0ne3f/la-grenouillere-la-madelaine-sous-montreuil; ; 62170; Prix - De 80 € à 160 €
+1741;  https://restaurant.michelin.fr/amv21i8/1741-strasbourg; ; 67000; Prix - De 42 € à 129 €
+Le Grand Cap;  https://restaurant.michelin.fr/2851511/le-grand-cap-leucate; ; 11370; Prix - De 36 € à 123 €
+Bras;  https://restaurant.michelin.fr/2c3ezsd/bras-laguiole; ; 12210; Prix - De 145 € à 230 €
+Le Skiff Club;  https://restaurant.michelin.fr/2851256/le-skiff-club-la-teste-de-buch; ; 33260; Prix - De 100 € à 150 €
+Jérôme Brochot;  https://restaurant.michelin.fr/29zgkr3/jerome-brochot-montceau-les-mines; ; 71300; Prix - De 29 € à 75 €
+Kei;  https://restaurant.michelin.fr/9tmwymw/kei-paris-01; Kei Kobayashi; 75001; Prix - De 56 € à 195 €
+Château de Courban;  https://restaurant.michelin.fr/2emcabb/chateau-de-courban-courban; Takashi Kinoshita; 21520; Prix - De 49 € à 149 €
+Lou Cigalon - Maison Martin;  https://restaurant.michelin.fr/41vsxiz/lou-cigalon-maison-martin-valbonne; ; 06560; Prix - De 35 € à 106 €
+L'Orchidée;  https://restaurant.michelin.fr/4039781/lorchidee-altkirch; ; 68130; Prix - De 18 € à 65 €
+L'Escarbille;  https://restaurant.michelin.fr/2dtzs6c/lescarbille-meudon; ; 92190; Prix - De 42 € à 69 €
+La Grand'Vigne;  https://restaurant.michelin.fr/28yhuxy/la-grandvigne-martillac; Nicolas Masse; 33650; Prix - De 75 € à 157 €
+Racine;  https://restaurant.michelin.fr/eiak4cnv/racine-reims; ; 51100; Prix - De 45 € à 100 €
+Les Voiles d'Or;  https://restaurant.michelin.fr/2dtoif7/les-voiles-dor-dieppe; Tristan Arhan; 76200; Prix - De 38 € à 70 €
+Aux Terrasses;  https://restaurant.michelin.fr/2b44str/aux-terrasses-tournus; ; 71700; Prix - De 26 € à 96 €
+Les Genêts;  https://restaurant.michelin.fr/3ws5njk2/les-genets-brem-sur-mer; ; 85470; Prix - De 21 € à 59 €
+L'Abysse au Pavillon Ledoyen;  https://restaurant.michelin.fr/4033636/labysse-au-pavillon-ledoyen-paris-08; ; 75008; Prix - De 98 € à 280 €
+Le Moulin de la Gorce;  https://restaurant.michelin.fr/2awwemv/le-moulin-de-la-gorce-la-roche-labeille; ; 87800; 
+Cobéa;  https://restaurant.michelin.fr/2adr3mu/cobea-paris-14; Philippe Bélissent; 75014; Prix - De 50 € à 120 €
+SEPT;  https://restaurant.michelin.fr/2b38wht/sept-toulouse; ; 31000; Prix - De 32 € à 108 €
+Terre-Mer;  https://restaurant.michelin.fr/2f8kr60/terre-mer-auray; ; 56400; Prix - De 34 € à 85 €
+Le Pavé d'Auge;  https://restaurant.michelin.fr/28wgjgo/le-pave-dauge-beuvron-en-auge; Jérôme Bansard; 14430; Prix - De 38 € à 68 €
+Intuition;  https://restaurant.michelin.fr/3ffxvs0j/intuition-saint-lo; ; 50000; Prix - De 25 € à 67 €
+Les Bories;  https://restaurant.michelin.fr/2byq8tg/les-bories-gordes; ; 84220; Prix - De 29 € à 97 €
+Py-r;  https://restaurant.michelin.fr/2fdyj14/py-r-toulouse; ; 31000; Prix - De 58 € à 78 €
+La Ribaudière;  https://restaurant.michelin.fr/29o99va/la-ribaudiere-bourg-charente; ; 16200; Prix - De 50 € à 115 €
+Casadelmar;  https://restaurant.michelin.fr/2dk81h5143/casadelmar-porto-vecchio; Fabio Bragagnolo; 20137; Prix - De 70 € à 195 €
+L'Ours;  https://restaurant.michelin.fr/4030051/lours-vincennes; ; 94300; Prix - De 45 € à 105 €
+Troisgros - Le Bois sans Feuilles;  https://restaurant.michelin.fr/2cm53gy/troisgros-le-bois-sans-feuilles-ouches; Michel et César Troisgros; 42155; Prix - De 140 € à 250 €
+L'Arnsbourg;  https://restaurant.michelin.fr/yjkdc8kf/larnsbourg-baerenthal; Fabien Mengus; 57230; Prix - De 55 € à 133 €
+Accents Table Bourse;  https://restaurant.michelin.fr/4036951/accents-table-bourse-paris-02; ; 75002; Prix - De 39 € à 73 €
+Les Funambules;  https://restaurant.michelin.fr/4035231/les-funambules-strasbourg; ; 67000; Prix - De 20 € à 54 €
+Restaurant de Tourrel;  https://restaurant.michelin.fr/4038001/restaurant-de-tourrel-saint-remy-de-provence; ; 13210; Prix - De 55 € à 89 €
+Toya;  https://restaurant.michelin.fr/3vxe9bf/toya-faulquemont; Loïc Villemin; 57380; Prix - De 42 € à 120 €
+L'Étang du Moulin;  https://restaurant.michelin.fr/28xqe8v/letang-du-moulin-bonnetage; Jacques Barnachon; 25210; Prix - De 48 € à 87 €
+Äponem - Auberge du Presbytère;  https://restaurant.michelin.fr/4040591/aponem-auberge-du-presbytere-vailhan; ; 34320; Prix - De 38 € à 75 €
+Le 7ème Continent;  https://restaurant.michelin.fr/9tnfzh4/le-7eme-continent-rixheim; ; 68170; 
+Jérémy Galvan;  https://restaurant.michelin.fr/3plxd2e/jeremy-galvan-lyon-05; ; 69005; 
+La Ferme de l'Hospital;  https://restaurant.michelin.fr/2atzy38/la-ferme-de-lhospital-bossey; Jean-Jacques Noguier; 74160; Prix - De 44 € à 100 €
+Le Millénaire;  https://restaurant.michelin.fr/2ank1c1/le-millenaire-reims; Laurent et Thibault Laplaige; 51100; Prix - De 35 € à 120 €
+Le Royal;  https://restaurant.michelin.fr/4033846/le-royal-champillon; ; 51160; Prix - De 62 € à 180 €
+Le Grand Bleu;  https://restaurant.michelin.fr/2d6bc3s/le-grand-bleu-sarlat-la-caneda; Maxime Lebrun; 24200; Prix - De 26 € à 130 €
+La Ville Blanche;  https://restaurant.michelin.fr/29pm63n/la-ville-blanche-la-ville-blanche; ; 22300; Prix - De 37 € à 86 €
+Ima;  https://restaurant.michelin.fr/3616751/ima-rennes; ; 35000; Prix - De 30 € à 90 €
+Le Pré Catelan;  https://restaurant.michelin.fr/2af46v7/le-pre-catelan-paris-16; ; 75016; Prix - De 140 € à 310 €
+Au 14 Février;  https://restaurant.michelin.fr/2f80e2p/au-14-fevrier-saint-valentin; ; 36100; 
+Le Carmin;  https://restaurant.michelin.fr/8zb6c2d4/le-carmin-beaune; Christophe Quéant; 21200; Prix - De 25 € à 100 €
+L'Abeille;  https://restaurant.michelin.fr/2fcezsf/labeille-paris-16; ; 75016; Prix - De 150 € à 250 €
+La Robe;  https://restaurant.michelin.fr/3ffqpazw/la-robe-montaigu; ; 85600; Prix - De 29 € à 75 €
+Loiseau rive Gauche;  https://restaurant.michelin.fr/2aaahmg/loiseau-rive-gauche-paris-07; ; 75007; 
+Stéphane Tournié - Les Jardins de l'Opéra;  https://restaurant.michelin.fr/2b3631b/stephane-tournie-les-jardins-de-lopera-toulouse; Stéphane Tournié; 31000; Prix - De 32 € à 99 €
+L'Alchémille;  https://restaurant.michelin.fr/ua3c2rxf/lalchemille-kaysersberg-vignoble; ; 68240; Prix - De 32 € à 98 €
+Au 14 Février;  https://restaurant.michelin.fr/2f8f1gn/au-14-fevrier-lyon-05; ; 69005; Prix moyen - 92 €
+Hostellerie Jérôme;  https://restaurant.michelin.fr/2b5e0ez/hostellerie-jerome-la-turbie; Bruno Cirino; 06320; Prix - De 96 € à 158 €
+Racines;  https://restaurant.michelin.fr/4031571/racines-paris-02; ; 75002; Prix - De 40 € à 60 €
+Serge Vieira;  https://restaurant.michelin.fr/2ey495p/serge-vieira-chaudes-aigues; ; 15110; Prix - De 92 € à 155 €
+La Chaumière;  https://restaurant.michelin.fr/2buz227/la-chaumiere-dole; Joël Césari; 39100; Prix - De 26 € à 90 €
+Les Explorateurs;  https://restaurant.michelin.fr/ui89zrwk/les-explorateurs-val-thorens; Josselin Jeanblanc; 73440; Prix - De 60 € à 100 €
+Lucas Carton;  https://restaurant.michelin.fr/2abav0l/lucas-carton-paris-08; Julien Dumas; 75008; Prix - De 89 € à 151 €
+Auberge du Vert Mont;  https://restaurant.michelin.fr/13ppe4f4/auberge-du-vert-mont-boeschepe; ; 59299; Prix - De 21 € à 60 €
+Le Quinzième - Cyril Lignac;  https://restaurant.michelin.fr/2dtfbbi/le-quinzieme-cyril-lignac-paris-15; Cyril Lignac; 75015; Prix - De 69 € à 180 €
+Louis;  https://restaurant.michelin.fr/cmfchcva/louis-paris-09; ; 75009; 
+Shang Palace;  https://restaurant.michelin.fr/2fcezsf205/shang-palace-paris-16; Samuel Lee; 75016; Prix - De 48 € à 280 €
+L'Olivier;  https://restaurant.michelin.fr/2css2bw/lolivier-saint-tropez; Phillipe Colinet; 83990; Prix - De 75 € à 100 €
+Ken Kawasaki;  https://restaurant.michelin.fr/ximkypex/ken-kawasaki-paris-18; ; 75018; Prix - De 45 € à 70 €
+Le Roc Alto;  https://restaurant.michelin.fr/8xdk7lc4/le-roc-alto-saint-veran; ; 05350; Prix - De 65 € à 115 €
+Les Terrasses de Lyon;  https://restaurant.michelin.fr/29t2ib7/les-terrasses-de-lyon-lyon-05; David Delsart; 69005; Prix - De 76 € à 120 €
+Le George;  https://restaurant.michelin.fr/9q8vl0jf/le-george-paris-08; Simone Zanoni; 75008; Prix - De 65 € à 110 €
+La Maison dans le Parc;  https://restaurant.michelin.fr/2elnjes/la-maison-dans-le-parc-nancy; ; 54000; 
+Comice;  https://restaurant.michelin.fr/3616836/comice-paris-16; ; 75016; Prix - De 46 € à 120 €
+Copenhague;  https://restaurant.michelin.fr/2916876/copenhague-paris-08; ; 75008; 
+Lait Thym Sel;  https://restaurant.michelin.fr/4027706/lait-thym-sel-angers; ; 49000; Prix moyen - 50 €
+Cayola;  https://restaurant.michelin.fr/2arajo6/cayola-chateau-dolonne; ; 85180; Prix - De 39 € à 108 €
+Le Pavillon;  https://restaurant.michelin.fr/2b3t8kh/le-pavillon-le-touquet-paris-plage; ; 62520; Prix - De 65 € à 155 €
+Château Blanchard;  https://restaurant.michelin.fr/ou4s65x/chateau-blanchard-chazelles-sur-lyon; ; 42140; Prix - De 30 € à 92 €
+La Sommelière;  https://restaurant.michelin.fr/4037936/la-sommeliere-lyon-05; ; 69005; Prix moyen - 72 €
+Domaine des Séquoias;  https://restaurant.michelin.fr/28zo6i3/domaine-des-sequoias-ruy; Eric Jambon; 38300; Prix - De 40 € à 130 €
+Rozo;  https://restaurant.michelin.fr/4036171/rozo-lille; ; 59000; Prix - De 29 € à 62 €
