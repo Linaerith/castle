@@ -1,188 +1,129 @@
-Hotel; Restaurants; Url
- Hotel Ile de la Lagune Thalasso & Spa ; Restaurant l'Almandin ; https://www.relaischateaux.com/us/france/ile-de-la-lagune-saint-cyprien
- Château de Montreuil ; Château de Montreuil ; https://www.relaischateaux.com/us/france/montreuil-pas-de-calais-montreuil
- Hôtel & Spa du Castellet ;  Restaurant Christophe Bacquié ; https://www.relaischateaux.com/us/france/castellet-var-le-castellet
- Hôtel & Spa du Castellet ;  San Felice ; https://www.relaischateaux.com/us/france/castellet-var-le-castellet
- Villa Gallici ; Villa Gallici ; https://www.relaischateaux.com/us/france/gallici-bouches-du-rhone-aix-en-provence
- La Ferme Saint-Siméon ;  La Ferme Saint-Siméon ; https://www.relaischateaux.com/us/france/simeon-calvados-honfleur
- La Ferme Saint-Siméon ;  Bistro La Boucane ; https://www.relaischateaux.com/us/france/simeon-calvados-honfleur
- Auberge des Glazicks ; L'Auberge des Glazicks ; https://www.relaischateaux.com/us/france/auberge-des-glazicks-plomodiern
- La Bastide Saint-Antoine ; La Bastide Saint-Antoine ; https://www.relaischateaux.com/us/france/saintantoine-alpes-maritimes-grasse
- Château de Rochegude ; Roche Aiguë ; https://www.relaischateaux.com/us/france/rochegude-drome-rochegude
- Le Mas des Herbes Blanches ;  La Table du Mas ; https://www.relaischateaux.com/us/france/masherbes-vaucluse-joucas
- Le Mas des Herbes Blanches ;  Le Bistrot du Mas ; https://www.relaischateaux.com/us/france/masherbes-vaucluse-joucas
- Château de Germigney ;  Château de Germigney ; https://www.relaischateaux.com/us/france/germigney-jura-port-lesney
- Château de Germigney ;  Bistrot le Pontarlier ; https://www.relaischateaux.com/us/france/germigney-jura-port-lesney
- Château de Locguénolé ; Château de Locguénolé ; https://www.relaischateaux.com/us/france/locguenole-morbihan-kervignac
- Le Saint-Paul ; Le Saint-Paul ; https://www.relaischateaux.com/us/france/stpaul-alpes-maritimes-saint-paul-de-vence
- L’Hôtel de Toiras & Villa Clarisse ; La Table d'Olivia ; https://www.relaischateaux.com/us/france/toiras-charente-maritime-saint-martin-de-re
- Coquillade Village ;  Le Gourmet ; https://www.relaischateaux.com/us/france/coquillade-vaucluse-gargas
- Castel Clara Thalasso & Spa ;  Le 180° ; https://www.relaischateaux.com/us/france/castelclara-morbihan-bangor
- Castel Clara Thalasso & Spa ;  Le Café Clara ; https://www.relaischateaux.com/us/france/castelclara-morbihan-bangor
- Château de Riell ;  Restaurant du Châtelain ; https://www.relaischateaux.com/us/france/riell-pyrenees-orientales-prades
- Château de Riell ;  Café Casals ; https://www.relaischateaux.com/us/france/riell-pyrenees-orientales-prades
- Auberge du Jeu de Paume ;  La Table du Connétable ; https://www.relaischateaux.com/us/france/jeudepaume-oise-chantilly
- Auberge du Jeu de Paume ;  Le Jardin d'Hiver ; https://www.relaischateaux.com/us/france/jeudepaume-oise-chantilly
- Château de Courcelles ; Château de Courcelles ; https://www.relaischateaux.com/us/france/courcelles-aisne-courcelles-sur-vesle
- Tiara Yaktsa ; Restaurant L'Or Bleu ; https://www.relaischateaux.com/us/france/yaktsa-alpes-maritimes-theoule-sur-mer
- Château de La Chèvre d’Or ;  La Chèvre d'Or ; https://www.relaischateaux.com/us/france/chevredor-alpes-maritimes-eze-village
- Hotel & Restaurant Thierry Drapeau ; Restaurant Thierry Drapeau ; https://www.relaischateaux.com/us/france/thierrydrapeau-vendee-saint-sulpice-le-verdon
- Château de Bagnols ; 1217 ; https://www.relaischateaux.com/us/france/bagnols-rhone-alpes
- Jiva Hill Resort ;  Restaurant Shamwari ; https://www.relaischateaux.com/us/france/jivahill-ain-crozet
- Jiva Hill Resort ;  Le Jardin ; https://www.relaischateaux.com/us/france/jivahill-ain-crozet
- Hostellerie de Levernois ;  Le Gastronomique ; https://www.relaischateaux.com/us/france/levernois-cote-d-or-levernois-beaune
- Hostellerie de Levernois ;  Le Bistrot du Bord de l'Eau ; https://www.relaischateaux.com/us/france/levernois-cote-d-or-levernois-beaune
- La Maison des Bois – Marc Veyrat ; La Maison des Bois – Marc Veyrat ; https://www.relaischateaux.com/us/france/marcveyrat-haute-savoie-manigod
- Les Maisons de Bricourt ; Le Coquillage ; https://www.relaischateaux.com/us/france/bricourt-ille-et-vilaine-saint-meloir-des-ondes
- La Maison d'Uzès ; La Table d'Uzès ; https://www.relaischateaux.com/us/france/maisonduzes-gard-uzes
- La Bonne Étape ;  La Bonne Étape ; https://www.relaischateaux.com/us/france/bonneetape-alpes-de-haute-provence-chateau-arnoux
- La Bonne Étape ;  Au Goût du Jour ; https://www.relaischateaux.com/us/france/bonneetape-alpes-de-haute-provence-chateau-arnoux
- Hôtel Restaurant Clos des Sens - Laurent PETIT ;  Restaurant Clos des Sens - Laurent PETIT ; https://www.relaischateaux.com/us/france/clos-des-sens-haute-savoie
- Hôtel Restaurant Clos des Sens - Laurent PETIT ;  Café Brunet ; https://www.relaischateaux.com/us/france/clos-des-sens-haute-savoie
- Château des Avenières ; Le "M" ; https://www.relaischateaux.com/us/france/avenieres-haute-savoie-cruseilles
- Baumanière Hôtel & Spa ;  L'Oustau de Baumanière ; https://www.relaischateaux.com/us/france/baumaniere-hotel-spa-les-baux-de-provence
- Château de La Chèvre d’Or ;  Terrasse Les Remparts 
- Château de La Chèvre d’Or ;  Les Remparts 
- Château de La Chèvre d’Or ;  Le Café du Jardin 
- Château de Mirambeau ; Château de Mirambeau ; https://www.relaischateaux.com/us/france/mirambeau-charente-maritime-mirambeau
- Flocons de Sel ;  Flocons de Sel ; https://www.relaischateaux.com/us/france/flocons-haute-savoie-megeve
- Flocons de Sel ;  Flocons Village ; https://www.relaischateaux.com/us/france/flocons-haute-savoie-megeve
- Château Cordeillan-Bages ;  Restaurant Cordeillan-Bages ; https://www.relaischateaux.com/us/france/cordeillan-gironde-pauillac
- Château Cordeillan-Bages ;  Café Lavinal ; https://www.relaischateaux.com/us/france/cordeillan-gironde-pauillac
- Domaine Les Crayères ;  Le restaurant gastronomique « Le Parc » ** ; https://www.relaischateaux.com/us/france/crayeres-marne-reims
- Domaine Les Crayères ;  La Brasserie « Le Jardin » ; https://www.relaischateaux.com/us/france/crayeres-marne-reims
- Moulin de l’Abbaye ;  Moulin de l'Abbaye ; https://www.relaischateaux.com/us/france/moulin-dordogne-brantome-en-perigord
- L'Auberge Basque ; La Table de l'Auberge Basque ; https://www.relaischateaux.com/us/france/auberge-basque-saint-pee-sur-nivelle-pyrenees-atlantiques
- Au Cœur du Village Hôtel & Spa ;  Restaurant Gourmand le Cœur ; https://www.relaischateaux.com/us/france/coeurduvillage-rhone-alpes-la-clusaz
- Au Cœur du Village Hôtel & Spa ;  Restaurant Gastronomique le Cinq ; https://www.relaischateaux.com/us/france/coeurduvillage-rhone-alpes-la-clusaz
- Le Domaine de Verchant ;  Verchant ; https://www.relaischateaux.com/us/france/verchant-herault-montpellier
- Le Domaine de Verchant ;  La Plage dans les Vignes ; https://www.relaischateaux.com/us/france/verchant-herault-montpellier
- La Côte Saint Jacques & Spa ;  La côte saint-jacques ; https://www.relaischateaux.com/us/france/la-cote-saint-jacques-yonne-joigny
- La Côte Saint Jacques & Spa ;  Bien Etre & Saveurs ; https://www.relaischateaux.com/us/france/la-cote-saint-jacques-yonne-joigny
- Le Saint-James Bouliac ;  Le Saint-James Bouliac ; https://www.relaischateaux.com/us/france/stjames-gironde-bouliac
- Le Saint-James Bouliac ;  Le Café de L'Espérance ; https://www.relaischateaux.com/us/france/stjames-gironde-bouliac
- Hôtel Crillon le Brave ;  Restaurant La Madeleine ; https://www.relaischateaux.com/us/france/crillonbrave-vaucluse-crillon-le-brave
- Villa Florentine ; Les Terrasses de Lyon ; https://www.relaischateaux.com/us/france/florentine-rhone-lyon
- Grand Hôtel de Cala Rossa & Spa ;  La Table de Cala Rossa ; https://www.relaischateaux.com/us/france/calarossa-corse-porto-vecchio
- Grand Hôtel de Cala Rossa & Spa ;  La Pinède ; https://www.relaischateaux.com/us/france/calarossa-corse-porto-vecchio
- Coquillade Village ;  Le Bistrot ou le Jardin dans les Vignes 
- Coquillade Village ;  Ristorante 
- Hôtel Splendide Royal Paris ; Ristorante Tosca, Paris 8ème ; https://www.relaischateaux.com/us/france/hotel-splendide-royal-paris
- Monte-Carlo Beach ;  Elsa 1 Michelin star ; https://www.relaischateaux.com/us/france/montecarlo-alpes-maritimes-roquebrune-cap-martin
- Hostellerie La Briqueterie ; Restaurant de l'Hostellerie la Briqueterie ; https://www.relaischateaux.com/us/france/briqueterie-marne-vinay
- Cazaudehore « La Forestière » ; Cazaudehore ; https://www.relaischateaux.com/us/france/cazaudehore-yvelines-saint-germain-en-laye
- Relais de la Poste ;  Relais de la Poste ; https://www.relaischateaux.com/us/france/poste-landes-magescq
- Relais de la Poste ;  L'Auberge Côté Quillier ; https://www.relaischateaux.com/us/france/poste-landes-magescq
- Baumanière Hôtel & Spa ;  La Cabro d'Or 
- Baumanière Hôtel & Spa ;  Table d'hôtes - La Cabro d'Or 
- Hameau Albert Ier ;  Albert 1er ; https://www.relaischateaux.com/us/france/albert-haute-savoie-chamonix-mont-blanc
- Hameau Albert Ier ;  La Maison Carrier ; https://www.relaischateaux.com/us/france/albert-haute-savoie-chamonix-mont-blanc
- Hôtel Parc Victoria ; Les Lierres ; https://www.relaischateaux.com/us/france/parcvictoria-pyrenees-atlantiques-saint-jean-de-luz
- Château de Mercuès ;  Le Duèze ; https://www.relaischateaux.com/us/france/mercues-lot-mercues
- Château de Mercuès ;  Le Bistrot du Château ; https://www.relaischateaux.com/us/france/mercues-lot-mercues
- La Grande Maison de Bernard Magrez ; Restaurant Pierre Gagnaire à La Grande Maison de Bernard Magrez ; https://www.relaischateaux.com/us/france/grande-maison-bernard-magrez-gironde-bordeaux
- Château Lafaurie-Peyraguey Hôtel & Restaurant LALIQUE ; Restaurant LALIQUE ; https://www.relaischateaux.com/us/france/chateau-lafaurie-peyraguey-lalique-bommes
- Le Mas de Pierre ;  La Table de Pierre ; https://www.relaischateaux.com/us/france/maspierre-alpes-maritimes-saint-paul-de-vence
- Le Mas de Pierre ;  Lis Orto ; https://www.relaischateaux.com/us/france/maspierre-alpes-maritimes-saint-paul-de-vence
- Les Hauts de Loire ;  Le Restaurant des Hauts de Loire ; https://www.relaischateaux.com/us/france/hauts-loire-loir-et-cher-onzain
- Les Hauts de Loire ;  Bistrot des Hauts de Loire ; https://www.relaischateaux.com/us/france/hauts-loire-loir-et-cher-onzain
- Le Château de Beaulieu ;  Le Meurin ; https://www.relaischateaux.com/us/france/chateaubeaulieu-pas-de-calais-busnes
- Le Château de Beaulieu ;  Le Jardin d'Alice ; https://www.relaischateaux.com/us/france/chateaubeaulieu-pas-de-calais-busnes
- Bas Rupts ; Bas Rupts ; https://www.relaischateaux.com/us/france/basrupts-vosges-gerardmer
- Grand Hôtel du Lion d’Or ; Grand Hôtel du Lion d'Or ; https://www.relaischateaux.com/us/france/liondor-loir-et-cher-romorantin-lanthenay
- Monte-Carlo Beach ;  La Pizzeria 
- Monte-Carlo Beach ;  Le Deck 
- Monte-Carlo Beach ;  La Vigie Lounge & Restaurant 
- Hostellerie La Cheneaudière & Spa ; Hostellerie La Cheneaudière & Spa ; https://www.relaischateaux.com/us/france/cheneaudiere-bas-rhin-colroy-la-roche
- Le Castel Marie-Louise ; Castel Marie-Louise ; https://www.relaischateaux.com/us/france/marielouise-loire-atlantique-la-baule
- La Réserve ; La Réserve ; https://www.relaischateaux.com/us/france/reservealbi-tarn-albi
- Hôtel Restaurant Auberge du Père Bise – Jean Sulpice ;  Auberge du Père Bise - Jean Sulpice ; https://www.relaischateaux.com/us/france/bise-haute-savoie-talloires
- Hôtel Restaurant Auberge du Père Bise – Jean Sulpice ;  Le Bistrot 1903 ; https://www.relaischateaux.com/us/france/bise-haute-savoie-talloires
- Hôtel du Bois Blanc ; La Terrasse des Etangs ; https://www.relaischateaux.com/us/france/hotel-du-bois-blanc-ain-vonnas
- Hôtel Crillon le Brave ;  La Table du Ventoux 
- Hôtel Crillon le Brave ;  La Grange 
- Château de la Treyne ; Château de la Treyne ; https://www.relaischateaux.com/us/france/treyne-lot-lacave
- Brittany & Spa ; Le Brittany ; https://www.relaischateaux.com/us/france/brittany-finistere-roscoff
- Domaine d’Auriac ;  Le restaurant Bernard Rigaudis ; https://www.relaischateaux.com/us/france/auriac-aude-carcassonne
- Domaine d’Auriac ;  Le Bistrot d'Auriac ; https://www.relaischateaux.com/us/france/auriac-aude-carcassonne
- Le Relais Bernard Loiseau – Spa Loiseau des Sens ;  Bernard Loiseau ; https://www.relaischateaux.com/us/france/loiseau-cote-d-or-saulieu
- Le Relais Bernard Loiseau – Spa Loiseau des Sens ;  Loiseau des Sens ; https://www.relaischateaux.com/us/france/loiseau-cote-d-or-saulieu
- Clarance Hôtel ; La Table ; https://www.relaischateaux.com/us/france/clarance-hotel-nord
- Château de Fonscolombe ; L'Orangerie ; https://www.relaischateaux.com/us/france/fonscolombe-bouches-du-rhone
- Hôtel de la Plage ; Hôtel de la Plage ; https://www.relaischateaux.com/us/france/laplage-finistere-sainte-anne-la-palud
- Château de Codignat ; Château de Codignat ; https://www.relaischateaux.com/us/france/codignat-puy-de-dome-bort-l-etang
- Domaine de la Bretesche Golf & Spa ;  Le Montaigu ; https://www.relaischateaux.com/us/france/bretesche-loire-atlantique-missillac
- Domaine de la Bretesche Golf & Spa ;  Le Club ; https://www.relaischateaux.com/us/france/bretesche-loire-atlantique-missillac
- Royal Champagne Hotel & Spa ;  Le Royal ; https://www.relaischateaux.com/us/france/royalchampagne-marne-champillon
- Les Hautes Roches ; Les Hautes Roches ; https://www.relaischateaux.com/us/france/hautesroches-indre-et-loire-rochecorbon
- Domaine de Rochevilaine ; Domaine de Rochevilaine ; https://www.relaischateaux.com/us/france/rochevilaine-morbihan-billiers
- Château d’Audrieu ; Le Séran ; https://www.relaischateaux.com/us/france/audrieu-calvados-audrieu
- Auberge des Templiers ; Auberge des Templiers ; https://www.relaischateaux.com/us/france/templiers-loiret-boismorand
- Troisgros ;  Le Bois sans Feuilles ; https://www.relaischateaux.com/us/france/troisgros-loire-ouches
- Royal Champagne Hotel & Spa ;  Le Bellevue 
- Royal Champagne Hotel & Spa ;  Le Bellevue Bar 
- Château de Noizay ; Le Castel ; https://www.relaischateaux.com/us/france/noizay-indre-et-loire-noizay
- Hôtel Restaurant En Marge ; En Marge ; https://www.relaischateaux.com/us/france/hotel-restaurant-en-marge-aureville
- La Chapelle Saint-Martin ;  La Chapelle Saint Martin ; https://www.relaischateaux.com/us/france/chapelle-haute-vienne-nieul
- La Bastide ; La Table de La Bastide ; https://www.relaischateaux.com/us/france/labastide-gers-barbotan-les-thermes
- Troisgros ;  Le Central 
- Troisgros ;  La Colline du Colombier 
- Château de Drudas ; Le Verdurier ; https://www.relaischateaux.com/us/france/chateau-de-drudas
- La Pyramide Patrick Henriroux ;  La Pyramide Patrick Henriroux ; https://www.relaischateaux.com/us/france/pyramide-isere-vienne
- La Pyramide Patrick Henriroux ;  L'Espace PH3 ; https://www.relaischateaux.com/us/france/pyramide-isere-vienne
- La Chapelle Saint-Martin ;  La Table du Couvent 
- La Chapelle Saint-Martin ;  Le 27 Restaurant 
- Le Suquet, Sébastien Bras ; BRAS ; https://www.relaischateaux.com/us/france/bras-aveyron-laguiole
- Le Chambard ;  La Table d'Olivier Nasti ; https://www.relaischateaux.com/us/france/le-chambard-haut-rhin-kaysersberg
- Le Chambard ;  La Winstub ; https://www.relaischateaux.com/us/france/le-chambard-haut-rhin-kaysersberg
- Hôtel-Spa La Bouitte – Restaurant René et Maxime Meilleur ; Restaurant René & Maxime Meilleur ; https://www.relaischateaux.com/us/france/la-bouitte-savoie
- La Grenouillère ;  La Grenouillère ; https://www.relaischateaux.com/us/france/lagrenouillere-pas-de-calais-la-madelaine-sous-montreuil
- La Grenouillère ;  Froggy's Tavern ; https://www.relaischateaux.com/us/france/lagrenouillere-pas-de-calais-la-madelaine-sous-montreuil
- Moulin de l’Abbaye ;  Au Fil du Temps 
- Moulin de l’Abbaye ;  Au Fil de l'Eau 
- La Signoria & Spa ; La Signoria ; https://www.relaischateaux.com/us/france/signoria-corse-calvi
- Le Clos ; Le Clos ; https://www.relaischateaux.com/us/france/leclos-normandie-verneuil-sur-avre
- Le Grand Cœur & Spa ; Le Grand Coeur & Spa ; https://www.relaischateaux.com/us/france/grandcoeur-savoie-meribel
- L’Arnsbourg Restaurant et Hôtel ; L'Arnsbourg ; https://www.relaischateaux.com/us/france/arnsbourg-moselle-baerenthal
- Hôtel Les Barmes de l'Ours ;  La Table de l'Ours ; https://www.relaischateaux.com/us/france/barmes-de-l-ours-savoie
- Assiette Champenoise ; L'Assiette Champenoise ; https://www.relaischateaux.com/us/france/assiette-champenoise-champagne-ardenne-tinqueux
- Hôtel Les Barmes de l'Ours ;  La Rôtisserie des Barmes 
- Hôtel Les Barmes de l'Ours ;  Coin Savoyard 
- Château de Noirieux ; La Table de Noirieux ; https://www.relaischateaux.com/us/france/noirieux-maine-et-loire-briollay
- La Villa Calvi ; La Table by La Villa ; https://www.relaischateaux.com/us/france/lavilla-haute-corse-calvi
- Hôtel et Restaurant Régis et Jacques Marcon ;  Restaurant Régis et Jacques Marcon ; https://www.relaischateaux.com/us/france/cimes-haute-loire-saint-bonnet-le-froid
- Hôtel et Restaurant Régis et Jacques Marcon ;  La Coulemelle ; https://www.relaischateaux.com/us/france/cimes-haute-loire-saint-bonnet-le-froid
- Cap d’Antibes Beach Hotel ;  Les Pêcheurs ; https://www.relaischateaux.com/us/france/antibes-alpes-maritimes-cap-d-antibes
- Cap d’Antibes Beach Hotel ;  Le Cap ; https://www.relaischateaux.com/us/france/antibes-alpes-maritimes-cap-d-antibes
- Le Phébus & Spa - Villa des Anges ;  La Table de Xavier Mathieu ; https://www.relaischateaux.com/us/france/phebus-vaucluse-gordes
- Le Phébus & Spa - Villa des Anges ;  Le Café de la Fontaine ; https://www.relaischateaux.com/us/france/phebus-vaucluse-gordes
- Maison Pic ;  Anne-Sophie Pic - Le Restaurant ; https://www.relaischateaux.com/us/france/pic-drome-valence
- Maison Pic ;  André ; https://www.relaischateaux.com/us/france/pic-drome-valence
- Anne de Bretagne ; Anne de Bretagne ; https://www.relaischateaux.com/us/france/annedebretagne-loire-atlantique-la-plaine-sur-mer
- Hôtel Le Chabichou Restaurants & Spa ;  Le Chabichou ; https://www.relaischateaux.com/us/france/chabichou-savoie-courchevel-1850
- Hôtel Le Chabichou Restaurants & Spa ;  Le Chabotté ; https://www.relaischateaux.com/us/france/chabichou-savoie-courchevel-1850
- Abbaye de la Bussière ;  Gastronomique ; https://www.relaischateaux.com/us/france/bussiere-cote-d-or-la-bussiere-sur-ouche
- Abbaye de la Bussière ;  Bistrot des Moines ; https://www.relaischateaux.com/us/france/bussiere-cote-d-or-la-bussiere-sur-ouche
- La Bastide de Capelongue ;  Restaurant Edouard Loubet ; https://www.relaischateaux.com/us/france/capelongue-vaucluse-bonnieux-en-provence
- Manoir de Lan-Kerellec ; Manoir de Lan-Kerellec ; https://www.relaischateaux.com/us/france/lankerellec-cotes-d-armor-trebeurden
- Le Club de Cavalière & Spa ; La Vieille Fontaine ; https://www.relaischateaux.com/us/france/cavaliere-var-le-lavandou-cavaliere
- La Bastide de Capelongue ;  La Bergerie d’Edouard Loubet 
- La Bastide de Capelongue ;  Bar à Jus 
- La Bastide de Saint-Tropez ;  L’Olivier ; https://www.relaischateaux.com/us/france/tropez-var-saint-tropez
- La Bastide de Saint-Tropez ;  Le Bistro de la Bastide ; https://www.relaischateaux.com/us/france/tropez-var-saint-tropez
- Georges Blanc Parc & Spa ;  Restaurant Gastronomique Georges BLANC ; https://www.relaischateaux.com/us/france/blanc-ain-vonnas
- Georges Blanc Parc & Spa ;  l'Ancienne Auberge 1900 ; https://www.relaischateaux.com/us/france/blanc-ain-vonnas
- Hostellerie de Plaisance ;  La Table de Plaisance ; https://www.relaischateaux.com/us/france/plaisance-gironde-saint-emilion
- Hostellerie de Plaisance ;  L'Envers du Décor ; https://www.relaischateaux.com/us/france/plaisance-gironde-saint-emilion
- Le Couvent des Minimes Hôtel & Spa L'Occitane ;  Le Cloître ; https://www.relaischateaux.com/us/france/minimes-alpes-de-haute-provence-mane
- Le Couvent des Minimes Hôtel & Spa L'Occitane ;  Pesquier ; https://www.relaischateaux.com/us/france/minimes-alpes-de-haute-provence-mane
- Château d’Adoménil ; Chateau d'Adomenil ; https://www.relaischateaux.com/us/france/adomenil-meurthe-et-moselle-luneville
- Château de Berne ;  Le Jardin de Benjamin ; https://www.relaischateaux.com/us/france/berne-var-lorgues
- Château de Berne ;  Le Bistrot ; https://www.relaischateaux.com/us/france/berne-var-lorgues
- Château de Valmer ;  La Palmeraie ; https://www.relaischateaux.com/us/france/chateau-de-valmer-la-croix-valmer
- Château de Valmer ;  La Piscine ; https://www.relaischateaux.com/us/france/chateau-de-valmer-la-croix-valmer
- Château de Curzay ; Les Quatre Saisons ; https://www.relaischateaux.com/us/france/curzay-vienne-curzay-sur-vonne
- Le Petit Nice-Passedat ;  Le Petit Nice ; https://www.relaischateaux.com/us/france/passedat-bouches-du-rhone-marseille
- Le Petit Nice-Passedat ;  Le 1917 ; https://www.relaischateaux.com/us/france/passedat-bouches-du-rhone-marseille
- Hôtel Impérial Garoupe ;  Le Pavillon ; https://www.relaischateaux.com/us/france/garoupe-alpes-maritimes-cap-d-antibes
- Hôtel Impérial Garoupe ;  Pavillon Beach ; https://www.relaischateaux.com/us/france/garoupe-alpes-maritimes-cap-d-antibes
+Hotel; Chef; CodePostal; Url
+ Hostellerie de Levernois ; Philippe Augé; 21200 21200 ;https://www.relaischateaux.com/us/france/levernois-cote-d-or-levernois-beaune
+ La Bonne Étape ; Jany Gleize; 04160 ;https://www.relaischateaux.com/us/france/bonneetape-alpes-de-haute-provence-chateau-arnoux
+ Le Suquet, Sébastien Bras ; Sébastien Bras; 12210 ;https://www.relaischateaux.com/us/france/bras-aveyron-laguiole
+ Castel Clara Thalasso & Spa ; Franck Moisan; 56360 ;https://www.relaischateaux.com/us/france/castelclara-morbihan-bangor
+ Le Mas de Pierre ; Emmanuel Lehrer; 06570 ;https://www.relaischateaux.com/us/france/maspierre-alpes-maritimes-saint-paul-de-vence
+ Château Cordeillan-Bages ; Julien Lefebvre; 33250 ;https://www.relaischateaux.com/us/france/cordeillan-gironde-pauillac
+ Brittany & Spa ; Loic Le Bail; 29681 ;https://www.relaischateaux.com/us/france/brittany-finistere-roscoff
+ Château de La Chèvre d’Or ; Arnaud Faye; 06360 06360 06360 06360 ;https://www.relaischateaux.com/us/france/chevredor-alpes-maritimes-eze-village
+ Au Crocodile ; Franck Pelux; 67000 ;https://www.relaischateaux.com/us/france/crocodile-bas-rhin
+ Baumanière Hôtel & Spa ; Glenn Viel; 13520 ;https://www.relaischateaux.com/us/france/baumaniere-hotel-spa-les-baux-de-provence
+ Lucas Carton ; Julien Dumas; 75008 ;https://www.relaischateaux.com/us/france/lucascarton-ile-de-france-paris
+ Château de Courcelles ; Lucas Vannier; 02220 ;https://www.relaischateaux.com/us/france/courcelles-aisne-courcelles-sur-vesle
+ Bas Rupts ; Michel Philippe; 88400 ;https://www.relaischateaux.com/us/france/basrupts-vosges-gerardmer
+ Château des Avenières ; Anthony Laboubé; 74350 ;https://www.relaischateaux.com/us/france/avenieres-haute-savoie-cruseilles
+ Saint James Paris ; Adrien Brunet; 75116 ;https://www.relaischateaux.com/us/france/saintjames-paris-ile-de-france-paris
+ Le Grand Véfour ; Guy Martin; 75001 ;https://www.relaischateaux.com/us/france/vefour-paris
+ L’Arnsbourg Restaurant et Hôtel ; Fabien Mengus; 57230 ;https://www.relaischateaux.com/us/france/arnsbourg-moselle-baerenthal
+ Villa Florentine ; David Delsart; 69005 ;https://www.relaischateaux.com/us/france/florentine-rhone-lyon
+ Pierre Gagnaire ; Pierre Gagnaire; 75008 ;https://www.relaischateaux.com/us/france/gagnaire-paris
+ Château de Fonscolombe ; Nadège Serret; 13610 ;https://www.relaischateaux.com/us/france/fonscolombe-bouches-du-rhone
+ Auberge des Templiers ; Martin Simonart; 45290 ;https://www.relaischateaux.com/us/france/templiers-loiret-boismorand
+ Hostellerie La Cheneaudière & Spa ; Roger Bouhassoun; 67420 ;https://www.relaischateaux.com/us/france/cheneaudiere-bas-rhin-colroy-la-roche
+ Hôtel-Spa La Bouitte – Restaurant René et Maxime Meilleur ; René and Maxime Meilleur; 73440 ;https://www.relaischateaux.com/us/france/la-bouitte-savoie
+ Les Hautes Roches ; Didier Edon; 37210 ;https://www.relaischateaux.com/us/france/hautesroches-indre-et-loire-rochecorbon
+ Jiva Hill Resort ; Vincent Betton; 01170 ;https://www.relaischateaux.com/us/france/jivahill-ain-crozet
+ L’Oasis ; Alain Montigny; 06210 ;https://www.relaischateaux.com/us/france/oasis-alpes-maritimes-la-napoule
+ Maison Lameloise ; Eric Pras; 71150 ;https://www.relaischateaux.com/us/france/lameloise-saone-et-loire-chagny
+ Assiette Champenoise ; Arnaud Lallement; 51430 ;https://www.relaischateaux.com/us/france/assiette-champenoise-champagne-ardenne-tinqueux
+ L’Hôtel de Toiras & Villa Clarisse ; Antonio Sanna; 17410 ;https://www.relaischateaux.com/us/france/toiras-charente-maritime-saint-martin-de-re
+ Monte-Carlo Beach ; Paolo Sari; 06190 ;https://www.relaischateaux.com/us/france/montecarlo-alpes-maritimes-roquebrune-cap-martin
+ Grand Hôtel du Lion d’Or ; Didier Clément; 41200 ;https://www.relaischateaux.com/us/france/liondor-loir-et-cher-romorantin-lanthenay
+ Hôtel Impérial Garoupe ; Pierre-Alain Garnier; 06600 06600 ;https://www.relaischateaux.com/us/france/garoupe-alpes-maritimes-cap-d-antibes
+ Michel Trama ; Michel Trama; 47270 ;https://www.relaischateaux.com/us/france/aubergade-lot-et-garonne-puymirol
+ Château de Bagnols ; Jean-Alexandre Ouaratta; 69620 ;https://www.relaischateaux.com/us/france/bagnols-rhone-alpes
+ Château de Berne ; Benjamin Collombat; 83780 83780 ;https://www.relaischateaux.com/us/france/berne-var-lorgues
+ Château de Rochegude ; Thierry Frebout; 26790 ;https://www.relaischateaux.com/us/france/rochegude-drome-rochegude
+ Restaurant Gill ; Gilles Tournadre; 76000 ;https://www.relaischateaux.com/us/france/gill-seine-maritime-rouen
+ Le Club de Cavalière & Spa ; Marc Dach; 83980 73550 ;https://www.relaischateaux.com/us/france/cavaliere-var-le-lavandou-cavaliere
+ Pan Deï Palais ; Quentin Durand; 83990 ;https://www.relaischateaux.com/us/france/pandei-var-saint-tropez
+ Le Prieuré Baumanière ; Marc Fontanne; 30400 ;https://www.relaischateaux.com/us/france/leprieure-gard-villeneuve-lez-avignon
+ Maison Pic ; Anne-Sophie Pic; 26000 26000 ;https://www.relaischateaux.com/us/france/pic-drome-valence
+ La Bastide ; Jérôme Artiguebère; 32150 ;https://www.relaischateaux.com/us/france/labastide-gers-barbotan-les-thermes
+ Château de Drudas ; Axell Boisselier; 31480 ;https://www.relaischateaux.com/us/france/chateau-de-drudas
+ Hôtel et Restaurant Régis et Jacques Marcon ; Régis & Jacques Marcon; 43290 ;https://www.relaischateaux.com/us/france/cimes-haute-loire-saint-bonnet-le-froid
+ La Grande Maison de Bernard Magrez ; Jean-Denis Le Bras - Pierre Gagnaire; 33000 ;https://www.relaischateaux.com/us/france/grande-maison-bernard-magrez-gironde-bordeaux
+ La Bastide Saint-Antoine ; Laurent Barberot; 06130 ;https://www.relaischateaux.com/us/france/saintantoine-alpes-maritimes-grasse
+ Hôtel Restaurant En Marge ; Frank Renimel; 31320 ;https://www.relaischateaux.com/us/france/hotel-restaurant-en-marge-aureville
+ Domaine Les Crayères ; Philippe Mille; 51100 51100 ;https://www.relaischateaux.com/us/france/crayeres-marne-reims
+ Abbaye de la Bussière ; Guillaume Royer; 21360 ;https://www.relaischateaux.com/us/france/bussiere-cote-d-or-la-bussiere-sur-ouche
+ Villa Gallici ; Christophe Gavot; 13100 ;https://www.relaischateaux.com/us/france/gallici-bouches-du-rhone-aix-en-provence
+ Les Hauts de Loire ; Rémy Giraud; 41150 ;https://www.relaischateaux.com/us/france/hauts-loire-loir-et-cher-onzain
+ La Signoria & Spa ; Alexandre Fabris; 20260 ;https://www.relaischateaux.com/us/france/signoria-corse-calvi
+ Coquillade Village ; Thierry Enderlin; 84400 ;https://www.relaischateaux.com/us/france/coquillade-vaucluse-gargas
+ Château de la Treyne ; Stéphane Andrieux; 46200 ;https://www.relaischateaux.com/us/france/treyne-lot-lacave
+ Château de Mercuès ; Julien Poisot; 46090 46090 ;https://www.relaischateaux.com/us/france/mercues-lot-mercues
+ Restaurant Mirazur ; Mauro Colagreco; 06500 ;https://www.relaischateaux.com/us/france/mirazur-alpes-maritimes-menton
+ Cazaudehore « La Forestière » ; Gregory Balland; 78100 ;https://www.relaischateaux.com/us/france/cazaudehore-yvelines-saint-germain-en-laye
+ La Ferme Saint-Siméon ; Sébastien Faramond; 14600 ;https://www.relaischateaux.com/us/france/simeon-calvados-honfleur
+ Hôtel & Spa du Castellet ; Christophe Bacquié; 83330 ;https://www.relaischateaux.com/us/france/castellet-var-le-castellet
+ Les Bergeries de Palombaggia ; Jean-Jacques Gauthier; 20137 ;https://www.relaischateaux.com/us/france/palombaggia-corse-du-sud-porto-vecchio
+ Château d’Audrieu ; Olivier Barbarin; 14250 ;https://www.relaischateaux.com/us/france/audrieu-calvados-audrieu
+ Cap d’Antibes Beach Hotel ; Nicolas Rondelli; 06160 ;https://www.relaischateaux.com/us/france/antibes-alpes-maritimes-cap-d-antibes
+ La Pyramide Patrick Henriroux ; Patrick Henriroux; 38200 ;https://www.relaischateaux.com/us/france/pyramide-isere-vienne
+ Domaine d’Auriac ; Philippe Deschamps; 11009 ;https://www.relaischateaux.com/us/france/auriac-aude-carcassonne
+ L'Auberge Basque ; Cédric Béchade; 64310 ;https://www.relaischateaux.com/us/france/auberge-basque-saint-pee-sur-nivelle-pyrenees-atlantiques
+ La Bastide de Capelongue ; Édouard Loubet; 84480 84480 ;https://www.relaischateaux.com/us/france/capelongue-vaucluse-bonnieux-en-provence
+ Le Vieux Logis ; Vincent Arnould; 24510 ;https://www.relaischateaux.com/us/france/vieuxlogis-dordogne-tremolat
+ La Chapelle Saint-Martin ; Gilles Dudognon; 87510 87510 87510 ;https://www.relaischateaux.com/us/france/chapelle-haute-vienne-nieul
+ Hôtel Restaurant Clos des Sens - Laurent PETIT ; Laurent Petit; 74940 74940 ;https://www.relaischateaux.com/us/france/clos-des-sens-haute-savoie
+ Auberge du Jeu de Paume ; Julien Lucas; 60500 ;https://www.relaischateaux.com/us/france/jeudepaume-oise-chantilly
+ Le Castel Marie-Louise ; Eric Mignard; 44504 ;https://www.relaischateaux.com/us/france/marielouise-loire-atlantique-la-baule
+ Château de Riell ; Sébastien Nouveau; 66500 ;https://www.relaischateaux.com/us/france/riell-pyrenees-orientales-prades
+ Le Relais Bernard Loiseau – Spa Loiseau des Sens ; Patrick Bertron; 21210 ;https://www.relaischateaux.com/us/france/loiseau-cote-d-or-saulieu
+ Hameau Albert Ier ; Damien Leveau; 74402 ;https://www.relaischateaux.com/us/france/albert-haute-savoie-chamonix-mont-blanc
+ Clarance Hôtel ; Thibaut Gamba; 59000 ;https://www.relaischateaux.com/us/france/clarance-hotel-nord
+ Hôtel Parc Victoria ; Guillaume Applaincourt; 64500 ;https://www.relaischateaux.com/us/france/parcvictoria-pyrenees-atlantiques-saint-jean-de-luz
+ Château de Valmer ; Jimmy Coutel; 83420 ;https://www.relaischateaux.com/us/france/chateau-de-valmer-la-croix-valmer
+ Hôtel Splendide Royal Paris ; Vito Grippa; 75008 ;https://www.relaischateaux.com/us/france/hotel-splendide-royal-paris
+ Les Prés d’Eugénie - Maison Guérard ; Michel Guérard; 40320 40320 ;https://www.relaischateaux.com/us/france/guerard-landes-eugenie-les-bains
+ Hôtel Crillon le Brave ; Julien Marseault; 84410 ;https://www.relaischateaux.com/us/france/crillonbrave-vaucluse-crillon-le-brave
+ Le Chambard ; Olivier Nasti; 68240 ;https://www.relaischateaux.com/us/france/le-chambard-haut-rhin-kaysersberg
+ Passage 53 ; Shinichi Sato; 75002 ;https://www.relaischateaux.com/us/france/passage53-paris
+ Le Domaine de Verchant ; Damien Cousseau; 34170 ;https://www.relaischateaux.com/us/france/verchant-herault-montpellier
+ Hôtel Le Chabichou Restaurants & Spa ; Michel Rochedy & Stéphane Buron; 73120 ;https://www.relaischateaux.com/us/france/chabichou-savoie-courchevel-1850
+ Relais de la Poste ; Jean Coussau; 40140 ;https://www.relaischateaux.com/us/france/poste-landes-magescq
+ Château de Noirieux ; Christophe Guillemot; 49125 ;https://www.relaischateaux.com/us/france/noirieux-maine-et-loire-briollay
+ Au Cœur du Village Hôtel & Spa ; Cédric Heurtebise & Vincent Deforce; 74220 74220 ;https://www.relaischateaux.com/us/france/coeurduvillage-rhone-alpes-la-clusaz
+ Restaurant Christopher Coutanceau ; Christopher Coutanceau; 17000 ;https://www.relaischateaux.com/us/france/coutanceau-charente-maritime-la-rochelle
+ Château de Germigney ; Pierre Basso-Moro; 39600 ;https://www.relaischateaux.com/us/france/germigney-jura-port-lesney
+ Maison Rostang ; Michel Rostang and Nicolas Beaumann; 75017 ;https://www.relaischateaux.com/us/france/rostang-paris
+ Moulin de l’Abbaye ; Jean Michel Bardet; 24310 ;https://www.relaischateaux.com/us/france/moulin-dordogne-brantome-en-perigord
+ Royal Champagne Hotel & Spa ; Jean-Denis Rieubland; 51160 ;https://www.relaischateaux.com/us/france/royalchampagne-marne-champillon
+ Château de Codignat ; Mathieu Barbet; 63190 ;https://www.relaischateaux.com/us/france/codignat-puy-de-dome-bort-l-etang
+ Château de Locguénolé ; Jérémie Louis; 56700 ;https://www.relaischateaux.com/us/france/locguenole-morbihan-kervignac
+ Yoann Conte – Bord du Lac Hôtel Restaurant ; Yoann Conte; 74290 ;https://www.relaischateaux.com/us/france/yoannconte-haute-savoie-veyrier-du-lac
+ La Maison des Bois – Marc Veyrat ; Marc Veyrat; 74230 ;https://www.relaischateaux.com/us/france/marcveyrat-haute-savoie-manigod
+ Maison Decoret ; Jacques Decoret; 03200 ;https://www.relaischateaux.com/us/france/decoret-allier-vichy
+ Restaurant Pierre Orsi ; Pierre Orsi; 69006 69006 ;https://www.relaischateaux.com/us/france/orsi-rhone-lyon
+ Manoir de Lan-Kerellec ; Anthony Avoine; 22560 ;https://www.relaischateaux.com/us/france/lankerellec-cotes-d-armor-trebeurden
+ Villa René Lalique ; Jean-Georges Klein; 67290 ;https://www.relaischateaux.com/us/france/lalique-bas-rhin
+ La Réserve ; Benoit Solomiac; 81000 ;https://www.relaischateaux.com/us/france/reservealbi-tarn-albi
+ Château d’Adoménil ; Cyril Leclerc; 54300 ;https://www.relaischateaux.com/us/france/adomenil-meurthe-et-moselle-luneville
+ Les Maisons de Bricourt ; Olivier & Hugo Roellinger; 35350 ;https://www.relaischateaux.com/us/france/bricourt-ille-et-vilaine-saint-meloir-des-ondes
+ Restaurant Guy Lassausaie ; Guy Lassausaie; 69380 ;https://www.relaischateaux.com/us/france/lassausaie-rhone-alpes-chasselay
+ La Grenouillère ; Alexandre Gauthier; 62170 ;https://www.relaischateaux.com/us/france/lagrenouillere-pas-de-calais-la-madelaine-sous-montreuil
+ Tiara Yaktsa ; Guillaume Anor; 06590 ;https://www.relaischateaux.com/us/france/yaktsa-alpes-maritimes-theoule-sur-mer
+ Domaine de Rochevilaine ; Maxime Nouail; 56190 ;https://www.relaischateaux.com/us/france/rochevilaine-morbihan-billiers
+ Le Couvent des Minimes Hôtel & Spa L'Occitane ; Jérôme ROY; 04300 ;https://www.relaischateaux.com/us/france/minimes-alpes-de-haute-provence-mane
+ Le Petit Nice-Passedat ; Gérald Passedat; 13007 13007 ;https://www.relaischateaux.com/us/france/passedat-bouches-du-rhone-marseille
+ Domaine de la Bretesche Golf & Spa ; Frédéric Murati; 44780 ;https://www.relaischateaux.com/us/france/bretesche-loire-atlantique-missillac
+ Georges Blanc Parc & Spa ; Georges Blanc; 01540 ;https://www.relaischateaux.com/us/france/blanc-ain-vonnas
+ Château de Montreuil ; Jean-Marie Le Guen; 62170 ;https://www.relaischateaux.com/us/france/montreuil-pas-de-calais-montreuil
+ Hotel & Restaurant Thierry Drapeau ; Thierry Drapeau; 85260 ;https://www.relaischateaux.com/us/france/thierrydrapeau-vendee-saint-sulpice-le-verdon
+ Flocons de Sel ; Emmanuel Renaut; 74120 ;https://www.relaischateaux.com/us/france/flocons-haute-savoie-megeve
+ Grand Hôtel de Cala Rossa & Spa ; Pascal Cayeux; 20137 20137 ;https://www.relaischateaux.com/us/france/calarossa-corse-porto-vecchio
+ Hotel Ile de la Lagune Thalasso & Spa ; Christophe Schmitt; 66750 ;https://www.relaischateaux.com/us/france/ile-de-la-lagune-saint-cyprien
+ Hostellerie La Briqueterie ; Thomas Debouzy; 51530 ;https://www.relaischateaux.com/us/france/briqueterie-marne-vinay
+ Château de Noizay ; Frédéric Collin; 37210 ;https://www.relaischateaux.com/us/france/noizay-indre-et-loire-noizay
+ Le Phébus & Spa - Villa des Anges ; Xavier Mathieu; 84220 84220 ;https://www.relaischateaux.com/us/france/phebus-vaucluse-gordes
+ Hôtel Les Barmes de l'Ours ; Antoine Gras; 73150 ;https://www.relaischateaux.com/us/france/barmes-de-l-ours-savoie
+ Le Grand Cœur & Spa ; Marc Dach; 83980 73550 ;https://www.relaischateaux.com/us/france/grandcoeur-savoie-meribel
+ Le Pré Catelan ; Frédéric Anton; 75016 ;https://www.relaischateaux.com/us/france/catelan-paris
+ Hôtel Restaurant Auberge du Père Bise – Jean Sulpice ; Jean Sulpice; 74290 ;https://www.relaischateaux.com/us/france/bise-haute-savoie-talloires
+ La Côte Saint Jacques & Spa ; Jean-Michel Lorain; 89300 ;https://www.relaischateaux.com/us/france/la-cote-saint-jacques-yonne-joigny
+ La Villa Calvi ; Jerome Voltzenlogel; 20260 ;https://www.relaischateaux.com/us/france/lavilla-haute-corse-calvi
+ Hôtel de la Plage ; Yoann Noël; 29550 ;https://www.relaischateaux.com/us/france/laplage-finistere-sainte-anne-la-palud
+ Le Saint-James Bouliac ; Nicolas Magie; 33270 33270 ;https://www.relaischateaux.com/us/france/stjames-gironde-bouliac
+ Restaurant Alexandre ; Michel Kayser; 30128 ;https://www.relaischateaux.com/us/france/alexandre-gard-garons

@@ -1,913 +1,770 @@
 [
  {
-  "Hotel": " Hotel Ile de la Lagune Thalasso & Spa ",
-  "Restaurants": " Restaurant l'Almandin ",
-  "Url": " https://www.relaischateaux.com/us/france/ile-de-la-lagune-saint-cyprien"
- },
- {
-  "Hotel": " Château de Montreuil ",
-  "Restaurants": " Château de Montreuil ",
-  "Url": " https://www.relaischateaux.com/us/france/montreuil-pas-de-calais-montreuil"
- },
- {
-  "Hotel": " Hôtel & Spa du Castellet ",
-  "Restaurants": "  Restaurant Christophe Bacquié ",
-  "Url": " https://www.relaischateaux.com/us/france/castellet-var-le-castellet"
- },
- {
-  "Hotel": " Hôtel & Spa du Castellet ",
-  "Restaurants": "  San Felice ",
-  "Url": " https://www.relaischateaux.com/us/france/castellet-var-le-castellet"
- },
- {
-  "Hotel": " Villa Gallici ",
-  "Restaurants": " Villa Gallici ",
-  "Url": " https://www.relaischateaux.com/us/france/gallici-bouches-du-rhone-aix-en-provence"
- },
- {
-  "Hotel": " La Ferme Saint-Siméon ",
-  "Restaurants": "  La Ferme Saint-Siméon ",
-  "Url": " https://www.relaischateaux.com/us/france/simeon-calvados-honfleur"
- },
- {
-  "Hotel": " La Ferme Saint-Siméon ",
-  "Restaurants": "  Bistro La Boucane ",
-  "Url": " https://www.relaischateaux.com/us/france/simeon-calvados-honfleur"
- },
- {
-  "Hotel": " Auberge des Glazicks ",
-  "Restaurants": " L'Auberge des Glazicks ",
-  "Url": " https://www.relaischateaux.com/us/france/auberge-des-glazicks-plomodiern"
- },
- {
-  "Hotel": " La Bastide Saint-Antoine ",
-  "Restaurants": " La Bastide Saint-Antoine ",
-  "Url": " https://www.relaischateaux.com/us/france/saintantoine-alpes-maritimes-grasse"
- },
- {
-  "Hotel": " Château de Rochegude ",
-  "Restaurants": " Roche Aiguë ",
-  "Url": " https://www.relaischateaux.com/us/france/rochegude-drome-rochegude"
- },
- {
-  "Hotel": " Le Mas des Herbes Blanches ",
-  "Restaurants": "  La Table du Mas ",
-  "Url": " https://www.relaischateaux.com/us/france/masherbes-vaucluse-joucas"
- },
- {
-  "Hotel": " Le Mas des Herbes Blanches ",
-  "Restaurants": "  Le Bistrot du Mas ",
-  "Url": " https://www.relaischateaux.com/us/france/masherbes-vaucluse-joucas"
- },
- {
-  "Hotel": " Château de Germigney ",
-  "Restaurants": "  Château de Germigney ",
-  "Url": " https://www.relaischateaux.com/us/france/germigney-jura-port-lesney"
- },
- {
-  "Hotel": " Château de Germigney ",
-  "Restaurants": "  Bistrot le Pontarlier ",
-  "Url": " https://www.relaischateaux.com/us/france/germigney-jura-port-lesney"
- },
- {
-  "Hotel": " Château de Locguénolé ",
-  "Restaurants": " Château de Locguénolé ",
-  "Url": " https://www.relaischateaux.com/us/france/locguenole-morbihan-kervignac"
- },
- {
-  "Hotel": " Le Saint-Paul ",
-  "Restaurants": " Le Saint-Paul ",
-  "Url": " https://www.relaischateaux.com/us/france/stpaul-alpes-maritimes-saint-paul-de-vence"
- },
- {
-  "Hotel": " L’Hôtel de Toiras & Villa Clarisse ",
-  "Restaurants": " La Table d'Olivia ",
-  "Url": " https://www.relaischateaux.com/us/france/toiras-charente-maritime-saint-martin-de-re"
- },
- {
-  "Hotel": " Coquillade Village ",
-  "Restaurants": "  Le Gourmet ",
-  "Url": " https://www.relaischateaux.com/us/france/coquillade-vaucluse-gargas"
- },
- {
-  "Hotel": " Castel Clara Thalasso & Spa ",
-  "Restaurants": "  Le 180° ",
-  "Url": " https://www.relaischateaux.com/us/france/castelclara-morbihan-bangor"
- },
- {
-  "Hotel": " Castel Clara Thalasso & Spa ",
-  "Restaurants": "  Le Café Clara ",
-  "Url": " https://www.relaischateaux.com/us/france/castelclara-morbihan-bangor"
- },
- {
-  "Hotel": " Château de Riell ",
-  "Restaurants": "  Restaurant du Châtelain ",
-  "Url": " https://www.relaischateaux.com/us/france/riell-pyrenees-orientales-prades"
- },
- {
-  "Hotel": " Château de Riell ",
-  "Restaurants": "  Café Casals ",
-  "Url": " https://www.relaischateaux.com/us/france/riell-pyrenees-orientales-prades"
- },
- {
-  "Hotel": " Auberge du Jeu de Paume ",
-  "Restaurants": "  La Table du Connétable ",
-  "Url": " https://www.relaischateaux.com/us/france/jeudepaume-oise-chantilly"
- },
- {
-  "Hotel": " Auberge du Jeu de Paume ",
-  "Restaurants": "  Le Jardin d'Hiver ",
-  "Url": " https://www.relaischateaux.com/us/france/jeudepaume-oise-chantilly"
- },
- {
-  "Hotel": " Château de Courcelles ",
-  "Restaurants": " Château de Courcelles ",
-  "Url": " https://www.relaischateaux.com/us/france/courcelles-aisne-courcelles-sur-vesle"
- },
- {
-  "Hotel": " Tiara Yaktsa ",
-  "Restaurants": " Restaurant L'Or Bleu ",
-  "Url": " https://www.relaischateaux.com/us/france/yaktsa-alpes-maritimes-theoule-sur-mer"
- },
- {
-  "Hotel": " Château de La Chèvre d’Or ",
-  "Restaurants": "  La Chèvre d'Or ",
-  "Url": " https://www.relaischateaux.com/us/france/chevredor-alpes-maritimes-eze-village"
- },
- {
-  "Hotel": " Hotel & Restaurant Thierry Drapeau ",
-  "Restaurants": " Restaurant Thierry Drapeau ",
-  "Url": " https://www.relaischateaux.com/us/france/thierrydrapeau-vendee-saint-sulpice-le-verdon"
- },
- {
-  "Hotel": " Château de Bagnols ",
-  "Restaurants": " 1217 ",
-  "Url": " https://www.relaischateaux.com/us/france/bagnols-rhone-alpes"
- },
- {
-  "Hotel": " Jiva Hill Resort ",
-  "Restaurants": "  Restaurant Shamwari ",
-  "Url": " https://www.relaischateaux.com/us/france/jivahill-ain-crozet"
- },
- {
-  "Hotel": " Jiva Hill Resort ",
-  "Restaurants": "  Le Jardin ",
-  "Url": " https://www.relaischateaux.com/us/france/jivahill-ain-crozet"
- },
- {
   "Hotel": " Hostellerie de Levernois ",
-  "Restaurants": "  Le Gastronomique ",
-  "Url": " https://www.relaischateaux.com/us/france/levernois-cote-d-or-levernois-beaune"
- },
- {
-  "Hotel": " Hostellerie de Levernois ",
-  "Restaurants": "  Le Bistrot du Bord de l'Eau ",
-  "Url": " https://www.relaischateaux.com/us/france/levernois-cote-d-or-levernois-beaune"
- },
- {
-  "Hotel": " La Maison des Bois – Marc Veyrat ",
-  "Restaurants": " La Maison des Bois – Marc Veyrat ",
-  "Url": " https://www.relaischateaux.com/us/france/marcveyrat-haute-savoie-manigod"
- },
- {
-  "Hotel": " Les Maisons de Bricourt ",
-  "Restaurants": " Le Coquillage ",
-  "Url": " https://www.relaischateaux.com/us/france/bricourt-ille-et-vilaine-saint-meloir-des-ondes"
- },
- {
-  "Hotel": " La Maison d'Uzès ",
-  "Restaurants": " La Table d'Uzès ",
-  "Url": " https://www.relaischateaux.com/us/france/maisonduzes-gard-uzes"
+  "Chef": " Philippe Augé",
+  "CodePostal": " 21200 21200 ",
+  "Url": "https://www.relaischateaux.com/us/france/levernois-cote-d-or-levernois-beaune"
  },
  {
   "Hotel": " La Bonne Étape ",
-  "Restaurants": "  La Bonne Étape ",
-  "Url": " https://www.relaischateaux.com/us/france/bonneetape-alpes-de-haute-provence-chateau-arnoux"
- },
- {
-  "Hotel": " La Bonne Étape ",
-  "Restaurants": "  Au Goût du Jour ",
-  "Url": " https://www.relaischateaux.com/us/france/bonneetape-alpes-de-haute-provence-chateau-arnoux"
- },
- {
-  "Hotel": " Hôtel Restaurant Clos des Sens - Laurent PETIT ",
-  "Restaurants": "  Restaurant Clos des Sens - Laurent PETIT ",
-  "Url": " https://www.relaischateaux.com/us/france/clos-des-sens-haute-savoie"
- },
- {
-  "Hotel": " Hôtel Restaurant Clos des Sens - Laurent PETIT ",
-  "Restaurants": "  Café Brunet ",
-  "Url": " https://www.relaischateaux.com/us/france/clos-des-sens-haute-savoie"
- },
- {
-  "Hotel": " Château des Avenières ",
-  "Restaurants": " Le \"M\" ",
-  "Url": " https://www.relaischateaux.com/us/france/avenieres-haute-savoie-cruseilles"
- },
- {
-  "Hotel": " Baumanière Hôtel & Spa ",
-  "Restaurants": "  L'Oustau de Baumanière ",
-  "Url": " https://www.relaischateaux.com/us/france/baumaniere-hotel-spa-les-baux-de-provence"
- },
- {
-  "Hotel": " Château de La Chèvre d’Or ",
-  "Restaurants": "  Terrasse Les Remparts "
- },
- {
-  "Hotel": " Château de La Chèvre d’Or ",
-  "Restaurants": "  Les Remparts "
- },
- {
-  "Hotel": " Château de La Chèvre d’Or ",
-  "Restaurants": "  Le Café du Jardin "
- },
- {
-  "Hotel": " Château de Mirambeau ",
-  "Restaurants": " Château de Mirambeau ",
-  "Url": " https://www.relaischateaux.com/us/france/mirambeau-charente-maritime-mirambeau"
- },
- {
-  "Hotel": " Flocons de Sel ",
-  "Restaurants": "  Flocons de Sel ",
-  "Url": " https://www.relaischateaux.com/us/france/flocons-haute-savoie-megeve"
- },
- {
-  "Hotel": " Flocons de Sel ",
-  "Restaurants": "  Flocons Village ",
-  "Url": " https://www.relaischateaux.com/us/france/flocons-haute-savoie-megeve"
- },
- {
-  "Hotel": " Château Cordeillan-Bages ",
-  "Restaurants": "  Restaurant Cordeillan-Bages ",
-  "Url": " https://www.relaischateaux.com/us/france/cordeillan-gironde-pauillac"
- },
- {
-  "Hotel": " Château Cordeillan-Bages ",
-  "Restaurants": "  Café Lavinal ",
-  "Url": " https://www.relaischateaux.com/us/france/cordeillan-gironde-pauillac"
- },
- {
-  "Hotel": " Domaine Les Crayères ",
-  "Restaurants": "  Le restaurant gastronomique « Le Parc » ** ",
-  "Url": " https://www.relaischateaux.com/us/france/crayeres-marne-reims"
- },
- {
-  "Hotel": " Domaine Les Crayères ",
-  "Restaurants": "  La Brasserie « Le Jardin » ",
-  "Url": " https://www.relaischateaux.com/us/france/crayeres-marne-reims"
- },
- {
-  "Hotel": " Moulin de l’Abbaye ",
-  "Restaurants": "  Moulin de l'Abbaye ",
-  "Url": " https://www.relaischateaux.com/us/france/moulin-dordogne-brantome-en-perigord"
- },
- {
-  "Hotel": " L'Auberge Basque ",
-  "Restaurants": " La Table de l'Auberge Basque ",
-  "Url": " https://www.relaischateaux.com/us/france/auberge-basque-saint-pee-sur-nivelle-pyrenees-atlantiques"
- },
- {
-  "Hotel": " Au Cœur du Village Hôtel & Spa ",
-  "Restaurants": "  Restaurant Gourmand le Cœur ",
-  "Url": " https://www.relaischateaux.com/us/france/coeurduvillage-rhone-alpes-la-clusaz"
- },
- {
-  "Hotel": " Au Cœur du Village Hôtel & Spa ",
-  "Restaurants": "  Restaurant Gastronomique le Cinq ",
-  "Url": " https://www.relaischateaux.com/us/france/coeurduvillage-rhone-alpes-la-clusaz"
- },
- {
-  "Hotel": " Le Domaine de Verchant ",
-  "Restaurants": "  Verchant ",
-  "Url": " https://www.relaischateaux.com/us/france/verchant-herault-montpellier"
- },
- {
-  "Hotel": " Le Domaine de Verchant ",
-  "Restaurants": "  La Plage dans les Vignes ",
-  "Url": " https://www.relaischateaux.com/us/france/verchant-herault-montpellier"
- },
- {
-  "Hotel": " La Côte Saint Jacques & Spa ",
-  "Restaurants": "  La côte saint-jacques ",
-  "Url": " https://www.relaischateaux.com/us/france/la-cote-saint-jacques-yonne-joigny"
- },
- {
-  "Hotel": " La Côte Saint Jacques & Spa ",
-  "Restaurants": "  Bien Etre & Saveurs ",
-  "Url": " https://www.relaischateaux.com/us/france/la-cote-saint-jacques-yonne-joigny"
- },
- {
-  "Hotel": " Le Saint-James Bouliac ",
-  "Restaurants": "  Le Saint-James Bouliac ",
-  "Url": " https://www.relaischateaux.com/us/france/stjames-gironde-bouliac"
- },
- {
-  "Hotel": " Le Saint-James Bouliac ",
-  "Restaurants": "  Le Café de L'Espérance ",
-  "Url": " https://www.relaischateaux.com/us/france/stjames-gironde-bouliac"
- },
- {
-  "Hotel": " Hôtel Crillon le Brave ",
-  "Restaurants": "  Restaurant La Madeleine ",
-  "Url": " https://www.relaischateaux.com/us/france/crillonbrave-vaucluse-crillon-le-brave"
- },
- {
-  "Hotel": " Villa Florentine ",
-  "Restaurants": " Les Terrasses de Lyon ",
-  "Url": " https://www.relaischateaux.com/us/france/florentine-rhone-lyon"
- },
- {
-  "Hotel": " Grand Hôtel de Cala Rossa & Spa ",
-  "Restaurants": "  La Table de Cala Rossa ",
-  "Url": " https://www.relaischateaux.com/us/france/calarossa-corse-porto-vecchio"
- },
- {
-  "Hotel": " Grand Hôtel de Cala Rossa & Spa ",
-  "Restaurants": "  La Pinède ",
-  "Url": " https://www.relaischateaux.com/us/france/calarossa-corse-porto-vecchio"
- },
- {
-  "Hotel": " Coquillade Village ",
-  "Restaurants": "  Le Bistrot ou le Jardin dans les Vignes "
- },
- {
-  "Hotel": " Coquillade Village ",
-  "Restaurants": "  Ristorante "
- },
- {
-  "Hotel": " Hôtel Splendide Royal Paris ",
-  "Restaurants": " Ristorante Tosca, Paris 8ème ",
-  "Url": " https://www.relaischateaux.com/us/france/hotel-splendide-royal-paris"
- },
- {
-  "Hotel": " Monte-Carlo Beach ",
-  "Restaurants": "  Elsa 1 Michelin star ",
-  "Url": " https://www.relaischateaux.com/us/france/montecarlo-alpes-maritimes-roquebrune-cap-martin"
- },
- {
-  "Hotel": " Hostellerie La Briqueterie ",
-  "Restaurants": " Restaurant de l'Hostellerie la Briqueterie ",
-  "Url": " https://www.relaischateaux.com/us/france/briqueterie-marne-vinay"
- },
- {
-  "Hotel": " Cazaudehore « La Forestière » ",
-  "Restaurants": " Cazaudehore ",
-  "Url": " https://www.relaischateaux.com/us/france/cazaudehore-yvelines-saint-germain-en-laye"
- },
- {
-  "Hotel": " Relais de la Poste ",
-  "Restaurants": "  Relais de la Poste ",
-  "Url": " https://www.relaischateaux.com/us/france/poste-landes-magescq"
- },
- {
-  "Hotel": " Relais de la Poste ",
-  "Restaurants": "  L'Auberge Côté Quillier ",
-  "Url": " https://www.relaischateaux.com/us/france/poste-landes-magescq"
- },
- {
-  "Hotel": " Baumanière Hôtel & Spa ",
-  "Restaurants": "  La Cabro d'Or "
- },
- {
-  "Hotel": " Baumanière Hôtel & Spa ",
-  "Restaurants": "  Table d'hôtes - La Cabro d'Or "
- },
- {
-  "Hotel": " Hameau Albert Ier ",
-  "Restaurants": "  Albert 1er ",
-  "Url": " https://www.relaischateaux.com/us/france/albert-haute-savoie-chamonix-mont-blanc"
- },
- {
-  "Hotel": " Hameau Albert Ier ",
-  "Restaurants": "  La Maison Carrier ",
-  "Url": " https://www.relaischateaux.com/us/france/albert-haute-savoie-chamonix-mont-blanc"
- },
- {
-  "Hotel": " Hôtel Parc Victoria ",
-  "Restaurants": " Les Lierres ",
-  "Url": " https://www.relaischateaux.com/us/france/parcvictoria-pyrenees-atlantiques-saint-jean-de-luz"
- },
- {
-  "Hotel": " Château de Mercuès ",
-  "Restaurants": "  Le Duèze ",
-  "Url": " https://www.relaischateaux.com/us/france/mercues-lot-mercues"
- },
- {
-  "Hotel": " Château de Mercuès ",
-  "Restaurants": "  Le Bistrot du Château ",
-  "Url": " https://www.relaischateaux.com/us/france/mercues-lot-mercues"
- },
- {
-  "Hotel": " La Grande Maison de Bernard Magrez ",
-  "Restaurants": " Restaurant Pierre Gagnaire à La Grande Maison de Bernard Magrez ",
-  "Url": " https://www.relaischateaux.com/us/france/grande-maison-bernard-magrez-gironde-bordeaux"
- },
- {
-  "Hotel": " Château Lafaurie-Peyraguey Hôtel & Restaurant LALIQUE ",
-  "Restaurants": " Restaurant LALIQUE ",
-  "Url": " https://www.relaischateaux.com/us/france/chateau-lafaurie-peyraguey-lalique-bommes"
- },
- {
-  "Hotel": " Le Mas de Pierre ",
-  "Restaurants": "  La Table de Pierre ",
-  "Url": " https://www.relaischateaux.com/us/france/maspierre-alpes-maritimes-saint-paul-de-vence"
- },
- {
-  "Hotel": " Le Mas de Pierre ",
-  "Restaurants": "  Lis Orto ",
-  "Url": " https://www.relaischateaux.com/us/france/maspierre-alpes-maritimes-saint-paul-de-vence"
- },
- {
-  "Hotel": " Les Hauts de Loire ",
-  "Restaurants": "  Le Restaurant des Hauts de Loire ",
-  "Url": " https://www.relaischateaux.com/us/france/hauts-loire-loir-et-cher-onzain"
- },
- {
-  "Hotel": " Les Hauts de Loire ",
-  "Restaurants": "  Bistrot des Hauts de Loire ",
-  "Url": " https://www.relaischateaux.com/us/france/hauts-loire-loir-et-cher-onzain"
- },
- {
-  "Hotel": " Le Château de Beaulieu ",
-  "Restaurants": "  Le Meurin ",
-  "Url": " https://www.relaischateaux.com/us/france/chateaubeaulieu-pas-de-calais-busnes"
- },
- {
-  "Hotel": " Le Château de Beaulieu ",
-  "Restaurants": "  Le Jardin d'Alice ",
-  "Url": " https://www.relaischateaux.com/us/france/chateaubeaulieu-pas-de-calais-busnes"
- },
- {
-  "Hotel": " Bas Rupts ",
-  "Restaurants": " Bas Rupts ",
-  "Url": " https://www.relaischateaux.com/us/france/basrupts-vosges-gerardmer"
- },
- {
-  "Hotel": " Grand Hôtel du Lion d’Or ",
-  "Restaurants": " Grand Hôtel du Lion d'Or ",
-  "Url": " https://www.relaischateaux.com/us/france/liondor-loir-et-cher-romorantin-lanthenay"
- },
- {
-  "Hotel": " Monte-Carlo Beach ",
-  "Restaurants": "  La Pizzeria "
- },
- {
-  "Hotel": " Monte-Carlo Beach ",
-  "Restaurants": "  Le Deck "
- },
- {
-  "Hotel": " Monte-Carlo Beach ",
-  "Restaurants": "  La Vigie Lounge & Restaurant "
- },
- {
-  "Hotel": " Hostellerie La Cheneaudière & Spa ",
-  "Restaurants": " Hostellerie La Cheneaudière & Spa ",
-  "Url": " https://www.relaischateaux.com/us/france/cheneaudiere-bas-rhin-colroy-la-roche"
- },
- {
-  "Hotel": " Le Castel Marie-Louise ",
-  "Restaurants": " Castel Marie-Louise ",
-  "Url": " https://www.relaischateaux.com/us/france/marielouise-loire-atlantique-la-baule"
- },
- {
-  "Hotel": " La Réserve ",
-  "Restaurants": " La Réserve ",
-  "Url": " https://www.relaischateaux.com/us/france/reservealbi-tarn-albi"
- },
- {
-  "Hotel": " Hôtel Restaurant Auberge du Père Bise – Jean Sulpice ",
-  "Restaurants": "  Auberge du Père Bise - Jean Sulpice ",
-  "Url": " https://www.relaischateaux.com/us/france/bise-haute-savoie-talloires"
- },
- {
-  "Hotel": " Hôtel Restaurant Auberge du Père Bise – Jean Sulpice ",
-  "Restaurants": "  Le Bistrot 1903 ",
-  "Url": " https://www.relaischateaux.com/us/france/bise-haute-savoie-talloires"
- },
- {
-  "Hotel": " Hôtel du Bois Blanc ",
-  "Restaurants": " La Terrasse des Etangs ",
-  "Url": " https://www.relaischateaux.com/us/france/hotel-du-bois-blanc-ain-vonnas"
- },
- {
-  "Hotel": " Hôtel Crillon le Brave ",
-  "Restaurants": "  La Table du Ventoux "
- },
- {
-  "Hotel": " Hôtel Crillon le Brave ",
-  "Restaurants": "  La Grange "
- },
- {
-  "Hotel": " Château de la Treyne ",
-  "Restaurants": " Château de la Treyne ",
-  "Url": " https://www.relaischateaux.com/us/france/treyne-lot-lacave"
- },
- {
-  "Hotel": " Brittany & Spa ",
-  "Restaurants": " Le Brittany ",
-  "Url": " https://www.relaischateaux.com/us/france/brittany-finistere-roscoff"
- },
- {
-  "Hotel": " Domaine d’Auriac ",
-  "Restaurants": "  Le restaurant Bernard Rigaudis ",
-  "Url": " https://www.relaischateaux.com/us/france/auriac-aude-carcassonne"
- },
- {
-  "Hotel": " Domaine d’Auriac ",
-  "Restaurants": "  Le Bistrot d'Auriac ",
-  "Url": " https://www.relaischateaux.com/us/france/auriac-aude-carcassonne"
- },
- {
-  "Hotel": " Le Relais Bernard Loiseau – Spa Loiseau des Sens ",
-  "Restaurants": "  Bernard Loiseau ",
-  "Url": " https://www.relaischateaux.com/us/france/loiseau-cote-d-or-saulieu"
- },
- {
-  "Hotel": " Le Relais Bernard Loiseau – Spa Loiseau des Sens ",
-  "Restaurants": "  Loiseau des Sens ",
-  "Url": " https://www.relaischateaux.com/us/france/loiseau-cote-d-or-saulieu"
- },
- {
-  "Hotel": " Clarance Hôtel ",
-  "Restaurants": " La Table ",
-  "Url": " https://www.relaischateaux.com/us/france/clarance-hotel-nord"
- },
- {
-  "Hotel": " Château de Fonscolombe ",
-  "Restaurants": " L'Orangerie ",
-  "Url": " https://www.relaischateaux.com/us/france/fonscolombe-bouches-du-rhone"
- },
- {
-  "Hotel": " Hôtel de la Plage ",
-  "Restaurants": " Hôtel de la Plage ",
-  "Url": " https://www.relaischateaux.com/us/france/laplage-finistere-sainte-anne-la-palud"
- },
- {
-  "Hotel": " Château de Codignat ",
-  "Restaurants": " Château de Codignat ",
-  "Url": " https://www.relaischateaux.com/us/france/codignat-puy-de-dome-bort-l-etang"
- },
- {
-  "Hotel": " Domaine de la Bretesche Golf & Spa ",
-  "Restaurants": "  Le Montaigu ",
-  "Url": " https://www.relaischateaux.com/us/france/bretesche-loire-atlantique-missillac"
- },
- {
-  "Hotel": " Domaine de la Bretesche Golf & Spa ",
-  "Restaurants": "  Le Club ",
-  "Url": " https://www.relaischateaux.com/us/france/bretesche-loire-atlantique-missillac"
- },
- {
-  "Hotel": " Royal Champagne Hotel & Spa ",
-  "Restaurants": "  Le Royal ",
-  "Url": " https://www.relaischateaux.com/us/france/royalchampagne-marne-champillon"
- },
- {
-  "Hotel": " Les Hautes Roches ",
-  "Restaurants": " Les Hautes Roches ",
-  "Url": " https://www.relaischateaux.com/us/france/hautesroches-indre-et-loire-rochecorbon"
- },
- {
-  "Hotel": " Domaine de Rochevilaine ",
-  "Restaurants": " Domaine de Rochevilaine ",
-  "Url": " https://www.relaischateaux.com/us/france/rochevilaine-morbihan-billiers"
- },
- {
-  "Hotel": " Château d’Audrieu ",
-  "Restaurants": " Le Séran ",
-  "Url": " https://www.relaischateaux.com/us/france/audrieu-calvados-audrieu"
- },
- {
-  "Hotel": " Auberge des Templiers ",
-  "Restaurants": " Auberge des Templiers ",
-  "Url": " https://www.relaischateaux.com/us/france/templiers-loiret-boismorand"
- },
- {
-  "Hotel": " Troisgros ",
-  "Restaurants": "  Le Bois sans Feuilles ",
-  "Url": " https://www.relaischateaux.com/us/france/troisgros-loire-ouches"
- },
- {
-  "Hotel": " Royal Champagne Hotel & Spa ",
-  "Restaurants": "  Le Bellevue "
- },
- {
-  "Hotel": " Royal Champagne Hotel & Spa ",
-  "Restaurants": "  Le Bellevue Bar "
- },
- {
-  "Hotel": " Château de Noizay ",
-  "Restaurants": " Le Castel ",
-  "Url": " https://www.relaischateaux.com/us/france/noizay-indre-et-loire-noizay"
- },
- {
-  "Hotel": " Hôtel Restaurant En Marge ",
-  "Restaurants": " En Marge ",
-  "Url": " https://www.relaischateaux.com/us/france/hotel-restaurant-en-marge-aureville"
- },
- {
-  "Hotel": " La Chapelle Saint-Martin ",
-  "Restaurants": "  La Chapelle Saint Martin ",
-  "Url": " https://www.relaischateaux.com/us/france/chapelle-haute-vienne-nieul"
- },
- {
-  "Hotel": " La Bastide ",
-  "Restaurants": " La Table de La Bastide ",
-  "Url": " https://www.relaischateaux.com/us/france/labastide-gers-barbotan-les-thermes"
- },
- {
-  "Hotel": " Troisgros ",
-  "Restaurants": "  Le Central "
- },
- {
-  "Hotel": " Troisgros ",
-  "Restaurants": "  La Colline du Colombier "
- },
- {
-  "Hotel": " Château de Drudas ",
-  "Restaurants": " Le Verdurier ",
-  "Url": " https://www.relaischateaux.com/us/france/chateau-de-drudas"
- },
- {
-  "Hotel": " La Pyramide Patrick Henriroux ",
-  "Restaurants": "  La Pyramide Patrick Henriroux ",
-  "Url": " https://www.relaischateaux.com/us/france/pyramide-isere-vienne"
- },
- {
-  "Hotel": " La Pyramide Patrick Henriroux ",
-  "Restaurants": "  L'Espace PH3 ",
-  "Url": " https://www.relaischateaux.com/us/france/pyramide-isere-vienne"
- },
- {
-  "Hotel": " La Chapelle Saint-Martin ",
-  "Restaurants": "  La Table du Couvent "
- },
- {
-  "Hotel": " La Chapelle Saint-Martin ",
-  "Restaurants": "  Le 27 Restaurant "
+  "Chef": " Jany Gleize",
+  "CodePostal": " 04160 ",
+  "Url": "https://www.relaischateaux.com/us/france/bonneetape-alpes-de-haute-provence-chateau-arnoux"
  },
  {
   "Hotel": " Le Suquet, Sébastien Bras ",
-  "Restaurants": " BRAS ",
-  "Url": " https://www.relaischateaux.com/us/france/bras-aveyron-laguiole"
+  "Chef": " Sébastien Bras",
+  "CodePostal": " 12210 ",
+  "Url": "https://www.relaischateaux.com/us/france/bras-aveyron-laguiole"
  },
  {
-  "Hotel": " Le Chambard ",
-  "Restaurants": "  La Table d'Olivier Nasti ",
-  "Url": " https://www.relaischateaux.com/us/france/le-chambard-haut-rhin-kaysersberg"
+  "Hotel": " Castel Clara Thalasso & Spa ",
+  "Chef": " Franck Moisan",
+  "CodePostal": " 56360 ",
+  "Url": "https://www.relaischateaux.com/us/france/castelclara-morbihan-bangor"
  },
  {
-  "Hotel": " Le Chambard ",
-  "Restaurants": "  La Winstub ",
-  "Url": " https://www.relaischateaux.com/us/france/le-chambard-haut-rhin-kaysersberg"
+  "Hotel": " Le Mas de Pierre ",
+  "Chef": " Emmanuel Lehrer",
+  "CodePostal": " 06570 ",
+  "Url": "https://www.relaischateaux.com/us/france/maspierre-alpes-maritimes-saint-paul-de-vence"
  },
  {
-  "Hotel": " Hôtel-Spa La Bouitte – Restaurant René et Maxime Meilleur ",
-  "Restaurants": " Restaurant René & Maxime Meilleur ",
-  "Url": " https://www.relaischateaux.com/us/france/la-bouitte-savoie"
+  "Hotel": " Château Cordeillan-Bages ",
+  "Chef": " Julien Lefebvre",
+  "CodePostal": " 33250 ",
+  "Url": "https://www.relaischateaux.com/us/france/cordeillan-gironde-pauillac"
  },
  {
-  "Hotel": " La Grenouillère ",
-  "Restaurants": "  La Grenouillère ",
-  "Url": " https://www.relaischateaux.com/us/france/lagrenouillere-pas-de-calais-la-madelaine-sous-montreuil"
+  "Hotel": " Brittany & Spa ",
+  "Chef": " Loic Le Bail",
+  "CodePostal": " 29681 ",
+  "Url": "https://www.relaischateaux.com/us/france/brittany-finistere-roscoff"
  },
  {
-  "Hotel": " La Grenouillère ",
-  "Restaurants": "  Froggy's Tavern ",
-  "Url": " https://www.relaischateaux.com/us/france/lagrenouillere-pas-de-calais-la-madelaine-sous-montreuil"
+  "Hotel": " Château de La Chèvre d’Or ",
+  "Chef": " Arnaud Faye",
+  "CodePostal": " 06360 06360 06360 06360 ",
+  "Url": "https://www.relaischateaux.com/us/france/chevredor-alpes-maritimes-eze-village"
  },
  {
-  "Hotel": " Moulin de l’Abbaye ",
-  "Restaurants": "  Au Fil du Temps "
+  "Hotel": " Au Crocodile ",
+  "Chef": " Franck Pelux",
+  "CodePostal": " 67000 ",
+  "Url": "https://www.relaischateaux.com/us/france/crocodile-bas-rhin"
  },
  {
-  "Hotel": " Moulin de l’Abbaye ",
-  "Restaurants": "  Au Fil de l'Eau "
+  "Hotel": " Baumanière Hôtel & Spa ",
+  "Chef": " Glenn Viel",
+  "CodePostal": " 13520 ",
+  "Url": "https://www.relaischateaux.com/us/france/baumaniere-hotel-spa-les-baux-de-provence"
  },
  {
-  "Hotel": " La Signoria & Spa ",
-  "Restaurants": " La Signoria ",
-  "Url": " https://www.relaischateaux.com/us/france/signoria-corse-calvi"
+  "Hotel": " Lucas Carton ",
+  "Chef": " Julien Dumas",
+  "CodePostal": " 75008 ",
+  "Url": "https://www.relaischateaux.com/us/france/lucascarton-ile-de-france-paris"
  },
  {
-  "Hotel": " Le Clos ",
-  "Restaurants": " Le Clos ",
-  "Url": " https://www.relaischateaux.com/us/france/leclos-normandie-verneuil-sur-avre"
+  "Hotel": " Château de Courcelles ",
+  "Chef": " Lucas Vannier",
+  "CodePostal": " 02220 ",
+  "Url": "https://www.relaischateaux.com/us/france/courcelles-aisne-courcelles-sur-vesle"
  },
  {
-  "Hotel": " Le Grand Cœur & Spa ",
-  "Restaurants": " Le Grand Coeur & Spa ",
-  "Url": " https://www.relaischateaux.com/us/france/grandcoeur-savoie-meribel"
+  "Hotel": " Bas Rupts ",
+  "Chef": " Michel Philippe",
+  "CodePostal": " 88400 ",
+  "Url": "https://www.relaischateaux.com/us/france/basrupts-vosges-gerardmer"
+ },
+ {
+  "Hotel": " Château des Avenières ",
+  "Chef": " Anthony Laboubé",
+  "CodePostal": " 74350 ",
+  "Url": "https://www.relaischateaux.com/us/france/avenieres-haute-savoie-cruseilles"
+ },
+ {
+  "Hotel": " Saint James Paris ",
+  "Chef": " Adrien Brunet",
+  "CodePostal": " 75116 ",
+  "Url": "https://www.relaischateaux.com/us/france/saintjames-paris-ile-de-france-paris"
+ },
+ {
+  "Hotel": " Le Grand Véfour ",
+  "Chef": " Guy Martin",
+  "CodePostal": " 75001 ",
+  "Url": "https://www.relaischateaux.com/us/france/vefour-paris"
  },
  {
   "Hotel": " L’Arnsbourg Restaurant et Hôtel ",
-  "Restaurants": " L'Arnsbourg ",
-  "Url": " https://www.relaischateaux.com/us/france/arnsbourg-moselle-baerenthal"
+  "Chef": " Fabien Mengus",
+  "CodePostal": " 57230 ",
+  "Url": "https://www.relaischateaux.com/us/france/arnsbourg-moselle-baerenthal"
  },
  {
-  "Hotel": " Hôtel Les Barmes de l'Ours ",
-  "Restaurants": "  La Table de l'Ours ",
-  "Url": " https://www.relaischateaux.com/us/france/barmes-de-l-ours-savoie"
+  "Hotel": " Villa Florentine ",
+  "Chef": " David Delsart",
+  "CodePostal": " 69005 ",
+  "Url": "https://www.relaischateaux.com/us/france/florentine-rhone-lyon"
+ },
+ {
+  "Hotel": " Pierre Gagnaire ",
+  "Chef": " Pierre Gagnaire",
+  "CodePostal": " 75008 ",
+  "Url": "https://www.relaischateaux.com/us/france/gagnaire-paris"
+ },
+ {
+  "Hotel": " Château de Fonscolombe ",
+  "Chef": " Nadège Serret",
+  "CodePostal": " 13610 ",
+  "Url": "https://www.relaischateaux.com/us/france/fonscolombe-bouches-du-rhone"
+ },
+ {
+  "Hotel": " Auberge des Templiers ",
+  "Chef": " Martin Simonart",
+  "CodePostal": " 45290 ",
+  "Url": "https://www.relaischateaux.com/us/france/templiers-loiret-boismorand"
+ },
+ {
+  "Hotel": " Hostellerie La Cheneaudière & Spa ",
+  "Chef": " Roger Bouhassoun",
+  "CodePostal": " 67420 ",
+  "Url": "https://www.relaischateaux.com/us/france/cheneaudiere-bas-rhin-colroy-la-roche"
+ },
+ {
+  "Hotel": " Hôtel-Spa La Bouitte – Restaurant René et Maxime Meilleur ",
+  "Chef": " René and Maxime Meilleur",
+  "CodePostal": " 73440 ",
+  "Url": "https://www.relaischateaux.com/us/france/la-bouitte-savoie"
+ },
+ {
+  "Hotel": " Les Hautes Roches ",
+  "Chef": " Didier Edon",
+  "CodePostal": " 37210 ",
+  "Url": "https://www.relaischateaux.com/us/france/hautesroches-indre-et-loire-rochecorbon"
+ },
+ {
+  "Hotel": " Jiva Hill Resort ",
+  "Chef": " Vincent Betton",
+  "CodePostal": " 01170 ",
+  "Url": "https://www.relaischateaux.com/us/france/jivahill-ain-crozet"
+ },
+ {
+  "Hotel": " L’Oasis ",
+  "Chef": " Alain Montigny",
+  "CodePostal": " 06210 ",
+  "Url": "https://www.relaischateaux.com/us/france/oasis-alpes-maritimes-la-napoule"
+ },
+ {
+  "Hotel": " Maison Lameloise ",
+  "Chef": " Eric Pras",
+  "CodePostal": " 71150 ",
+  "Url": "https://www.relaischateaux.com/us/france/lameloise-saone-et-loire-chagny"
  },
  {
   "Hotel": " Assiette Champenoise ",
-  "Restaurants": " L'Assiette Champenoise ",
-  "Url": " https://www.relaischateaux.com/us/france/assiette-champenoise-champagne-ardenne-tinqueux"
+  "Chef": " Arnaud Lallement",
+  "CodePostal": " 51430 ",
+  "Url": "https://www.relaischateaux.com/us/france/assiette-champenoise-champagne-ardenne-tinqueux"
  },
  {
-  "Hotel": " Hôtel Les Barmes de l'Ours ",
-  "Restaurants": "  La Rôtisserie des Barmes "
+  "Hotel": " L’Hôtel de Toiras & Villa Clarisse ",
+  "Chef": " Antonio Sanna",
+  "CodePostal": " 17410 ",
+  "Url": "https://www.relaischateaux.com/us/france/toiras-charente-maritime-saint-martin-de-re"
  },
  {
-  "Hotel": " Hôtel Les Barmes de l'Ours ",
-  "Restaurants": "  Coin Savoyard "
+  "Hotel": " Monte-Carlo Beach ",
+  "Chef": " Paolo Sari",
+  "CodePostal": " 06190 ",
+  "Url": "https://www.relaischateaux.com/us/france/montecarlo-alpes-maritimes-roquebrune-cap-martin"
  },
  {
-  "Hotel": " Château de Noirieux ",
-  "Restaurants": " La Table de Noirieux ",
-  "Url": " https://www.relaischateaux.com/us/france/noirieux-maine-et-loire-briollay"
+  "Hotel": " Grand Hôtel du Lion d’Or ",
+  "Chef": " Didier Clément",
+  "CodePostal": " 41200 ",
+  "Url": "https://www.relaischateaux.com/us/france/liondor-loir-et-cher-romorantin-lanthenay"
  },
  {
-  "Hotel": " La Villa Calvi ",
-  "Restaurants": " La Table by La Villa ",
-  "Url": " https://www.relaischateaux.com/us/france/lavilla-haute-corse-calvi"
+  "Hotel": " Hôtel Impérial Garoupe ",
+  "Chef": " Pierre-Alain Garnier",
+  "CodePostal": " 06600 06600 ",
+  "Url": "https://www.relaischateaux.com/us/france/garoupe-alpes-maritimes-cap-d-antibes"
  },
  {
-  "Hotel": " Hôtel et Restaurant Régis et Jacques Marcon ",
-  "Restaurants": "  Restaurant Régis et Jacques Marcon ",
-  "Url": " https://www.relaischateaux.com/us/france/cimes-haute-loire-saint-bonnet-le-froid"
+  "Hotel": " Michel Trama ",
+  "Chef": " Michel Trama",
+  "CodePostal": " 47270 ",
+  "Url": "https://www.relaischateaux.com/us/france/aubergade-lot-et-garonne-puymirol"
  },
  {
-  "Hotel": " Hôtel et Restaurant Régis et Jacques Marcon ",
-  "Restaurants": "  La Coulemelle ",
-  "Url": " https://www.relaischateaux.com/us/france/cimes-haute-loire-saint-bonnet-le-froid"
+  "Hotel": " Château de Bagnols ",
+  "Chef": " Jean-Alexandre Ouaratta",
+  "CodePostal": " 69620 ",
+  "Url": "https://www.relaischateaux.com/us/france/bagnols-rhone-alpes"
  },
  {
-  "Hotel": " Cap d’Antibes Beach Hotel ",
-  "Restaurants": "  Les Pêcheurs ",
-  "Url": " https://www.relaischateaux.com/us/france/antibes-alpes-maritimes-cap-d-antibes"
+  "Hotel": " Château de Berne ",
+  "Chef": " Benjamin Collombat",
+  "CodePostal": " 83780 83780 ",
+  "Url": "https://www.relaischateaux.com/us/france/berne-var-lorgues"
  },
  {
-  "Hotel": " Cap d’Antibes Beach Hotel ",
-  "Restaurants": "  Le Cap ",
-  "Url": " https://www.relaischateaux.com/us/france/antibes-alpes-maritimes-cap-d-antibes"
+  "Hotel": " Château de Rochegude ",
+  "Chef": " Thierry Frebout",
+  "CodePostal": " 26790 ",
+  "Url": "https://www.relaischateaux.com/us/france/rochegude-drome-rochegude"
  },
  {
-  "Hotel": " Le Phébus & Spa - Villa des Anges ",
-  "Restaurants": "  La Table de Xavier Mathieu ",
-  "Url": " https://www.relaischateaux.com/us/france/phebus-vaucluse-gordes"
- },
- {
-  "Hotel": " Le Phébus & Spa - Villa des Anges ",
-  "Restaurants": "  Le Café de la Fontaine ",
-  "Url": " https://www.relaischateaux.com/us/france/phebus-vaucluse-gordes"
- },
- {
-  "Hotel": " Maison Pic ",
-  "Restaurants": "  Anne-Sophie Pic - Le Restaurant ",
-  "Url": " https://www.relaischateaux.com/us/france/pic-drome-valence"
- },
- {
-  "Hotel": " Maison Pic ",
-  "Restaurants": "  André ",
-  "Url": " https://www.relaischateaux.com/us/france/pic-drome-valence"
- },
- {
-  "Hotel": " Anne de Bretagne ",
-  "Restaurants": " Anne de Bretagne ",
-  "Url": " https://www.relaischateaux.com/us/france/annedebretagne-loire-atlantique-la-plaine-sur-mer"
- },
- {
-  "Hotel": " Hôtel Le Chabichou Restaurants & Spa ",
-  "Restaurants": "  Le Chabichou ",
-  "Url": " https://www.relaischateaux.com/us/france/chabichou-savoie-courchevel-1850"
- },
- {
-  "Hotel": " Hôtel Le Chabichou Restaurants & Spa ",
-  "Restaurants": "  Le Chabotté ",
-  "Url": " https://www.relaischateaux.com/us/france/chabichou-savoie-courchevel-1850"
- },
- {
-  "Hotel": " Abbaye de la Bussière ",
-  "Restaurants": "  Gastronomique ",
-  "Url": " https://www.relaischateaux.com/us/france/bussiere-cote-d-or-la-bussiere-sur-ouche"
- },
- {
-  "Hotel": " Abbaye de la Bussière ",
-  "Restaurants": "  Bistrot des Moines ",
-  "Url": " https://www.relaischateaux.com/us/france/bussiere-cote-d-or-la-bussiere-sur-ouche"
- },
- {
-  "Hotel": " La Bastide de Capelongue ",
-  "Restaurants": "  Restaurant Edouard Loubet ",
-  "Url": " https://www.relaischateaux.com/us/france/capelongue-vaucluse-bonnieux-en-provence"
- },
- {
-  "Hotel": " Manoir de Lan-Kerellec ",
-  "Restaurants": " Manoir de Lan-Kerellec ",
-  "Url": " https://www.relaischateaux.com/us/france/lankerellec-cotes-d-armor-trebeurden"
+  "Hotel": " Restaurant Gill ",
+  "Chef": " Gilles Tournadre",
+  "CodePostal": " 76000 ",
+  "Url": "https://www.relaischateaux.com/us/france/gill-seine-maritime-rouen"
  },
  {
   "Hotel": " Le Club de Cavalière & Spa ",
-  "Restaurants": " La Vieille Fontaine ",
-  "Url": " https://www.relaischateaux.com/us/france/cavaliere-var-le-lavandou-cavaliere"
+  "Chef": " Marc Dach",
+  "CodePostal": " 83980 73550 ",
+  "Url": "https://www.relaischateaux.com/us/france/cavaliere-var-le-lavandou-cavaliere"
+ },
+ {
+  "Hotel": " Pan Deï Palais ",
+  "Chef": " Quentin Durand",
+  "CodePostal": " 83990 ",
+  "Url": "https://www.relaischateaux.com/us/france/pandei-var-saint-tropez"
+ },
+ {
+  "Hotel": " Le Prieuré Baumanière ",
+  "Chef": " Marc Fontanne",
+  "CodePostal": " 30400 ",
+  "Url": "https://www.relaischateaux.com/us/france/leprieure-gard-villeneuve-lez-avignon"
+ },
+ {
+  "Hotel": " Maison Pic ",
+  "Chef": " Anne-Sophie Pic",
+  "CodePostal": " 26000 26000 ",
+  "Url": "https://www.relaischateaux.com/us/france/pic-drome-valence"
+ },
+ {
+  "Hotel": " La Bastide ",
+  "Chef": " Jérôme Artiguebère",
+  "CodePostal": " 32150 ",
+  "Url": "https://www.relaischateaux.com/us/france/labastide-gers-barbotan-les-thermes"
+ },
+ {
+  "Hotel": " Château de Drudas ",
+  "Chef": " Axell Boisselier",
+  "CodePostal": " 31480 ",
+  "Url": "https://www.relaischateaux.com/us/france/chateau-de-drudas"
+ },
+ {
+  "Hotel": " Hôtel et Restaurant Régis et Jacques Marcon ",
+  "Chef": " Régis & Jacques Marcon",
+  "CodePostal": " 43290 ",
+  "Url": "https://www.relaischateaux.com/us/france/cimes-haute-loire-saint-bonnet-le-froid"
+ },
+ {
+  "Hotel": " La Grande Maison de Bernard Magrez ",
+  "Chef": " Jean-Denis Le Bras - Pierre Gagnaire",
+  "CodePostal": " 33000 ",
+  "Url": "https://www.relaischateaux.com/us/france/grande-maison-bernard-magrez-gironde-bordeaux"
+ },
+ {
+  "Hotel": " La Bastide Saint-Antoine ",
+  "Chef": " Laurent Barberot",
+  "CodePostal": " 06130 ",
+  "Url": "https://www.relaischateaux.com/us/france/saintantoine-alpes-maritimes-grasse"
+ },
+ {
+  "Hotel": " Hôtel Restaurant En Marge ",
+  "Chef": " Frank Renimel",
+  "CodePostal": " 31320 ",
+  "Url": "https://www.relaischateaux.com/us/france/hotel-restaurant-en-marge-aureville"
+ },
+ {
+  "Hotel": " Domaine Les Crayères ",
+  "Chef": " Philippe Mille",
+  "CodePostal": " 51100 51100 ",
+  "Url": "https://www.relaischateaux.com/us/france/crayeres-marne-reims"
+ },
+ {
+  "Hotel": " Abbaye de la Bussière ",
+  "Chef": " Guillaume Royer",
+  "CodePostal": " 21360 ",
+  "Url": "https://www.relaischateaux.com/us/france/bussiere-cote-d-or-la-bussiere-sur-ouche"
+ },
+ {
+  "Hotel": " Villa Gallici ",
+  "Chef": " Christophe Gavot",
+  "CodePostal": " 13100 ",
+  "Url": "https://www.relaischateaux.com/us/france/gallici-bouches-du-rhone-aix-en-provence"
+ },
+ {
+  "Hotel": " Les Hauts de Loire ",
+  "Chef": " Rémy Giraud",
+  "CodePostal": " 41150 ",
+  "Url": "https://www.relaischateaux.com/us/france/hauts-loire-loir-et-cher-onzain"
+ },
+ {
+  "Hotel": " La Signoria & Spa ",
+  "Chef": " Alexandre Fabris",
+  "CodePostal": " 20260 ",
+  "Url": "https://www.relaischateaux.com/us/france/signoria-corse-calvi"
+ },
+ {
+  "Hotel": " Coquillade Village ",
+  "Chef": " Thierry Enderlin",
+  "CodePostal": " 84400 ",
+  "Url": "https://www.relaischateaux.com/us/france/coquillade-vaucluse-gargas"
+ },
+ {
+  "Hotel": " Château de la Treyne ",
+  "Chef": " Stéphane Andrieux",
+  "CodePostal": " 46200 ",
+  "Url": "https://www.relaischateaux.com/us/france/treyne-lot-lacave"
+ },
+ {
+  "Hotel": " Château de Mercuès ",
+  "Chef": " Julien Poisot",
+  "CodePostal": " 46090 46090 ",
+  "Url": "https://www.relaischateaux.com/us/france/mercues-lot-mercues"
+ },
+ {
+  "Hotel": " Restaurant Mirazur ",
+  "Chef": " Mauro Colagreco",
+  "CodePostal": " 06500 ",
+  "Url": "https://www.relaischateaux.com/us/france/mirazur-alpes-maritimes-menton"
+ },
+ {
+  "Hotel": " Cazaudehore « La Forestière » ",
+  "Chef": " Gregory Balland",
+  "CodePostal": " 78100 ",
+  "Url": "https://www.relaischateaux.com/us/france/cazaudehore-yvelines-saint-germain-en-laye"
+ },
+ {
+  "Hotel": " La Ferme Saint-Siméon ",
+  "Chef": " Sébastien Faramond",
+  "CodePostal": " 14600 ",
+  "Url": "https://www.relaischateaux.com/us/france/simeon-calvados-honfleur"
+ },
+ {
+  "Hotel": " Hôtel & Spa du Castellet ",
+  "Chef": " Christophe Bacquié",
+  "CodePostal": " 83330 ",
+  "Url": "https://www.relaischateaux.com/us/france/castellet-var-le-castellet"
+ },
+ {
+  "Hotel": " Les Bergeries de Palombaggia ",
+  "Chef": " Jean-Jacques Gauthier",
+  "CodePostal": " 20137 ",
+  "Url": "https://www.relaischateaux.com/us/france/palombaggia-corse-du-sud-porto-vecchio"
+ },
+ {
+  "Hotel": " Château d’Audrieu ",
+  "Chef": " Olivier Barbarin",
+  "CodePostal": " 14250 ",
+  "Url": "https://www.relaischateaux.com/us/france/audrieu-calvados-audrieu"
+ },
+ {
+  "Hotel": " Cap d’Antibes Beach Hotel ",
+  "Chef": " Nicolas Rondelli",
+  "CodePostal": " 06160 ",
+  "Url": "https://www.relaischateaux.com/us/france/antibes-alpes-maritimes-cap-d-antibes"
+ },
+ {
+  "Hotel": " La Pyramide Patrick Henriroux ",
+  "Chef": " Patrick Henriroux",
+  "CodePostal": " 38200 ",
+  "Url": "https://www.relaischateaux.com/us/france/pyramide-isere-vienne"
+ },
+ {
+  "Hotel": " Domaine d’Auriac ",
+  "Chef": " Philippe Deschamps",
+  "CodePostal": " 11009 ",
+  "Url": "https://www.relaischateaux.com/us/france/auriac-aude-carcassonne"
+ },
+ {
+  "Hotel": " L'Auberge Basque ",
+  "Chef": " Cédric Béchade",
+  "CodePostal": " 64310 ",
+  "Url": "https://www.relaischateaux.com/us/france/auberge-basque-saint-pee-sur-nivelle-pyrenees-atlantiques"
  },
  {
   "Hotel": " La Bastide de Capelongue ",
-  "Restaurants": "  La Bergerie d’Edouard Loubet "
+  "Chef": " Édouard Loubet",
+  "CodePostal": " 84480 84480 ",
+  "Url": "https://www.relaischateaux.com/us/france/capelongue-vaucluse-bonnieux-en-provence"
  },
  {
-  "Hotel": " La Bastide de Capelongue ",
-  "Restaurants": "  Bar à Jus "
+  "Hotel": " Le Vieux Logis ",
+  "Chef": " Vincent Arnould",
+  "CodePostal": " 24510 ",
+  "Url": "https://www.relaischateaux.com/us/france/vieuxlogis-dordogne-tremolat"
  },
  {
-  "Hotel": " La Bastide de Saint-Tropez ",
-  "Restaurants": "  L’Olivier ",
-  "Url": " https://www.relaischateaux.com/us/france/tropez-var-saint-tropez"
+  "Hotel": " La Chapelle Saint-Martin ",
+  "Chef": " Gilles Dudognon",
+  "CodePostal": " 87510 87510 87510 ",
+  "Url": "https://www.relaischateaux.com/us/france/chapelle-haute-vienne-nieul"
  },
  {
-  "Hotel": " La Bastide de Saint-Tropez ",
-  "Restaurants": "  Le Bistro de la Bastide ",
-  "Url": " https://www.relaischateaux.com/us/france/tropez-var-saint-tropez"
+  "Hotel": " Hôtel Restaurant Clos des Sens - Laurent PETIT ",
+  "Chef": " Laurent Petit",
+  "CodePostal": " 74940 74940 ",
+  "Url": "https://www.relaischateaux.com/us/france/clos-des-sens-haute-savoie"
  },
  {
-  "Hotel": " Georges Blanc Parc & Spa ",
-  "Restaurants": "  Restaurant Gastronomique Georges BLANC ",
-  "Url": " https://www.relaischateaux.com/us/france/blanc-ain-vonnas"
+  "Hotel": " Auberge du Jeu de Paume ",
+  "Chef": " Julien Lucas",
+  "CodePostal": " 60500 ",
+  "Url": "https://www.relaischateaux.com/us/france/jeudepaume-oise-chantilly"
  },
  {
-  "Hotel": " Georges Blanc Parc & Spa ",
-  "Restaurants": "  l'Ancienne Auberge 1900 ",
-  "Url": " https://www.relaischateaux.com/us/france/blanc-ain-vonnas"
+  "Hotel": " Le Castel Marie-Louise ",
+  "Chef": " Eric Mignard",
+  "CodePostal": " 44504 ",
+  "Url": "https://www.relaischateaux.com/us/france/marielouise-loire-atlantique-la-baule"
  },
  {
-  "Hotel": " Hostellerie de Plaisance ",
-  "Restaurants": "  La Table de Plaisance ",
-  "Url": " https://www.relaischateaux.com/us/france/plaisance-gironde-saint-emilion"
+  "Hotel": " Château de Riell ",
+  "Chef": " Sébastien Nouveau",
+  "CodePostal": " 66500 ",
+  "Url": "https://www.relaischateaux.com/us/france/riell-pyrenees-orientales-prades"
  },
  {
-  "Hotel": " Hostellerie de Plaisance ",
-  "Restaurants": "  L'Envers du Décor ",
-  "Url": " https://www.relaischateaux.com/us/france/plaisance-gironde-saint-emilion"
+  "Hotel": " Le Relais Bernard Loiseau – Spa Loiseau des Sens ",
+  "Chef": " Patrick Bertron",
+  "CodePostal": " 21210 ",
+  "Url": "https://www.relaischateaux.com/us/france/loiseau-cote-d-or-saulieu"
  },
  {
-  "Hotel": " Le Couvent des Minimes Hôtel & Spa L'Occitane ",
-  "Restaurants": "  Le Cloître ",
-  "Url": " https://www.relaischateaux.com/us/france/minimes-alpes-de-haute-provence-mane"
+  "Hotel": " Hameau Albert Ier ",
+  "Chef": " Damien Leveau",
+  "CodePostal": " 74402 ",
+  "Url": "https://www.relaischateaux.com/us/france/albert-haute-savoie-chamonix-mont-blanc"
  },
  {
-  "Hotel": " Le Couvent des Minimes Hôtel & Spa L'Occitane ",
-  "Restaurants": "  Pesquier ",
-  "Url": " https://www.relaischateaux.com/us/france/minimes-alpes-de-haute-provence-mane"
+  "Hotel": " Clarance Hôtel ",
+  "Chef": " Thibaut Gamba",
+  "CodePostal": " 59000 ",
+  "Url": "https://www.relaischateaux.com/us/france/clarance-hotel-nord"
+ },
+ {
+  "Hotel": " Hôtel Parc Victoria ",
+  "Chef": " Guillaume Applaincourt",
+  "CodePostal": " 64500 ",
+  "Url": "https://www.relaischateaux.com/us/france/parcvictoria-pyrenees-atlantiques-saint-jean-de-luz"
+ },
+ {
+  "Hotel": " Château de Valmer ",
+  "Chef": " Jimmy Coutel",
+  "CodePostal": " 83420 ",
+  "Url": "https://www.relaischateaux.com/us/france/chateau-de-valmer-la-croix-valmer"
+ },
+ {
+  "Hotel": " Hôtel Splendide Royal Paris ",
+  "Chef": " Vito Grippa",
+  "CodePostal": " 75008 ",
+  "Url": "https://www.relaischateaux.com/us/france/hotel-splendide-royal-paris"
+ },
+ {
+  "Hotel": " Les Prés d’Eugénie - Maison Guérard ",
+  "Chef": " Michel Guérard",
+  "CodePostal": " 40320 40320 ",
+  "Url": "https://www.relaischateaux.com/us/france/guerard-landes-eugenie-les-bains"
+ },
+ {
+  "Hotel": " Hôtel Crillon le Brave ",
+  "Chef": " Julien Marseault",
+  "CodePostal": " 84410 ",
+  "Url": "https://www.relaischateaux.com/us/france/crillonbrave-vaucluse-crillon-le-brave"
+ },
+ {
+  "Hotel": " Le Chambard ",
+  "Chef": " Olivier Nasti",
+  "CodePostal": " 68240 ",
+  "Url": "https://www.relaischateaux.com/us/france/le-chambard-haut-rhin-kaysersberg"
+ },
+ {
+  "Hotel": " Passage 53 ",
+  "Chef": " Shinichi Sato",
+  "CodePostal": " 75002 ",
+  "Url": "https://www.relaischateaux.com/us/france/passage53-paris"
+ },
+ {
+  "Hotel": " Le Domaine de Verchant ",
+  "Chef": " Damien Cousseau",
+  "CodePostal": " 34170 ",
+  "Url": "https://www.relaischateaux.com/us/france/verchant-herault-montpellier"
+ },
+ {
+  "Hotel": " Hôtel Le Chabichou Restaurants & Spa ",
+  "Chef": " Michel Rochedy & Stéphane Buron",
+  "CodePostal": " 73120 ",
+  "Url": "https://www.relaischateaux.com/us/france/chabichou-savoie-courchevel-1850"
+ },
+ {
+  "Hotel": " Relais de la Poste ",
+  "Chef": " Jean Coussau",
+  "CodePostal": " 40140 ",
+  "Url": "https://www.relaischateaux.com/us/france/poste-landes-magescq"
+ },
+ {
+  "Hotel": " Château de Noirieux ",
+  "Chef": " Christophe Guillemot",
+  "CodePostal": " 49125 ",
+  "Url": "https://www.relaischateaux.com/us/france/noirieux-maine-et-loire-briollay"
+ },
+ {
+  "Hotel": " Au Cœur du Village Hôtel & Spa ",
+  "Chef": " Cédric Heurtebise & Vincent Deforce",
+  "CodePostal": " 74220 74220 ",
+  "Url": "https://www.relaischateaux.com/us/france/coeurduvillage-rhone-alpes-la-clusaz"
+ },
+ {
+  "Hotel": " Restaurant Christopher Coutanceau ",
+  "Chef": " Christopher Coutanceau",
+  "CodePostal": " 17000 ",
+  "Url": "https://www.relaischateaux.com/us/france/coutanceau-charente-maritime-la-rochelle"
+ },
+ {
+  "Hotel": " Château de Germigney ",
+  "Chef": " Pierre Basso-Moro",
+  "CodePostal": " 39600 ",
+  "Url": "https://www.relaischateaux.com/us/france/germigney-jura-port-lesney"
+ },
+ {
+  "Hotel": " Maison Rostang ",
+  "Chef": " Michel Rostang and Nicolas Beaumann",
+  "CodePostal": " 75017 ",
+  "Url": "https://www.relaischateaux.com/us/france/rostang-paris"
+ },
+ {
+  "Hotel": " Moulin de l’Abbaye ",
+  "Chef": " Jean Michel Bardet",
+  "CodePostal": " 24310 ",
+  "Url": "https://www.relaischateaux.com/us/france/moulin-dordogne-brantome-en-perigord"
+ },
+ {
+  "Hotel": " Royal Champagne Hotel & Spa ",
+  "Chef": " Jean-Denis Rieubland",
+  "CodePostal": " 51160 ",
+  "Url": "https://www.relaischateaux.com/us/france/royalchampagne-marne-champillon"
+ },
+ {
+  "Hotel": " Château de Codignat ",
+  "Chef": " Mathieu Barbet",
+  "CodePostal": " 63190 ",
+  "Url": "https://www.relaischateaux.com/us/france/codignat-puy-de-dome-bort-l-etang"
+ },
+ {
+  "Hotel": " Château de Locguénolé ",
+  "Chef": " Jérémie Louis",
+  "CodePostal": " 56700 ",
+  "Url": "https://www.relaischateaux.com/us/france/locguenole-morbihan-kervignac"
+ },
+ {
+  "Hotel": " Yoann Conte – Bord du Lac Hôtel Restaurant ",
+  "Chef": " Yoann Conte",
+  "CodePostal": " 74290 ",
+  "Url": "https://www.relaischateaux.com/us/france/yoannconte-haute-savoie-veyrier-du-lac"
+ },
+ {
+  "Hotel": " La Maison des Bois – Marc Veyrat ",
+  "Chef": " Marc Veyrat",
+  "CodePostal": " 74230 ",
+  "Url": "https://www.relaischateaux.com/us/france/marcveyrat-haute-savoie-manigod"
+ },
+ {
+  "Hotel": " Maison Decoret ",
+  "Chef": " Jacques Decoret",
+  "CodePostal": " 03200 ",
+  "Url": "https://www.relaischateaux.com/us/france/decoret-allier-vichy"
+ },
+ {
+  "Hotel": " Restaurant Pierre Orsi ",
+  "Chef": " Pierre Orsi",
+  "CodePostal": " 69006 69006 ",
+  "Url": "https://www.relaischateaux.com/us/france/orsi-rhone-lyon"
+ },
+ {
+  "Hotel": " Manoir de Lan-Kerellec ",
+  "Chef": " Anthony Avoine",
+  "CodePostal": " 22560 ",
+  "Url": "https://www.relaischateaux.com/us/france/lankerellec-cotes-d-armor-trebeurden"
+ },
+ {
+  "Hotel": " Villa René Lalique ",
+  "Chef": " Jean-Georges Klein",
+  "CodePostal": " 67290 ",
+  "Url": "https://www.relaischateaux.com/us/france/lalique-bas-rhin"
+ },
+ {
+  "Hotel": " La Réserve ",
+  "Chef": " Benoit Solomiac",
+  "CodePostal": " 81000 ",
+  "Url": "https://www.relaischateaux.com/us/france/reservealbi-tarn-albi"
  },
  {
   "Hotel": " Château d’Adoménil ",
-  "Restaurants": " Chateau d'Adomenil ",
-  "Url": " https://www.relaischateaux.com/us/france/adomenil-meurthe-et-moselle-luneville"
+  "Chef": " Cyril Leclerc",
+  "CodePostal": " 54300 ",
+  "Url": "https://www.relaischateaux.com/us/france/adomenil-meurthe-et-moselle-luneville"
  },
  {
-  "Hotel": " Château de Berne ",
-  "Restaurants": "  Le Jardin de Benjamin ",
-  "Url": " https://www.relaischateaux.com/us/france/berne-var-lorgues"
+  "Hotel": " Les Maisons de Bricourt ",
+  "Chef": " Olivier & Hugo Roellinger",
+  "CodePostal": " 35350 ",
+  "Url": "https://www.relaischateaux.com/us/france/bricourt-ille-et-vilaine-saint-meloir-des-ondes"
  },
  {
-  "Hotel": " Château de Berne ",
-  "Restaurants": "  Le Bistrot ",
-  "Url": " https://www.relaischateaux.com/us/france/berne-var-lorgues"
+  "Hotel": " Restaurant Guy Lassausaie ",
+  "Chef": " Guy Lassausaie",
+  "CodePostal": " 69380 ",
+  "Url": "https://www.relaischateaux.com/us/france/lassausaie-rhone-alpes-chasselay"
  },
  {
-  "Hotel": " Château de Valmer ",
-  "Restaurants": "  La Palmeraie ",
-  "Url": " https://www.relaischateaux.com/us/france/chateau-de-valmer-la-croix-valmer"
+  "Hotel": " La Grenouillère ",
+  "Chef": " Alexandre Gauthier",
+  "CodePostal": " 62170 ",
+  "Url": "https://www.relaischateaux.com/us/france/lagrenouillere-pas-de-calais-la-madelaine-sous-montreuil"
  },
  {
-  "Hotel": " Château de Valmer ",
-  "Restaurants": "  La Piscine ",
-  "Url": " https://www.relaischateaux.com/us/france/chateau-de-valmer-la-croix-valmer"
+  "Hotel": " Tiara Yaktsa ",
+  "Chef": " Guillaume Anor",
+  "CodePostal": " 06590 ",
+  "Url": "https://www.relaischateaux.com/us/france/yaktsa-alpes-maritimes-theoule-sur-mer"
  },
  {
-  "Hotel": " Château de Curzay ",
-  "Restaurants": " Les Quatre Saisons ",
-  "Url": " https://www.relaischateaux.com/us/france/curzay-vienne-curzay-sur-vonne"
+  "Hotel": " Domaine de Rochevilaine ",
+  "Chef": " Maxime Nouail",
+  "CodePostal": " 56190 ",
+  "Url": "https://www.relaischateaux.com/us/france/rochevilaine-morbihan-billiers"
+ },
+ {
+  "Hotel": " Le Couvent des Minimes Hôtel & Spa L'Occitane ",
+  "Chef": " Jérôme ROY",
+  "CodePostal": " 04300 ",
+  "Url": "https://www.relaischateaux.com/us/france/minimes-alpes-de-haute-provence-mane"
  },
  {
   "Hotel": " Le Petit Nice-Passedat ",
-  "Restaurants": "  Le Petit Nice ",
-  "Url": " https://www.relaischateaux.com/us/france/passedat-bouches-du-rhone-marseille"
+  "Chef": " Gérald Passedat",
+  "CodePostal": " 13007 13007 ",
+  "Url": "https://www.relaischateaux.com/us/france/passedat-bouches-du-rhone-marseille"
  },
  {
-  "Hotel": " Le Petit Nice-Passedat ",
-  "Restaurants": "  Le 1917 ",
-  "Url": " https://www.relaischateaux.com/us/france/passedat-bouches-du-rhone-marseille"
+  "Hotel": " Domaine de la Bretesche Golf & Spa ",
+  "Chef": " Frédéric Murati",
+  "CodePostal": " 44780 ",
+  "Url": "https://www.relaischateaux.com/us/france/bretesche-loire-atlantique-missillac"
  },
  {
-  "Hotel": " Hôtel Impérial Garoupe ",
-  "Restaurants": "  Le Pavillon ",
-  "Url": " https://www.relaischateaux.com/us/france/garoupe-alpes-maritimes-cap-d-antibes"
+  "Hotel": " Georges Blanc Parc & Spa ",
+  "Chef": " Georges Blanc",
+  "CodePostal": " 01540 ",
+  "Url": "https://www.relaischateaux.com/us/france/blanc-ain-vonnas"
  },
  {
-  "Hotel": " Hôtel Impérial Garoupe ",
-  "Restaurants": "  Pavillon Beach ",
-  "Url": " https://www.relaischateaux.com/us/france/garoupe-alpes-maritimes-cap-d-antibes"
+  "Hotel": " Château de Montreuil ",
+  "Chef": " Jean-Marie Le Guen",
+  "CodePostal": " 62170 ",
+  "Url": "https://www.relaischateaux.com/us/france/montreuil-pas-de-calais-montreuil"
+ },
+ {
+  "Hotel": " Hotel & Restaurant Thierry Drapeau ",
+  "Chef": " Thierry Drapeau",
+  "CodePostal": " 85260 ",
+  "Url": "https://www.relaischateaux.com/us/france/thierrydrapeau-vendee-saint-sulpice-le-verdon"
+ },
+ {
+  "Hotel": " Flocons de Sel ",
+  "Chef": " Emmanuel Renaut",
+  "CodePostal": " 74120 ",
+  "Url": "https://www.relaischateaux.com/us/france/flocons-haute-savoie-megeve"
+ },
+ {
+  "Hotel": " Grand Hôtel de Cala Rossa & Spa ",
+  "Chef": " Pascal Cayeux",
+  "CodePostal": " 20137 20137 ",
+  "Url": "https://www.relaischateaux.com/us/france/calarossa-corse-porto-vecchio"
+ },
+ {
+  "Hotel": " Hotel Ile de la Lagune Thalasso & Spa ",
+  "Chef": " Christophe Schmitt",
+  "CodePostal": " 66750 ",
+  "Url": "https://www.relaischateaux.com/us/france/ile-de-la-lagune-saint-cyprien"
+ },
+ {
+  "Hotel": " Hostellerie La Briqueterie ",
+  "Chef": " Thomas Debouzy",
+  "CodePostal": " 51530 ",
+  "Url": "https://www.relaischateaux.com/us/france/briqueterie-marne-vinay"
+ },
+ {
+  "Hotel": " Château de Noizay ",
+  "Chef": " Frédéric Collin",
+  "CodePostal": " 37210 ",
+  "Url": "https://www.relaischateaux.com/us/france/noizay-indre-et-loire-noizay"
+ },
+ {
+  "Hotel": " Le Phébus & Spa - Villa des Anges ",
+  "Chef": " Xavier Mathieu",
+  "CodePostal": " 84220 84220 ",
+  "Url": "https://www.relaischateaux.com/us/france/phebus-vaucluse-gordes"
+ },
+ {
+  "Hotel": " Hôtel Les Barmes de l'Ours ",
+  "Chef": " Antoine Gras",
+  "CodePostal": " 73150 ",
+  "Url": "https://www.relaischateaux.com/us/france/barmes-de-l-ours-savoie"
+ },
+ {
+  "Hotel": " Le Grand Cœur & Spa ",
+  "Chef": " Marc Dach",
+  "CodePostal": " 83980 73550 ",
+  "Url": "https://www.relaischateaux.com/us/france/grandcoeur-savoie-meribel"
+ },
+ {
+  "Hotel": " Le Pré Catelan ",
+  "Chef": " Frédéric Anton",
+  "CodePostal": " 75016 ",
+  "Url": "https://www.relaischateaux.com/us/france/catelan-paris"
+ },
+ {
+  "Hotel": " Hôtel Restaurant Auberge du Père Bise – Jean Sulpice ",
+  "Chef": " Jean Sulpice",
+  "CodePostal": " 74290 ",
+  "Url": "https://www.relaischateaux.com/us/france/bise-haute-savoie-talloires"
+ },
+ {
+  "Hotel": " La Côte Saint Jacques & Spa ",
+  "Chef": " Jean-Michel Lorain",
+  "CodePostal": " 89300 ",
+  "Url": "https://www.relaischateaux.com/us/france/la-cote-saint-jacques-yonne-joigny"
+ },
+ {
+  "Hotel": " La Villa Calvi ",
+  "Chef": " Jerome Voltzenlogel",
+  "CodePostal": " 20260 ",
+  "Url": "https://www.relaischateaux.com/us/france/lavilla-haute-corse-calvi"
+ },
+ {
+  "Hotel": " Hôtel de la Plage ",
+  "Chef": " Yoann Noël",
+  "CodePostal": " 29550 ",
+  "Url": "https://www.relaischateaux.com/us/france/laplage-finistere-sainte-anne-la-palud"
+ },
+ {
+  "Hotel": " Le Saint-James Bouliac ",
+  "Chef": " Nicolas Magie",
+  "CodePostal": " 33270 33270 ",
+  "Url": "https://www.relaischateaux.com/us/france/stjames-gironde-bouliac"
+ },
+ {
+  "Hotel": " Restaurant Alexandre ",
+  "Chef": " Michel Kayser",
+  "CodePostal": " 30128 ",
+  "Url": "https://www.relaischateaux.com/us/france/alexandre-gard-garons"
  }
 ]
