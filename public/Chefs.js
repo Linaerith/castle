@@ -25,7 +25,7 @@ jsonContent.forEach( obj =>
   request(obj.UrlMichelin, function (error, response, html) {
     if (!error && response.statusCode == 200) {
       var $ = cheerio.load(html);
-      
+
       const findChefName = $('.node_poi-chef');
       var chefName = findChefName.children().next().find('.field__items').children().first().text();
 

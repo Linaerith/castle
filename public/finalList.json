@@ -1,0 +1,426 @@
+[
+ {
+  "HotelName": " La Bonne Étape ",
+  "HotelChef": "  Jany Gleize",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/bonneetape-alpes-de-haute-provence-chateau-arnoux",
+  "RestaurantName": " La Bonne Étape",
+  "RestaurantPriceRange": "  Prix - De 35 € à 75 €",
+  "RestauChef": "  Jany Gleize"
+ },
+ {
+  "HotelName": " Brittany & Spa ",
+  "HotelChef": "  Loic Le Bail",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/brittany-finistere-roscoff",
+  "RestaurantName": " Le Brittany",
+  "RestaurantPriceRange": "  Prix - De 58 € à 68 €",
+  "RestauChef": "  Loic Le Bail"
+ },
+ {
+  "HotelName": " Château de La Chèvre d’Or ",
+  "HotelChef": "  Arnaud Faye",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/chevredor-alpes-maritimes-eze-village",
+  "RestaurantName": " La Chèvre d'Or",
+  "RestaurantPriceRange": "  Prix - De 85 € à 300 €",
+  "RestauChef": "  Arnaud Faye, Chef Exécutif et Julien Dugourd, Chef Pâtissier"
+ },
+ {
+  "HotelName": " Au Crocodile ",
+  "HotelChef": "  Franck Pelux",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/crocodile-bas-rhin",
+  "RestaurantName": " Au Crocodile",
+  "RestaurantPriceRange": "  Prix - De 48 € à 148 €",
+  "RestauChef": "  Franck Pelux"
+ },
+ {
+  "HotelName": " Baumanière Hôtel & Spa ",
+  "HotelChef": "  Glenn Viel",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/baumaniere-hotel-spa-les-baux-de-provence",
+  "RestaurantName": " L'Oustau de Baumanière",
+  "RestaurantPriceRange": "  Prix - De 100 € à 220 €",
+  "RestauChef": "  Glenn Viel"
+ },
+ {
+  "HotelName": " Lucas Carton ",
+  "HotelChef": "  Julien Dumas",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/lucascarton-ile-de-france-paris",
+  "RestaurantName": " Lucas Carton",
+  "RestaurantPriceRange": "  Prix - De 89 € à 151 €",
+  "RestauChef": "  Julien Dumas"
+ },
+ {
+  "HotelName": " Le Grand Véfour ",
+  "HotelChef": "  Guy Martin",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/vefour-paris",
+  "RestaurantName": " Le Grand Véfour",
+  "RestaurantPriceRange": "  Prix - De 115 € à 315 €",
+  "RestauChef": "  Guy Martin"
+ },
+ {
+  "HotelName": " L’Arnsbourg Restaurant et Hôtel ",
+  "HotelChef": "  Fabien Mengus",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/arnsbourg-moselle-baerenthal",
+  "RestaurantName": " L'Arnsbourg",
+  "RestaurantPriceRange": "  Prix - De 55 € à 133 €",
+  "RestauChef": "  Fabien Mengus"
+ },
+ {
+  "HotelName": " Villa Florentine ",
+  "HotelChef": "  David Delsart",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/florentine-rhone-lyon",
+  "RestaurantName": " Les Terrasses de Lyon",
+  "RestaurantPriceRange": "  Prix - De 76 € à 120 €",
+  "RestauChef": "  David Delsart"
+ },
+ {
+  "HotelName": " Auberge des Templiers ",
+  "HotelChef": "  Martin Simonart",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/templiers-loiret-boismorand",
+  "RestaurantName": " Auberge des Templiers",
+  "RestaurantPriceRange": "  Prix - De 70 € à 160 €",
+  "RestauChef": "  Martin Simonart"
+ },
+ {
+  "HotelName": " Les Hautes Roches ",
+  "HotelChef": "  Didier Edon",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/hautesroches-indre-et-loire-rochecorbon",
+  "RestaurantName": " Les Hautes Roches",
+  "RestaurantPriceRange": "  Prix - De 60 € à 80 €",
+  "RestauChef": "  Didier Edon"
+ },
+ {
+  "HotelName": " L’Oasis ",
+  "HotelChef": "  Alain Montigny",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/oasis-alpes-maritimes-la-napoule",
+  "RestaurantName": " L'Oasis",
+  "RestaurantPriceRange": "  Prix - De 69 € à 282 €",
+  "RestauChef": "  Alain Montigny"
+ },
+ {
+  "HotelName": " Maison Lameloise ",
+  "HotelChef": "  Eric Pras",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/lameloise-saone-et-loire-chagny",
+  "RestaurantName": " Maison Lameloise",
+  "RestaurantPriceRange": "  Prix - De 82 € à 215 €",
+  "RestauChef": "  Eric Pras"
+ },
+ {
+  "HotelName": " Assiette Champenoise ",
+  "HotelChef": "  Arnaud Lallement",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/assiette-champenoise-champagne-ardenne-tinqueux",
+  "RestaurantName": " Assiette Champenoise",
+  "RestaurantPriceRange": "  Prix - De 95 € à 185 €",
+  "RestauChef": "  Arnaud Lallement"
+ },
+ {
+  "HotelName": " Monte-Carlo Beach ",
+  "HotelChef": "  Paolo Sari",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/montecarlo-alpes-maritimes-roquebrune-cap-martin",
+  "RestaurantName": " Elsa",
+  "RestaurantPriceRange": "  Prix - De 55 € à 160 €",
+  "RestauChef": "  Paolo Sari"
+ },
+ {
+  "HotelName": " Château de Bagnols ",
+  "HotelChef": "  Jean-Alexandre Ouaratta",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/bagnols-rhone-alpes",
+  "RestaurantName": " 1217",
+  "RestaurantPriceRange": "  Prix - De 65 € à 140 €",
+  "RestauChef": "  Jean-Alexandre Ouaratta"
+ },
+ {
+  "HotelName": " Restaurant Gill ",
+  "HotelChef": "  Gilles Tournadre",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/gill-seine-maritime-rouen",
+  "RestaurantName": " Gill",
+  "RestaurantPriceRange": "  Prix - De 45 € à 140 €",
+  "RestauChef": "  Gilles Tournadre"
+ },
+ {
+  "HotelName": " Le Prieuré Baumanière ",
+  "HotelChef": "  Marc Fontanne",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/leprieure-gard-villeneuve-lez-avignon",
+  "RestaurantName": " Le Prieuré",
+  "RestaurantPriceRange": "  Prix - De 36 € à 120 €",
+  "RestauChef": "  Marc Fontanne"
+ },
+ {
+  "HotelName": " Maison Pic ",
+  "HotelChef": "  Anne-Sophie Pic",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/pic-drome-valence",
+  "RestaurantName": " Pic",
+  "RestaurantPriceRange": "  Prix - De 110 € à 330 €",
+  "RestauChef": "  Anne-Sophie Pic"
+ },
+ {
+  "HotelName": " Hôtel Restaurant En Marge ",
+  "HotelChef": "  Frank Renimel",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/hotel-restaurant-en-marge-aureville",
+  "RestaurantName": " En Marge",
+  "RestaurantPriceRange": "  Prix - De 34 € à 145 €",
+  "RestauChef": "  Frank Renimel"
+ },
+ {
+  "HotelName": " Domaine Les Crayères ",
+  "HotelChef": "  Philippe Mille",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/crayeres-marne-reims",
+  "RestaurantName": " Le Parc Les Crayères",
+  "RestaurantPriceRange": "  Prix - De 70 € à 190 €",
+  "RestauChef": "  Philippe Mille"
+ },
+ {
+  "HotelName": " Abbaye de la Bussière ",
+  "HotelChef": "  Guillaume Royer",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/bussiere-cote-d-or-la-bussiere-sur-ouche",
+  "RestaurantName": " 1131",
+  "RestaurantPriceRange": "  Prix moyen - 98 €",
+  "RestauChef": "  Guillaume Royer"
+ },
+ {
+  "HotelName": " Les Hauts de Loire ",
+  "HotelChef": "  Rémy Giraud",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/hauts-loire-loir-et-cher-onzain",
+  "RestaurantName": " Domaine des Hauts de Loire",
+  "RestaurantPriceRange": "  Prix - De 49 € à 165 €",
+  "RestauChef": "  Rémy Giraud"
+ },
+ {
+  "HotelName": " La Signoria & Spa ",
+  "HotelChef": "  Alexandre Fabris",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/signoria-corse-calvi",
+  "RestaurantName": " La Signoria",
+  "RestaurantPriceRange": "  Prix - De 50 € à 95 €",
+  "RestauChef": "  Alexandre Fabris"
+ },
+ {
+  "HotelName": " Château de Mercuès ",
+  "HotelChef": "  Julien Poisot",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/mercues-lot-mercues",
+  "RestaurantName": " Le Duèze",
+  "RestaurantPriceRange": "  Prix - De 39 € à 155 €",
+  "RestauChef": "  Julien Poisot"
+ },
+ {
+  "HotelName": " Restaurant Mirazur ",
+  "HotelChef": "  Mauro Colagreco",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/mirazur-alpes-maritimes-menton",
+  "RestaurantName": " Mirazur",
+  "RestaurantPriceRange": "  Prix - De 160 € à 260 €",
+  "RestauChef": "  Mauro Colagreco"
+ },
+ {
+  "HotelName": " Hôtel & Spa du Castellet ",
+  "HotelChef": "  Christophe Bacquié",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/castellet-var-le-castellet",
+  "RestaurantName": " Christophe Bacquié",
+  "RestaurantPriceRange": "  Prix - De 135 € à 240 €",
+  "RestauChef": "  Christophe Bacquié"
+ },
+ {
+  "HotelName": " La Pyramide Patrick Henriroux ",
+  "HotelChef": "  Patrick Henriroux",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/pyramide-isere-vienne",
+  "RestaurantName": " La Pyramide - Patrick Henriroux",
+  "RestaurantPriceRange": "  Prix - De 66 € à 198 €",
+  "RestauChef": "  Patrick Henriroux"
+ },
+ {
+  "HotelName": " L'Auberge Basque ",
+  "HotelChef": "  Cédric Béchade",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/auberge-basque-saint-pee-sur-nivelle-pyrenees-atlantiques",
+  "RestaurantName": " L'Auberge Basque",
+  "RestaurantPriceRange": "  Prix - De 29 € à 71 €",
+  "RestauChef": "  Cédric Béchade"
+ },
+ {
+  "HotelName": " Le Vieux Logis ",
+  "HotelChef": "  Vincent Arnould",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/vieuxlogis-dordogne-tremolat",
+  "RestaurantName": " Le Vieux Logis",
+  "RestaurantPriceRange": "  Prix - De 50 € à 120 €",
+  "RestauChef": "  Vincent Arnould"
+ },
+ {
+  "HotelName": " La Chapelle Saint-Martin ",
+  "HotelChef": "  Gilles Dudognon",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/chapelle-haute-vienne-nieul",
+  "RestaurantName": " Chapelle Saint-Martin",
+  "RestaurantPriceRange": "  Prix - De 55 € à 89 €",
+  "RestauChef": "  Gilles Dudognon"
+ },
+ {
+  "HotelName": " Hôtel Restaurant Clos des Sens - Laurent PETIT ",
+  "HotelChef": "  Laurent Petit",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/clos-des-sens-haute-savoie",
+  "RestaurantName": " Le Clos des Sens",
+  "RestaurantPriceRange": "  Prix - De 78 € à 198 €",
+  "RestauChef": "  Laurent Petit"
+ },
+ {
+  "HotelName": " Auberge du Jeu de Paume ",
+  "HotelChef": "  Julien Lucas",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/jeudepaume-oise-chantilly",
+  "RestaurantName": " La Table du Connétable",
+  "RestaurantPriceRange": "  Prix - De 67 € à 161 €",
+  "RestauChef": "  Julien Lucas"
+ },
+ {
+  "HotelName": " Le Relais Bernard Loiseau – Spa Loiseau des Sens ",
+  "HotelChef": "  Patrick Bertron",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/loiseau-cote-d-or-saulieu",
+  "RestaurantName": " Le Relais Bernard Loiseau",
+  "RestaurantPriceRange": "  Prix - De 75 € à 250 €",
+  "RestauChef": "  Patrick Bertron"
+ },
+ {
+  "HotelName": " Château de Valmer ",
+  "HotelChef": "  Jimmy Coutel",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/chateau-de-valmer-la-croix-valmer",
+  "RestaurantName": " La Palmeraie",
+  "RestaurantPriceRange": "  Prix - De 28 € à 65 €",
+  "RestauChef": "  Jimmy Coutel"
+ },
+ {
+  "HotelName": " Les Prés d’Eugénie - Maison Guérard ",
+  "HotelChef": "  Michel Guérard",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/guerard-landes-eugenie-les-bains",
+  "RestaurantName": " Les Prés d'Eugénie - Michel Guérard",
+  "RestaurantPriceRange": "  Prix - De 133 € à 255 €",
+  "RestauChef": "  Michel Guérard"
+ },
+ {
+  "HotelName": " Le Chambard ",
+  "HotelChef": "  Olivier Nasti",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/le-chambard-haut-rhin-kaysersberg",
+  "RestaurantName": " La Table d'Olivier Nasti",
+  "RestaurantPriceRange": "  Prix - De 85 € à 205 €",
+  "RestauChef": "  Olivier Nasti"
+ },
+ {
+  "HotelName": " Relais de la Poste ",
+  "HotelChef": "  Jean Coussau",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/poste-landes-magescq",
+  "RestaurantName": " Relais de la Poste",
+  "RestaurantPriceRange": "  Prix - De 59 € à 127 €",
+  "RestauChef": "  Jean Coussau"
+ },
+ {
+  "HotelName": " Restaurant Christopher Coutanceau ",
+  "HotelChef": "  Christopher Coutanceau",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/coutanceau-charente-maritime-la-rochelle",
+  "RestaurantName": " Christopher Coutanceau",
+  "RestaurantPriceRange": "  Prix - De 68 € à 165 €",
+  "RestauChef": "  Christopher Coutanceau"
+ },
+ {
+  "HotelName": " Yoann Conte – Bord du Lac Hôtel Restaurant ",
+  "HotelChef": "  Yoann Conte",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/yoannconte-haute-savoie-veyrier-du-lac",
+  "RestaurantName": " Yoann Conte",
+  "RestaurantPriceRange": "  Prix - De 98 € à 249 €",
+  "RestauChef": "  Yoann Conte"
+ },
+ {
+  "HotelName": " La Maison des Bois – Marc Veyrat ",
+  "HotelChef": "  Marc Veyrat",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/marcveyrat-haute-savoie-manigod",
+  "RestaurantName": " La Maison des Bois - Marc Veyrat",
+  "RestaurantPriceRange": "  Prix - De 295 € à 395 €",
+  "RestauChef": "  Marc Veyrat"
+ },
+ {
+  "HotelName": " Maison Decoret ",
+  "HotelChef": "  Jacques Decoret",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/decoret-allier-vichy",
+  "RestaurantName": " Maison Decoret",
+  "RestaurantPriceRange": "  Prix - De 45 € à 125 €",
+  "RestauChef": "  Jacques Decoret"
+ },
+ {
+  "HotelName": " Villa René Lalique ",
+  "HotelChef": "  Jean-Georges Klein",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/lalique-bas-rhin",
+  "RestaurantName": " Villa René Lalique",
+  "RestaurantPriceRange": "  Prix - De 78 € à 240 €",
+  "RestauChef": "  Jean-Georges Klein et  Paul Stradner"
+ },
+ {
+  "HotelName": " Château d’Adoménil ",
+  "HotelChef": "  Cyril Leclerc",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/adomenil-meurthe-et-moselle-luneville",
+  "RestaurantName": " Château d'Adoménil",
+  "RestaurantPriceRange": "  Prix - De 69 € à 150 €",
+  "RestauChef": "  Cyril Leclerc"
+ },
+ {
+  "HotelName": " Domaine de Rochevilaine ",
+  "HotelChef": "  Maxime Nouail",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/rochevilaine-morbihan-billiers",
+  "RestaurantName": " Domaine de Rochevilaine",
+  "RestaurantPriceRange": "  Prix - De 44 € à 110 €",
+  "RestauChef": "  Maxime Nouail"
+ },
+ {
+  "HotelName": " Hotel & Restaurant Thierry Drapeau ",
+  "HotelChef": "  Thierry Drapeau",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/thierrydrapeau-vendee-saint-sulpice-le-verdon",
+  "RestaurantName": " Thierry Drapeau",
+  "RestaurantPriceRange": "  Prix - De 58 € à 148 €",
+  "RestauChef": "  Thierry Drapeau"
+ },
+ {
+  "HotelName": " Flocons de Sel ",
+  "HotelChef": "  Emmanuel Renaut",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/flocons-haute-savoie-megeve",
+  "RestaurantName": " Flocons de Sel",
+  "RestaurantPriceRange": "  Prix - De 90 € à 168 €",
+  "RestauChef": "  Emmanuel Renaut"
+ },
+ {
+  "HotelName": " Hotel Ile de la Lagune Thalasso & Spa ",
+  "HotelChef": "  Christophe Schmitt",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/ile-de-la-lagune-saint-cyprien",
+  "RestaurantName": " L'Almandin",
+  "RestaurantPriceRange": "  Prix - De 30 € à 108 €",
+  "RestauChef": "  Christophe Schmitt"
+ },
+ {
+  "HotelName": " Le Phébus & Spa - Villa des Anges ",
+  "HotelChef": "  Xavier Mathieu",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/phebus-vaucluse-gordes",
+  "RestaurantName": " Xavier Mathieu",
+  "RestaurantPriceRange": "  Prix - De 80 € à 170 €",
+  "RestauChef": "  Xavier Mathieu"
+ },
+ {
+  "HotelName": " Hôtel Les Barmes de l'Ours ",
+  "HotelChef": "  Antoine Gras",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/barmes-de-l-ours-savoie",
+  "RestaurantName": " La Table de l'Ours",
+  "RestaurantPriceRange": "  Prix - De 95 € à 160 €",
+  "RestauChef": "  Antoine Gras"
+ },
+ {
+  "HotelName": " La Côte Saint Jacques & Spa ",
+  "HotelChef": "  Jean-Michel Lorain",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/la-cote-saint-jacques-yonne-joigny",
+  "RestaurantName": " La Côte Saint-Jacques",
+  "RestaurantPriceRange": "  Prix - De 79 € à 238 €",
+  "RestauChef": "  Jean-Michel Lorain"
+ },
+ {
+  "HotelName": " Le Saint-James Bouliac ",
+  "HotelChef": "  Nicolas Magie",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/stjames-gironde-bouliac",
+  "RestaurantName": " Le Saint-James",
+  "RestaurantPriceRange": "  Prix - De 49 € à 160 €",
+  "RestauChef": "  Nicolas Magie"
+ },
+ {
+  "HotelName": " Restaurant Alexandre ",
+  "HotelChef": "  Michel Kayser",
+  "HotelUrl": " https://www.relaischateaux.com/us/france/alexandre-gard-garons",
+  "RestaurantName": " Alexandre",
+  "RestaurantPriceRange": "  Prix - De 52 € à 118 €",
+  "RestauChef": "  Michel Kayser"
+ }
+]
